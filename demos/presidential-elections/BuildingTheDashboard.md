@@ -85,3 +85,29 @@ And these were used in the following charts:
 At this point, the dashboard should look like this:
 
 ![Final Charts](images/final_charts.png)
+    
+Let's add some decorations.  First, add a headline.  Click on the 'A' in the top bar (text).
+
+![Text Select](images/text-select-1.png)
+
+It will turn blue
+
+![Text Select2](images/text-select-2.png)
+    
+Drag the mouse anywhere in the screen and see an empty box:
+
+![Text Box](images/textbox.png)
+
+Type "Presidential Election Data" in the box, then select the Halo mode and select the box again.  A halo of tools will appear around the textbox, and the right sidebar will pop out.  Use the stylers in the right sidebar to select font and styling of the text, and set the border width to be zero.  use the drag tool (cross, top-right of the halo) to move the bar into position.
+
+![Text Style](images/textstyle.png)
+
+Do this again to add the 1828-2020 subtitle.  The dashboard now looks like this:
+    
+![After Text](images/afterText.png)
+
+Now let's add some images.  Click on the top bar shapes menu and select image
+
+![Select Image](images/image-select.png)
+
+    
