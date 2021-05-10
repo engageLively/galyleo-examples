@@ -106,8 +106,11 @@ Do this again to add the 1828-2020 subtitle.  The dashboard now looks like this:
     
 ![After Text](images/afterText.png)
 
-Now let's add some images.  Click on the top bar shapes menu and select image
+Now let's add some images.  Click on the top bar shapes menu and select image:
 
 ![Select Image](images/image-select.png)
 
+This is a stock image, and we'd like to change it.  This is done by URL.  CLick on the right sidebar and, in the imageURL box, enter the image URL you'd like displayed.  (Of course, ensure that you have the right to use the image first).
+
+![Image URL] (images/set-image-url.png)
     
