@@ -76,6 +76,7 @@ Creating the rest of the views and charts is just a repeat of the steps we've do
 ### Charts
 
 And these were used in the following charts:
+    
 | Chart | View | Chart Type  | Options |
 |-------|-------|-------|-------|
 | VoteByCandidate | VoteByCandidate | Bar Chart | |
@@ -112,19 +113,21 @@ Now let's add some images.  Click on the top bar shapes menu and select image:
 
 This is a stock image, and we'd like to change it.  This is done by URL.  CLick on the right sidebar and, in the imageURL box, enter the image URL you'd like displayed.  (Of course, ensure that you have the right to use the image first).
 
-![Image URL] (images/set-image-url.png)
+![Image URL](images/set-image-url.png)
     
 Of course, also fiddle with border properties, etc., and position.
     
-Four images used in the final dashboard:
+Four images are used in the final dashboard:
     
 | Image | URL |
+|-------|-----|
 | Presidential Seal | https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/200px-Seal_of_the_President_of_the_United_States.svg.png|
 | Democratic Logo | https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DemocraticLogo.svg/1200px-DemocraticLogo.svg.png |
 | Republican Logo | https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Republicanlogo.svg/1200px-Republicanlogo.svg.png |
 | "Bull Moose" Logo | https://upload.wikimedia.org/wikipedia/commons/b/b3/Progressive_Moose_walking.png |
-    
+
+
 The final dashboard is here:
     
-![Final Dashboard](images/final dashboard.png)
-    
+![Final Dashboard](images/final-dashboard.png)
+
