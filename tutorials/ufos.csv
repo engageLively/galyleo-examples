@@ -26678,7 +26678,7 @@ date, month, year, timeofday, country, state, type, duration
 18965, 2, 2000, afternoon, us, ny, changing, 1200
 18965, 2, 2000, afternoon, us, wa, other, 300
 18965, 2, 2000, night, us, wa, unknown, 30
-18965, 2, 2000, night, us, az, unknown, 2`
+18965, 2, 2000, night, us, az, unknown, 2
 18965, 2, 2000, night, us, wa, other, 120
 18965, 2, 2000, night, us, wa, other, 180
 18965, 2, 2000, night, us, wa, cigar, 20
@@ -34190,7 +34190,7 @@ date, month, year, timeofday, country, state, type, duration
 20859, 4, 2005, afternoon, us, ca, circle, 600
 20859, 4, 2005, afternoon, us, az, oval, 45
 20859, 4, 2005, night, us, in, triangle, 60
-20859, 4, 2005, night, us, ca, unknown, 8`
+20859, 4, 2005, night, us, ca, unknown, 8
 21224, 4, 2006, morning, us, oh, triangle, 1800
 21224, 4, 2006, afternoon, gb, , disk, 30
 21224, 4, 2006, afternoon, us, mn, formation, 60
