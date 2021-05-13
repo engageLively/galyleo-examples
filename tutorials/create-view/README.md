@@ -45,5 +45,5 @@ The icons beside the columns turn into hamburgers and the mouse turns into a gra
 
 ![View Selection](images/selection.png)
 
-Select the "country" and "count" columns, and select the "YearFilter" slider widget, then "Update View".  The View now has two columns -- country and count -- and will show the data for the year selec
+Select the "country" and "count" columns, and select the "YearFilter" slider widget, then "Update View".  The View now has two columns -- country and count -- and will show the data for the year selected by the YearFilter widget.
 
