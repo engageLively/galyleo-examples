@@ -20,18 +20,20 @@ In a View, columns are manually chosen -- and, importantly, ordered by the dashb
 # Uses
 
 1. Galyleo Dashboards
-2. Notebooks
+
 
 # Instructions
-As always, fire up a Dashboard from the launcher, and execute Notebook.ipynb to fill the Dashboard with tables
+The loaded, filtered dashboard we created in the filter-table tutorial has been preloaded into this directory.  Double-click on it to open it up.  This is the dashboard you should see, when you open the right sidebar:
 
-When we're done, use the Filter Creation technique, taught in the previous tutorial, to create a Slider filter on the "Year" column, and move the widget somewhere convenient.  Now click on Views; the dashboard should look like this:
+![First Image](images/create-view-1.png)
+
+Click on the views tab
 
 ![View Tab](images/view-tab.png)
 
 Click on Add View to add a view, and get the View Creation popup:
 
-![View Creator](images/view-creation.png)
+![View Creator](images/view-creator.png)
 
 Choose "aggregate_cy" as the table, pick any name other than an existing table as the name, and then click "Create". The View will appear in the Views list, and the View Editor popup will appear
 
