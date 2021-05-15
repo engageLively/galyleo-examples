@@ -1,4 +1,6 @@
-# Techniques for Table Creation using the Galyleo Table Library
+<img src=../../galyleo-logo.png width=200>
+
+# Tutorial 1: Techniques for Table Creation using the Galyleo Table Library
 This tutorial demonstrates the various techniques for creating Galyleo Tables, saving them, and loading them from disk.
 
 # What You'll Learn

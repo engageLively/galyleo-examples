@@ -1,4 +1,6 @@
-# Creating Charts
+<img src=../../galyleo-logo.png width=200>
+
+# Tutorial 5: Creating Charts
 
 At last!  With the prepatory work done, we can now create a responsive chart.  Creating a chart is actually very simple -- most
 of the work was done in creating Views.

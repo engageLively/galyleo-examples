@@ -1,4 +1,6 @@
-# Techniques for Loading a Table using the Galyleo Client Library
+<img src=../../galyleo-logo.png width=200>
+
+# Tutorial 2: Techniques for Loading a Table using the Galyleo Client Library
 
 This tutorial demonstrates  using the Galyleo Dashboard Client to send a table created with the Galyleo Table library to a Galyleo Dashboard.
 

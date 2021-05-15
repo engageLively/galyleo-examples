@@ -1,4 +1,6 @@
-# Adding Images, Text, and Shapes to Your Dashboard
+<img src=../../galyleo-logo.png width=200>
+
+# Tutorial 7: Adding Images, Text, and Shapes to Your Dashboard
 
 Dashboards need (and look better with) explanatory images, text, and shapes.  In this tutorial, we'll show you how to add
 images, texts, and shapes to a dashboard, and how to configure them -- changing size, shape, border, color; for images, the image
