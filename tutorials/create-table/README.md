@@ -31,12 +31,17 @@ Here is an example table:
         "rows": [['tom', 23], ['teresa', 22], ['jill', 36], ['jack', 47], ['dick', 33], ['jennifer', 47], ['harry', 28], ['meghan', 23]]
     }
 ```
+
+# Instructions
+The tutorial is simply executing the three Notebooks provided, in order.  
+
+
 # First Notebook
-The first notebook shows how to create a GalyleoTable, assign types to a schema, load a table from a record, and write a table to a file.  Open and execute FirstNotebook.ipynb
+The first notebook shows how to create a GalyleoTable, assign types to a schema, load a table from a record, and write a table to a file.  Open and execute FirstNotebook.ipynb.
 
 # Second Notebook
-The second notebook shows how to read a GalyleoTable from a file and load it, using JSON
+The second notebook shows how to read a GalyleoTable from a file and load it, using JSON.  The file is the one written by the first Notebook.  A copy is in the repo.
 
 # Third Notebook
-The third notebook shows how to form a GalyleoTable from a Pandas dataframe
+The third notebook shows how to form a GalyleoTable from a Pandas dataframe.
 
