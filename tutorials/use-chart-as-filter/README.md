@@ -1,4 +1,6 @@
-# Using Charts as Filters
+<img src=../../galyleo-logo.png width=200>
+
+# Tutorial 6: Using Charts as Filters
 
 Every chart is inherently a filter; specifically, a select filter on the category, or x-axis of the chart.  In a map, for example,
 this is used to select the region of the map that the user has clicked on; in a pie chart, the wedge.  This is used to drill down

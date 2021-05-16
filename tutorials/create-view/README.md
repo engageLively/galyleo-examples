@@ -1,4 +1,6 @@
-# Creating Views
+<img src=../../galyleo-logo.png width=200>
+
+# Tutorial 4: Creating Views
 
 A View is a subset of a table.  These form the key building blocks for dashboards -- namely, making charts responsive to user actions
 on filters.  While charts can and do use a raw table as a data source, _almost all_ charts -- and _all_ charts that respond to user

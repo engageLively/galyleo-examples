@@ -1,4 +1,6 @@
-# Techniques for Filtering Data
+<img src=../../galyleo-logo.png width=200>
+
+# Tutorial 3: Techniques for Filtering Data
 
 This tutorial demonstrates  building a filter to filter rows from one or more tables in response to user inputs
 # What You'll Learn

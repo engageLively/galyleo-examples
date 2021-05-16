@@ -1,3 +1,5 @@
+<img src=../galyleo-logo.png width=200>
+
 # Guide to the Tutorials
 
 There are (at this writing) seven tutorials in this directory.  They are:
