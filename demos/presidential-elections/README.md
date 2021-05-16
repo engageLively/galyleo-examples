@@ -10,18 +10,23 @@ walk through the construction of that dashboard, which illustrates many of the c
 
 (This step can be skipped: to skip, use elections.csv in this directory).
 
-Download the database from: [Cook Political Report Elections Database](https://docs.google.com/spreadsheets/d/1D-edaVHTnZNhVU840EPUhz3Cgd7m39Urx7HM8Pq6Pus/edit#gid=29622862).  Delete columns OJ-QG and B-HO, and rows 55-60.  After this, check column DD, Row 2.   This is the entry for Teddy Roosevelt in the 1904 election.  At this writing (4/26/2021) the Cook database has this (erroneously) as "Democratic".  Teddy Roosevelt was a Republican, so change this if the error is still there.  Further, the entry for Millard Fillmore in 1856 has two dashes, so delete " - "Know-Nothing" (in the South) / Whig (in the North)" (this is in ET, Row 2).  Save the result as a csv file.  The result  is elections.csv in this directory
+Download the database from: [Cook Political Report Elections Database](https://docs.google.com/spreadsheets/d/1D-edaVHTnZNhVU840EPUhz3Cgd7m39Urx7HM8Pq6Pus/edit#gid=29622862).  Delete columns OJ-QG and B-HO, and rows 55-60.  After this, check column DD, Row 2.   This is the entry for Teddy Roosevelt in the 1904 election.  At this writing (4/26/2021) the Cook database has this (erroneously) as "Democratic".  Teddy Roosevelt was a Republican, so change this if the error is still there.  Further, the entry for Millard Fillmore in 1856 has two dashes, so delete " - "Know-Nothing" (in the South) / Whig (in the North)" (this is in ET, Row 2).  Save the result as a csv file.  The result  is elections.csv in this directory.
 
 # Building the Dashboard
 Typically, a dashboard is built alongside the Notebook which is supplying it data. In fact, the call `client.send_data_to_dashboard(table)` sends a table to an _open_ dashboard tab.  So start by clicking File>New>Galyleo Dashboard to get an open dashboard.
 
 ![File Menu](images/image1.png)
 
-We can't do much with the dashboard until it has some data, so just merrily execute cells until you've executed the first `client.send_data_to_dashboard(table)`.  At this point, click over to the untitled.gd.json tab and see that there's a table in the Table box (make sure Tables is selected in the tab chooser at the top right).
+Now open up Elections.ipynb in this directory.  As with most examples, the Notebook is the source of data for the dashboard.  Execute  cells in the Notebook until you've executed the first `client.send_data_to_dashboard(table)`.
+
+![First Execution](images/execute-first-send.png)
+
+At this point, click over to the untitled.gd.json tab and see that there's a table in the Table box (make sure Tables is selected in the tab chooser at the top right).
 
 ![First Table](images/first_table.png)
 
-We will need some more data on the dashboard before we turn this into a table.  However, this table does have a "Year" column, and we are going to want to create a filter for that.
+We will need some more data on the dashboard before we turn this into a chart.  However, this table does have a "Year" column, and we are going to want to create a filter for that.
+
 _About filters_: A _filter_ is a user interface element that selects a value (or range of values) from a column.  This can be used to choose subsets of rows from a particular table, to create what we call a _view_.  A _Select_ filter chooses a specific value; a _Range_ filter chooses a range of values.  This is the way that the dashboard viewer chooses what data to display on a dashboard.  In this case, we're going to get a Slider (an example of a Select filter) to choose the year.  So click over to the "Filters" tab, click on add filter, type "YearFilter" into the name input of the popup, choose "slider" from the Filter Type pulldown menu and "Year" from the column pulldown menu, then click "Create Filter".
 
 ![Filter popup](images/filter.png)
