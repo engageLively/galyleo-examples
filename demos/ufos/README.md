@@ -67,6 +67,8 @@ There are six charts on the dashboard, one per view.  They are:
 | CountryType | Pie Chart | CountryType |
 | StateType | Pie Chart | StateType |
 
+Note that CountryCount and StateYear are 
+
 ## Credits
 
 *Image Credit*: "Starlink 5 train - 21st April 2020 21:19 BST" by jabberwock is licensed with CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/
