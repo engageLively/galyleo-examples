@@ -2,7 +2,8 @@
 
 # UFO Sightings
 The [National UFO Reporting Center (NUFORC)](http://www.nuforc.org/) maintains a database of over 80,000 UFO sightings over the last century.  NUFORC, a volunteer organization, cautions its visitors that "We always caution visitors to our website to be discriminating with regard to what information posted there they accept as being true and accurate", and this dataset should be taken with that in mind.  This is particularly the case recently, since [Starlink satellites have been deployed across the night sky](https://en.wikipedia.org/wiki/Starlink), forming arresting images of lines of satellites in the night sky:
-![Starlink train] (images/starlink_train.jpg)
+
+![Starlink train](images/starlink_train.jpg)
 
 ## The Dataset
 
