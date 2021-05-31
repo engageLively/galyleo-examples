@@ -67,7 +67,7 @@ There are six charts on the dashboard, one per view.  They are:
 | CountryType | Pie Chart | CountryType |
 | StateType | Pie Chart | StateType |
 
-Note that CountryCount and StateYear are 
+Note that CountryCount and StateYear are also used as filters.
 
 ## Credits
 
