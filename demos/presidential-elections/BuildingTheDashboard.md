@@ -1,3 +1,5 @@
+<img src= ../../galyleo-logo.png width=200>
+
 # Building the Dashboard
 Typically, a dashboard is built alongside the Notebook which is supplying it data. In fact, the call `client.send_data_to_dashboard(table)` sends a table to an _open_ dashboard tab.  So start by clicking File>New>Galyleo Dashboard to get an open dashboard.
 
