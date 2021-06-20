@@ -8,3 +8,6 @@ The dataset comprises 24 months' worth of disease, wound, and other death data. 
 
 ## Original Dataset attribution
 The original dataset is taken from [Nightingale's Rose](https://github.com/datasets-io/nightingales-rose/), and is copyright the [Compute.io](https://github.com/compute-io) authors.
+
+## Dataset Augmentation
+The original dataset is augmented by Pandas operations in Notebook.ipynb.  The resulting summary table is saved in nightingale.csv; the detail table in records.csv.
