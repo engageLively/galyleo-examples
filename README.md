@@ -20,4 +20,4 @@ Tutorial examples are in the subdirectory _tutorials_.  They are typically very 
 
 ## Demonstration Examples
 
-Demonstration examples are in the subdirectory _demos_.  These are longer and more elaborate, and are designed to illustrate fully-feetured dashboards
+Demonstration examples are in the subdirectory _demos_.  These are longer and more elaborate, and are designed to illustrate fully-featured dashboards
