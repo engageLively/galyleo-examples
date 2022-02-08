@@ -12,3 +12,6 @@ The data set was downloaded from [MIT Senate Elections dataset](https://datavers
 ## Use of Pandas
 The Presidential Elections Notebook used only raw Python; this Notebook uses Pandas to illustrate the power of this library/analytics environment.  The net is that this Notebook is only 35 lines of code, largely because Pandas abstracted away most of the complex operations.
 
+## Seeing the Dashboard
+The final  dashboard can be found at [Senate Elections](https://galyleobeta.engagelively.com/public/galyleo/index.html?dashboard=https://raw.githubusercontent.com/engageLively/galyleo-examples/main/demos/senate-elections/senate-elections.gd.json)
+
