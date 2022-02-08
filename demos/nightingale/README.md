@@ -6,6 +6,9 @@ Modern hospital care and nursing can be said to have begun with the English stat
 ## Using the Dashboard
 The dataset comprises 24 months' worth of disease, wound, and other death data.  Months 1-12 (April, 1854 - March, 1856) are pre- Ms. Nightingale's reforms.  Months 13-24 (April, 1855-March 1856) are post-reform.  As a result, the dashboard is in two halves, with double sliders controlling each half.  Move the sliders to adjust the x-axis bounds for the line charts; click on a bar on the line charts to see detail.  Comparing data from each period shows the efficacy of the reforms, and is one of the most influential visualizations ever made.
 
+## Viewing the Dashboard
+The final dashboard can be viewed at [Florence Nightingale Dashboard](https://galyleobeta.engagelively.com/public/galyleo/index.html?dashboard=https://raw.githubusercontent.com/engageLively/galyleo-examples/main/demos/nightingale/nightingale.gd.json)
+
 ## Original Dataset attribution
 The original dataset is taken from [Nightingale's Rose](https://github.com/datasets-io/nightingales-rose/), and is copyright the [Compute.io](https://github.com/compute-io) authors.
 
