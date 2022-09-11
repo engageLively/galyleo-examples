@@ -1,0 +1,132 @@
+{
+    "tables": [
+        {
+            "electoral_college": {
+                "columns": [
+                    {
+                        "name": "Year",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Democratic",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Republican",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Other",
+                        "type": "number"
+                    }
+                ],
+                "connector": {
+                    "url": "https://engagelively.wl.r.appspot.com/"
+                }
+            },
+            "nationwide_vote": {
+                "columns": [
+                    {
+                        "name": "Year",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Party",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Percentage",
+                        "type": "number"
+                    }
+                ],
+                "presidential_margins": [
+                    {
+                        "name": "State",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Year",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Margin",
+                        "type": "number"
+                    }
+                ],
+                "connector": {
+                    "url": "https://engagelively.wl.r.appspot.com/"
+                }
+            },
+            "presidential_vote": {
+                "columns": [
+                    {
+                        "name": "Year",
+                        "type": "number"
+                    },
+                    {
+                        "name": "State",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Name",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Party",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Votes",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Percentage",
+                        "type": "number"
+                    }
+                ],
+                "connector": {
+                    "url": "https://engagelively.wl.r.appspot.com/"
+                }
+            },
+            "presidential_vote_history": {
+                "columns": [
+                    {
+                        "name": "State",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Year",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Democratic",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Republican",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Progressive",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Socialist",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Reform",
+                        "type": "number"
+                    },
+                    {
+                        "name": "Other",
+                        "type": "number"
+                    }
+                ],
+                "connector": {
+                    "url": "https://engagelively.wl.r.appspot.com/"
+                }
+            }
+        }
+    ]
+}
