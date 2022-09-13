@@ -1,0 +1,3 @@
+{
+    "dashboards": ["nightingale/nightingale.gd.json", "presidential-elections/elections.gd.json", "presidential-elections/elections-remote.gd.json", "senate-elections/senate2.gd.json", "senate-elections/senate-elections.gd.json", "ufos-pandas/ufos.gd.json", "ufos/ufos.gd.json"]
+}
