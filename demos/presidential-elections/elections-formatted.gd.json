@@ -75945,6 +75945,117 @@
         }
     },
     "charts": {
+        "State Vote History": {
+            "chartType": "LineChart",
+            "options": {
+                "hAxis": {
+                    "useFormatFromData": true,
+                    "viewWindow": {
+                        "max": null,
+                        "min": null
+                    },
+                    "minValue": null,
+                    "maxValue": null
+                },
+                "legacyScatterChartLabels": true,
+                "vAxes": [
+                    {
+                        "useFormatFromData": true,
+                        "viewWindow": {
+                            "max": null,
+                            "min": null
+                        },
+                        "minValue": null,
+                        "maxValue": null
+                    },
+                    {
+                        "useFormatFromData": true,
+                        "viewWindow": {
+                            "max": null,
+                            "min": null
+                        },
+                        "minValue": null,
+                        "maxValue": null
+                    }
+                ],
+                "curveType": "",
+                "booleanRole": "certainty",
+                "lineWidth": 2,
+                "legend": "right",
+                "width": "100%",
+                "height": "100%",
+                "useFirstColumnAsDomain": true,
+                "title": "Vote History where State = Texas"
+            },
+            "viewOrTable": "Vote History",
+            "morphIndex": 7,
+            "morphicProperties": {
+                "rotation": 0,
+                "scale": 1,
+                "clipMode": "hidden",
+                "opacity": 1,
+                "position": {
+                    "x": 855.2109375,
+                    "y": 517.05078125
+                },
+                "extent": {
+                    "x": 367.9765625,
+                    "y": 193.10546875
+                },
+                "fill": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 0.05
+                },
+                "border": {
+                    "style": {
+                        "top": "solid",
+                        "left": "solid",
+                        "bottom": "solid",
+                        "right": "solid"
+                    },
+                    "width": {
+                        "top": 1,
+                        "right": 1,
+                        "bottom": 1,
+                        "left": 1
+                    },
+                    "color": {
+                        "top": {
+                            "r": 0.5019607843137255,
+                            "g": 0.5019607843137255,
+                            "b": 0.5019607843137255,
+                            "a": 1
+                        },
+                        "left": {
+                            "r": 0.5019607843137255,
+                            "g": 0.5019607843137255,
+                            "b": 0.5019607843137255,
+                            "a": 1
+                        },
+                        "right": {
+                            "r": 0.5019607843137255,
+                            "g": 0.5019607843137255,
+                            "b": 0.5019607843137255,
+                            "a": 1
+                        },
+                        "bottom": {
+                            "r": 0.5019607843137255,
+                            "g": 0.5019607843137255,
+                            "b": 0.5019607843137255,
+                            "a": 1
+                        }
+                    },
+                    "borderRadius": {
+                        "top": 10,
+                        "right": 10,
+                        "bottom": 10,
+                        "left": 10
+                    }
+                }
+            }
+        },
         "MarginMap": {
             "chartType": "GeoChart",
             "options": {
@@ -76007,117 +76118,6 @@
                 "extent": {
                     "x": 403.92578125,
                     "y": 368.04296875
-                },
-                "fill": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0,
-                    "a": 0.05
-                },
-                "border": {
-                    "style": {
-                        "top": "solid",
-                        "left": "solid",
-                        "bottom": "solid",
-                        "right": "solid"
-                    },
-                    "width": {
-                        "top": 1,
-                        "right": 1,
-                        "bottom": 1,
-                        "left": 1
-                    },
-                    "color": {
-                        "top": {
-                            "r": 0.5019607843137255,
-                            "g": 0.5019607843137255,
-                            "b": 0.5019607843137255,
-                            "a": 1
-                        },
-                        "left": {
-                            "r": 0.5019607843137255,
-                            "g": 0.5019607843137255,
-                            "b": 0.5019607843137255,
-                            "a": 1
-                        },
-                        "right": {
-                            "r": 0.5019607843137255,
-                            "g": 0.5019607843137255,
-                            "b": 0.5019607843137255,
-                            "a": 1
-                        },
-                        "bottom": {
-                            "r": 0.5019607843137255,
-                            "g": 0.5019607843137255,
-                            "b": 0.5019607843137255,
-                            "a": 1
-                        }
-                    },
-                    "borderRadius": {
-                        "top": 10,
-                        "right": 10,
-                        "bottom": 10,
-                        "left": 10
-                    }
-                }
-            }
-        },
-        "State Vote History": {
-            "chartType": "LineChart",
-            "options": {
-                "hAxis": {
-                    "useFormatFromData": true,
-                    "viewWindow": {
-                        "max": null,
-                        "min": null
-                    },
-                    "minValue": null,
-                    "maxValue": null
-                },
-                "legacyScatterChartLabels": true,
-                "vAxes": [
-                    {
-                        "useFormatFromData": true,
-                        "viewWindow": {
-                            "max": null,
-                            "min": null
-                        },
-                        "minValue": null,
-                        "maxValue": null
-                    },
-                    {
-                        "useFormatFromData": true,
-                        "viewWindow": {
-                            "max": null,
-                            "min": null
-                        },
-                        "minValue": null,
-                        "maxValue": null
-                    }
-                ],
-                "curveType": "",
-                "booleanRole": "certainty",
-                "lineWidth": 2,
-                "legend": "right",
-                "width": "100%",
-                "height": "100%",
-                "useFirstColumnAsDomain": true,
-                "title": "Vote History where State = Texas"
-            },
-            "viewOrTable": "Vote History",
-            "morphIndex": 7,
-            "morphicProperties": {
-                "rotation": 0,
-                "scale": 1,
-                "clipMode": "hidden",
-                "opacity": 1,
-                "position": {
-                    "x": 855.2109375,
-                    "y": 517.05078125
-                },
-                "extent": {
-                    "x": 367.9765625,
-                    "y": 193.10546875
                 },
                 "fill": {
                     "r": 0,
