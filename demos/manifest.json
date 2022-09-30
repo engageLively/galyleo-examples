@@ -1,3 +1,3 @@
 {
-    "dashboards": ["nightingale/nightingale", "presidential-elections/elections", "presidential-elections/elections-remote",  "presidential-elections/elections-formatted", "senate-elections/senate2", "senate-elections/senate-elections", "ufos-pandas/ufos", "ufos/ufos"]
+    "dashboards": ["nightingale/nightingale", "presidential-elections/elections", "presidential-elections/elections-remote",  "presidential-elections/elections-formatted", "presidential-elections/elections-new", "senate-elections/senate2", "senate-elections/senate-elections", "ufos-pandas/ufos", "ufos/ufos"]
 }
