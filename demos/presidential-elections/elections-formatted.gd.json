@@ -75894,7 +75894,7 @@
                 "Other"
             ],
             "filterNames": [
-                "Margin"
+                "MarginMap"
             ],
             "filterList": []
         },
@@ -75906,7 +75906,7 @@
             ],
             "filterNames": [
                 "YearFilter",
-                "Margin"
+                "MarginMap"
             ],
             "filterList": []
         },
@@ -75930,7 +75930,7 @@
             ],
             "filterNames": [
                 "YearFilter",
-                "Margin"
+                "MarginMap"
             ]
         },
         "national_vote": {
@@ -75945,7 +75945,7 @@
         }
     },
     "charts": {
-        "Margin": {
+        "MarginMap": {
             "chartType": "GeoChart",
             "options": {
                 "hAxis": {
