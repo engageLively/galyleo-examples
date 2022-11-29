@@ -128,5 +128,9 @@
                 }
             }
         }
-    ]
+    ],
+    filters: {},
+    views: {},
+    charts: {},
+    morphs: {}
 }
