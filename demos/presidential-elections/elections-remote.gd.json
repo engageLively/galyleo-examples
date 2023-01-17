@@ -1,132 +1,1697 @@
 {
-    "tables": [
+  "fill": "Color.white",
+  "tables": {
+    "electoral_college": {
+      "columns": [
         {
-            "electoral_college": {
-                "columns": [
-                    {
-                        "name": "Year",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Democratic",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Republican",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Other",
-                        "type": "number"
-                    }
-                ],
-                "connector": {
-                    "url": "https://engagelively.wl.r.appspot.com/"
-                }
-            },
-            "nationwide_vote": {
-                "columns": [
-                    {
-                        "name": "Year",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Party",
-                        "type": "string"
-                    },
-                    {
-                        "name": "Percentage",
-                        "type": "number"
-                    }
-                ],
-                "presidential_margins": [
-                    {
-                        "name": "State",
-                        "type": "string"
-                    },
-                    {
-                        "name": "Year",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Margin",
-                        "type": "number"
-                    }
-                ],
-                "connector": {
-                    "url": "https://engagelively.wl.r.appspot.com/"
-                }
-            },
-            "presidential_vote": {
-                "columns": [
-                    {
-                        "name": "Year",
-                        "type": "number"
-                    },
-                    {
-                        "name": "State",
-                        "type": "string"
-                    },
-                    {
-                        "name": "Name",
-                        "type": "string"
-                    },
-                    {
-                        "name": "Party",
-                        "type": "string"
-                    },
-                    {
-                        "name": "Votes",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Percentage",
-                        "type": "number"
-                    }
-                ],
-                "connector": {
-                    "url": "https://engagelively.wl.r.appspot.com/"
-                }
-            },
-            "presidential_vote_history": {
-                "columns": [
-                    {
-                        "name": "State",
-                        "type": "string"
-                    },
-                    {
-                        "name": "Year",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Democratic",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Republican",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Progressive",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Socialist",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Reform",
-                        "type": "number"
-                    },
-                    {
-                        "name": "Other",
-                        "type": "number"
-                    }
-                ],
-                "connector": {
-                    "url": "https://engagelively.wl.r.appspot.com/"
-                }
-            }
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Democratic",
+          "type": "number"
+        },
+        {
+          "name": "Republican",
+          "type": "number"
+        },
+        {
+          "name": "Other",
+          "type": "number"
         }
-    ]
+      ],
+      "connector": {
+        "url": "https://engagelively.wl.r.appspot.com/"
+      }
+    },
+    "nationwide_vote": {
+      "columns": [
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Party",
+          "type": "string"
+        },
+        {
+          "name": "Percentage",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://engagelively.wl.r.appspot.com/"
+      }
+    },
+    "presidential_vote": {
+      "columns": [
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "State",
+          "type": "string"
+        },
+        {
+          "name": "Name",
+          "type": "string"
+        },
+        {
+          "name": "Party",
+          "type": "string"
+        },
+        {
+          "name": "Votes",
+          "type": "number"
+        },
+        {
+          "name": "Percentage",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://engagelively.wl.r.appspot.com/"
+      }
+    },
+    "presidential_vote_history": {
+      "columns": [
+        {
+          "name": "State",
+          "type": "string"
+        },
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Democratic",
+          "type": "number"
+        },
+        {
+          "name": "Republican",
+          "type": "number"
+        },
+        {
+          "name": "Progressive",
+          "type": "number"
+        },
+        {
+          "name": "Socialist",
+          "type": "number"
+        },
+        {
+          "name": "Reform",
+          "type": "number"
+        },
+        {
+          "name": "Other",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://engagelively.wl.r.appspot.com/"
+      }
+    },
+    "presidential_margins": {
+      "columns": [
+        {
+          "name": "State",
+          "type": "string"
+        },
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Margin",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://engageLively.wl.r.appspot.com"
+      }
+    },
+    "nationwide_vote_history": {
+      "columns": [
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Democratic",
+          "type": "number"
+        },
+        {
+          "name": "Republican",
+          "type": "number"
+        },
+        {
+          "name": "Progressive",
+          "type": "number"
+        },
+        {
+          "name": "Socialist",
+          "type": "number"
+        },
+        {
+          "name": "Reform",
+          "type": "number"
+        },
+        {
+          "name": "Other",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://engageLively.wl.r.appspot.com"
+      }
+    }
+  },
+  "views": {
+    "MarginMap": {
+      "table": "presidential_margins",
+      "columns": [
+        "State",
+        "Margin"
+      ],
+      "filterNames": [
+        "YearFilter"
+      ]
+    },
+    "PctParty": {
+      "table": "presidential_vote",
+      "columns": [
+        "Party",
+        "Percentage"
+      ],
+      "filterNames": [
+        "YearFilter",
+        "MarginMap"
+      ]
+    },
+    "NamevVotes": {
+      "table": "presidential_vote",
+      "columns": [
+        "Name",
+        "Votes"
+      ],
+      "filterNames": [
+        "YearFilter",
+        "MarginMap"
+      ]
+    },
+    "ec": {
+      "table": "electoral_college",
+      "columns": [
+        "Democratic",
+        "Republican",
+        "Other"
+      ],
+      "filterNames": [
+        "YearFilter"
+      ]
+    },
+    "PopularVote": {
+      "table": "nationwide_vote",
+      "columns": [
+        "Party",
+        "Percentage"
+      ],
+      "filterNames": [
+        "YearFilter"
+      ]
+    },
+    "VoteHistory": {
+      "table": "presidential_vote_history",
+      "columns": [
+        "Year",
+        "Democratic",
+        "Republican",
+        "Progressive",
+        "Socialist",
+        "Reform",
+        "Other"
+      ],
+      "filterNames": [
+        "YearZoomer",
+        "MarginMap"
+      ]
+    },
+    "NationalVoteHistory": {
+      "table": "nationwide_vote_history",
+      "columns": [
+        "Year",
+        "Democratic",
+        "Republican",
+        "Progressive",
+        "Socialist",
+        "Reform",
+        "Other"
+      ],
+      "filterNames": [
+        "YearZoomer"
+      ]
+    }
+  },
+  "charts": {
+    "MarginMap": {
+      "chartType": "GeoChart",
+      "options": {
+        "hAxis": {
+          "useFormatFromData": true,
+          "viewWindow": {
+            "max": null,
+            "min": null
+          },
+          "minValue": null,
+          "maxValue": null
+        },
+        "legacyScatterChartLabels": true,
+        "vAxes": [
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          }
+        ],
+        "displayMode": "regions",
+        "booleanRole": "certainty",
+        "colors": [
+          "#DC3912",
+          "#ffffff",
+          "#0000ff"
+        ],
+        "defaultColor": "#000000",
+        "width": "100%",
+        "height": "100%",
+        "region": "US",
+        "resolution": "provinces",
+        "datalessRegionColor": "#000000",
+        "title": "Margin v State where Year = 1900"
+      },
+      "viewOrTable": "MarginMap",
+      "morphIndex": 4,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 444,
+          "y": 318
+        },
+        "extent": {
+          "x": 420,
+          "y": 330
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "PctParty": {
+      "chartType": "BarChart",
+      "options": {
+        "legacyScatterChartLabels": true,
+        "legend": "right",
+        "useFirstColumnAsDomain": true,
+        "isStacked": false,
+        "booleanRole": "certainty",
+        "vAxes": [
+          {
+            "minValue": null,
+            "maxValue": null,
+            "viewWindow": null,
+            "viewWindowMode": null,
+            "useFormatFromData": true
+          },
+          {
+            "useFormatFromData": true
+          }
+        ],
+        "hAxis": {
+          "viewWindow": {
+            "max": null,
+            "min": null
+          },
+          "minValue": null,
+          "maxValue": null,
+          "useFormatFromData": true
+        },
+        "width": "100%",
+        "height": "100%",
+        "title": "Percentage v Party where Year = 1900, State = Vermont"
+      },
+      "viewOrTable": "PctParty",
+      "morphIndex": 5,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 2,
+          "y": 424
+        },
+        "extent": {
+          "x": 420,
+          "y": 330
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "NamevVotes": {
+      "chartType": "ColumnChart",
+      "options": {
+        "hAxis": {
+          "useFormatFromData": true,
+          "viewWindow": null,
+          "minValue": null,
+          "maxValue": null,
+          "viewWindowMode": null
+        },
+        "legacyScatterChartLabels": true,
+        "vAxes": [
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          }
+        ],
+        "isStacked": false,
+        "booleanRole": "certainty",
+        "legend": "right",
+        "width": "100%",
+        "height": "100%",
+        "title": "Votes v Name where Year = 1900, State = Vermont"
+      },
+      "viewOrTable": "NamevVotes",
+      "morphIndex": 6,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": -2,
+          "y": 78
+        },
+        "extent": {
+          "x": 420,
+          "y": 330
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "ec": {
+      "chartType": "Gauge",
+      "options": {
+        "hAxis": {
+          "viewWindow": {
+            "max": null,
+            "min": null
+          },
+          "useFormatFromData": true,
+          "minValue": null,
+          "maxValue": null
+        },
+        "legacyScatterChartLabels": true,
+        "title": "Republican, Other v Democratic where Year = 1900",
+        "useFirstColumnAsDomain": true,
+        "vAxes": [
+          {
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null,
+            "useFormatFromData": true
+          },
+          {
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null,
+            "useFormatFromData": true
+          }
+        ],
+        "booleanRole": "certainty",
+        "width": "100%",
+        "height": "100%",
+        "min": "0",
+        "max": "538"
+      },
+      "viewOrTable": "ec",
+      "morphIndex": 1,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 1022,
+          "y": 149
+        },
+        "extent": {
+          "x": 569,
+          "y": 280
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "PopularVote": {
+      "chartType": "PieChart",
+      "options": {
+        "hAxis": {
+          "useFormatFromData": true,
+          "viewWindow": {
+            "max": null,
+            "min": null
+          },
+          "minValue": null,
+          "maxValue": null
+        },
+        "legacyScatterChartLabels": true,
+        "vAxes": [
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          }
+        ],
+        "is3D": false,
+        "pieHole": "0.25",
+        "booleanRole": "certainty",
+        "width": "100%",
+        "height": "100%",
+        "useFirstColumnAsDomain": true,
+        "title": "Percentage v Party where Year = 1900",
+        "backgroundColor": {
+          "fill": "#ffffff"
+        },
+        "pieSliceBorderColor": "#ffffff"
+      },
+      "viewOrTable": "PopularVote",
+      "morphIndex": 2,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 853,
+          "y": 350
+        },
+        "extent": {
+          "x": 338,
+          "y": 186
+        },
+        "fill": "Color.rgba(255,255,255,0)",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "VoteHistory": {
+      "chartType": "LineChart",
+      "options": {
+        "hAxis": {
+          "useFormatFromData": true,
+          "viewWindow": {
+            "max": null,
+            "min": null
+          },
+          "minValue": null,
+          "maxValue": null
+        },
+        "legacyScatterChartLabels": true,
+        "legend": "right",
+        "useFirstColumnAsDomain": true,
+        "vAxes": [
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null,
+            "logScale": false
+          },
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null,
+            "logScale": false
+          }
+        ],
+        "curveType": "",
+        "booleanRole": "certainty",
+        "lineWidth": 2,
+        "width": "100%",
+        "height": "100%",
+        "title": "VoteHistory where 2020 >= Year >= 1983, State = Vermont"
+      },
+      "viewOrTable": "VoteHistory",
+      "morphIndex": 15,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 1039,
+          "y": 348
+        },
+        "extent": {
+          "x": 600,
+          "y": 178
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "NationalVoteHistory": {
+      "chartType": "LineChart",
+      "options": {
+        "hAxis": {
+          "useFormatFromData": true,
+          "viewWindow": {
+            "max": null,
+            "min": null
+          },
+          "minValue": null,
+          "maxValue": null
+        },
+        "legacyScatterChartLabels": true,
+        "vAxes": [
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          }
+        ],
+        "curveType": "",
+        "booleanRole": "certainty",
+        "lineWidth": 2,
+        "legend": "right",
+        "width": "100%",
+        "height": "100%",
+        "useFirstColumnAsDomain": true,
+        "title": "NationalVoteHistory where 2020 >= Year >= 1983"
+      },
+      "viewOrTable": "NationalVoteHistory",
+      "morphIndex": 0,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 1029,
+          "y": 530
+        },
+        "extent": {
+          "x": 586,
+          "y": 158
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    }
+  },
+  "filters": {
+    "YearFilter": {
+      "savedForm": {
+        "part": {
+          "moduleId": "galyleo-dashboard/studio/filters.cp.js",
+          "exportedName": "SliderFilter",
+          "range": {
+            "start": 50087,
+            "end": 50250
+          }
+        },
+        "tableName": null,
+        "filterType": "NumericSelect",
+        "columnName": "Year",
+        "minVal": 1828,
+        "maxVal": 2020,
+        "value": 1900,
+        "increment": 4
+      },
+      "morphIndex": 3,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 528,
+          "y": 677
+        },
+        "extent": {
+          "x": 250,
+          "y": 100
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            },
+            "left": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            },
+            "right": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            },
+            "bottom": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 10,
+            "topRight": 10,
+            "bottomRight": 10,
+            "bottomLeft": 10
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "YearZoomer": {
+      "savedForm": {
+        "part": {
+          "moduleId": "galyleo-dashboard/studio/filters.cp.js",
+          "exportedName": "DoubleSliderFilter",
+          "range": {
+            "start": 18362,
+            "end": 18558
+          }
+        },
+        "tableName": null,
+        "filterType": "Range",
+        "columnName": "Year",
+        "minVal": 1828,
+        "maxVal": 2020,
+        "min": 1983,
+        "max": 2020,
+        "increment": 4
+      },
+      "morphIndex": 11,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 1184,
+          "y": 690
+        },
+        "extent": {
+          "x": 295,
+          "y": 100
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            },
+            "left": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            },
+            "right": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            },
+            "bottom": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 10,
+            "topRight": 10,
+            "bottomRight": 10,
+            "bottomLeft": 10
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    }
+  },
+  "morphs": [
+    {
+      "type": "Label",
+      "name": "aLabel",
+      "morphIndex": 7,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 481.1,
+          "y": 213.9
+        },
+        "extent": {
+          "x": 489,
+          "y": 42
+        },
+        "fill": "Color.transparent",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "type": "Label",
+      "name": "aLabel",
+      "morphIndex": 8,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 631.1,
+          "y": 272.9
+        },
+        "extent": {
+          "x": 188,
+          "y": 47
+        },
+        "fill": "Color.transparent",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "type": "Image",
+      "name": "anImage",
+      "morphIndex": 9,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "auto",
+        "opacity": 1,
+        "position": {
+          "x": 480.1,
+          "y": 67.9
+        },
+        "extent": {
+          "x": 150,
+          "y": 150
+        },
+        "fill": "Color.transparent",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "left": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "right": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "bottom": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Seal_of_the_President_of_the_United_States.svg"
+    },
+    {
+      "type": "Image",
+      "name": "anImage",
+      "morphIndex": 10,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "auto",
+        "opacity": 1,
+        "position": {
+          "x": 714.1,
+          "y": 86.9
+        },
+        "extent": {
+          "x": 240,
+          "y": 120
+        },
+        "fill": "Color.transparent",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "left": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "right": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "bottom": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "imageUrl": "data:image/jpeg;base64,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"
+    },
+    {
+      "type": "Image",
+      "name": "anImage",
+      "morphIndex": 12,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "auto",
+        "opacity": 1,
+        "position": {
+          "x": 1245.1,
+          "y": 62.900000000000006
+        },
+        "extent": {
+          "x": 94,
+          "y": 82
+        },
+        "fill": "Color.transparent",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "left": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "right": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "bottom": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Republicanlogo.svg/2359px-Republicanlogo.svg.png"
+    },
+    {
+      "type": "Image",
+      "name": "anImage",
+      "morphIndex": 13,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "auto",
+        "opacity": 1,
+        "position": {
+          "x": 1058,
+          "y": 59
+        },
+        "extent": {
+          "x": 90,
+          "y": 89
+        },
+        "fill": "Color.transparent",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "right": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DemocraticLogo.svg/150px-DemocraticLogo.svg.png"
+    },
+    {
+      "type": "Image",
+      "name": "anImage",
+      "morphIndex": 14,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "auto",
+        "opacity": 1,
+        "position": {
+          "x": 1428.1,
+          "y": 57.900000000000006
+        },
+        "extent": {
+          "x": 114,
+          "y": 90
+        },
+        "fill": "Color.transparent",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "left": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "right": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "bottom": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Progressive_Moose_walking.png"
+    }
+  ],
+  "numMorphs": 16
 }
