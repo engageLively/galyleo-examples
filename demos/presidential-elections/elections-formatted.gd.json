@@ -64125,251 +64125,6 @@
         "presidential_margins": {
             "rows": [
                 [
-                    "Nationwide",
-                    2020,
-                    7
-                ],
-                [
-                    "Nationwide",
-                    2016,
-                    6
-                ],
-                [
-                    "Nationwide",
-                    2012,
-                    7
-                ],
-                [
-                    "Nationwide",
-                    2008,
-                    9
-                ],
-                [
-                    "Nationwide",
-                    2004,
-                    -6
-                ],
-                [
-                    "Nationwide",
-                    2000,
-                    5
-                ],
-                [
-                    "Nationwide",
-                    1996,
-                    9
-                ],
-                [
-                    "Nationwide",
-                    1992,
-                    8
-                ],
-                [
-                    "Nationwide",
-                    1988,
-                    -9
-                ],
-                [
-                    "Nationwide",
-                    1984,
-                    -14
-                ],
-                [
-                    "Nationwide",
-                    1980,
-                    -10
-                ],
-                [
-                    "Nationwide",
-                    1976,
-                    6
-                ],
-                [
-                    "Nationwide",
-                    1972,
-                    -15
-                ],
-                [
-                    "Nationwide",
-                    1968,
-                    -5
-                ],
-                [
-                    "Nationwide",
-                    1964,
-                    15
-                ],
-                [
-                    "Nationwide",
-                    1960,
-                    5
-                ],
-                [
-                    "Nationwide",
-                    1956,
-                    -13
-                ],
-                [
-                    "Nationwide",
-                    1952,
-                    -10
-                ],
-                [
-                    "Nationwide",
-                    1948,
-                    7
-                ],
-                [
-                    "Nationwide",
-                    1944,
-                    9
-                ],
-                [
-                    "Nationwide",
-                    1940,
-                    10
-                ],
-                [
-                    "Nationwide",
-                    1936,
-                    15
-                ],
-                [
-                    "Nationwide",
-                    1932,
-                    14
-                ],
-                [
-                    "Nationwide",
-                    1928,
-                    -14
-                ],
-                [
-                    "Nationwide",
-                    1924,
-                    -15
-                ],
-                [
-                    "Nationwide",
-                    1920,
-                    -15
-                ],
-                [
-                    "Nationwide",
-                    1916,
-                    7
-                ],
-                [
-                    "Nationwide",
-                    1912,
-                    14
-                ],
-                [
-                    "Nationwide",
-                    1908,
-                    -9
-                ],
-                [
-                    "Nationwide",
-                    1904,
-                    -14
-                ],
-                [
-                    "Nationwide",
-                    1900,
-                    -8
-                ],
-                [
-                    "Nationwide",
-                    1896,
-                    -7
-                ],
-                [
-                    "Nationwide",
-                    1892,
-                    7
-                ],
-                [
-                    "Nationwide",
-                    1888,
-                    5
-                ],
-                [
-                    "Nationwide",
-                    1884,
-                    5
-                ],
-                [
-                    "Nationwide",
-                    1880,
-                    -5
-                ],
-                [
-                    "Nationwide",
-                    1876,
-                    7
-                ],
-                [
-                    "Nationwide",
-                    1872,
-                    -11
-                ],
-                [
-                    "Nationwide",
-                    1868,
-                    -8
-                ],
-                [
-                    "Nationwide",
-                    1864,
-                    -10
-                ],
-                [
-                    "Nationwide",
-                    1860,
-                    -10
-                ],
-                [
-                    "Nationwide",
-                    1856,
-                    11
-                ],
-                [
-                    "Nationwide",
-                    1852,
-                    8
-                ],
-                [
-                    "Nationwide",
-                    1848,
-                    -7
-                ],
-                [
-                    "Nationwide",
-                    1844,
-                    6
-                ],
-                [
-                    "Nationwide",
-                    1840,
-                    -8
-                ],
-                [
-                    "Nationwide",
-                    1836,
-                    15
-                ],
-                [
-                    "Nationwide",
-                    1832,
-                    14
-                ],
-                [
-                    "Nationwide",
-                    1828,
-                    11
-                ],
-                [
                     "Alabama",
                     2020,
                     -15
@@ -75945,6 +75700,117 @@
         }
     },
     "charts": {
+        "State Vote History": {
+            "chartType": "LineChart",
+            "options": {
+                "hAxis": {
+                    "useFormatFromData": true,
+                    "viewWindow": {
+                        "max": null,
+                        "min": null
+                    },
+                    "minValue": null,
+                    "maxValue": null
+                },
+                "legacyScatterChartLabels": true,
+                "vAxes": [
+                    {
+                        "useFormatFromData": true,
+                        "viewWindow": {
+                            "max": null,
+                            "min": null
+                        },
+                        "minValue": null,
+                        "maxValue": null
+                    },
+                    {
+                        "useFormatFromData": true,
+                        "viewWindow": {
+                            "max": null,
+                            "min": null
+                        },
+                        "minValue": null,
+                        "maxValue": null
+                    }
+                ],
+                "curveType": "",
+                "booleanRole": "certainty",
+                "lineWidth": 2,
+                "legend": "right",
+                "width": "100%",
+                "height": "100%",
+                "useFirstColumnAsDomain": true,
+                "title": "Vote History where State = Texas"
+            },
+            "viewOrTable": "Vote History",
+            "morphIndex": 7,
+            "morphicProperties": {
+                "rotation": 0,
+                "scale": 1,
+                "clipMode": "hidden",
+                "opacity": 1,
+                "position": {
+                    "x": 855.2109375,
+                    "y": 517.05078125
+                },
+                "extent": {
+                    "x": 367.9765625,
+                    "y": 193.10546875
+                },
+                "fill": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 0.05
+                },
+                "border": {
+                    "style": {
+                        "top": "solid",
+                        "left": "solid",
+                        "bottom": "solid",
+                        "right": "solid"
+                    },
+                    "width": {
+                        "top": 1,
+                        "right": 1,
+                        "bottom": 1,
+                        "left": 1
+                    },
+                    "color": {
+                        "top": {
+                            "r": 0.5019607843137255,
+                            "g": 0.5019607843137255,
+                            "b": 0.5019607843137255,
+                            "a": 1
+                        },
+                        "left": {
+                            "r": 0.5019607843137255,
+                            "g": 0.5019607843137255,
+                            "b": 0.5019607843137255,
+                            "a": 1
+                        },
+                        "right": {
+                            "r": 0.5019607843137255,
+                            "g": 0.5019607843137255,
+                            "b": 0.5019607843137255,
+                            "a": 1
+                        },
+                        "bottom": {
+                            "r": 0.5019607843137255,
+                            "g": 0.5019607843137255,
+                            "b": 0.5019607843137255,
+                            "a": 1
+                        }
+                    },
+                    "borderRadius": {
+                        "top": 10,
+                        "right": 10,
+                        "bottom": 10,
+                        "left": 10
+                    }
+                }
+            }
+        },
         "MarginMap": {
             "chartType": "GeoChart",
             "options": {
@@ -76007,117 +75873,6 @@
                 "extent": {
                     "x": 403.92578125,
                     "y": 368.04296875
-                },
-                "fill": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0,
-                    "a": 0.05
-                },
-                "border": {
-                    "style": {
-                        "top": "solid",
-                        "left": "solid",
-                        "bottom": "solid",
-                        "right": "solid"
-                    },
-                    "width": {
-                        "top": 1,
-                        "right": 1,
-                        "bottom": 1,
-                        "left": 1
-                    },
-                    "color": {
-                        "top": {
-                            "r": 0.5019607843137255,
-                            "g": 0.5019607843137255,
-                            "b": 0.5019607843137255,
-                            "a": 1
-                        },
-                        "left": {
-                            "r": 0.5019607843137255,
-                            "g": 0.5019607843137255,
-                            "b": 0.5019607843137255,
-                            "a": 1
-                        },
-                        "right": {
-                            "r": 0.5019607843137255,
-                            "g": 0.5019607843137255,
-                            "b": 0.5019607843137255,
-                            "a": 1
-                        },
-                        "bottom": {
-                            "r": 0.5019607843137255,
-                            "g": 0.5019607843137255,
-                            "b": 0.5019607843137255,
-                            "a": 1
-                        }
-                    },
-                    "borderRadius": {
-                        "top": 10,
-                        "right": 10,
-                        "bottom": 10,
-                        "left": 10
-                    }
-                }
-            }
-        },
-        "State Vote History": {
-            "chartType": "LineChart",
-            "options": {
-                "hAxis": {
-                    "useFormatFromData": true,
-                    "viewWindow": {
-                        "max": null,
-                        "min": null
-                    },
-                    "minValue": null,
-                    "maxValue": null
-                },
-                "legacyScatterChartLabels": true,
-                "vAxes": [
-                    {
-                        "useFormatFromData": true,
-                        "viewWindow": {
-                            "max": null,
-                            "min": null
-                        },
-                        "minValue": null,
-                        "maxValue": null
-                    },
-                    {
-                        "useFormatFromData": true,
-                        "viewWindow": {
-                            "max": null,
-                            "min": null
-                        },
-                        "minValue": null,
-                        "maxValue": null
-                    }
-                ],
-                "curveType": "",
-                "booleanRole": "certainty",
-                "lineWidth": 2,
-                "legend": "right",
-                "width": "100%",
-                "height": "100%",
-                "useFirstColumnAsDomain": true,
-                "title": "Vote History where State = Texas"
-            },
-            "viewOrTable": "Vote History",
-            "morphIndex": 7,
-            "morphicProperties": {
-                "rotation": 0,
-                "scale": 1,
-                "clipMode": "hidden",
-                "opacity": 1,
-                "position": {
-                    "x": 855.2109375,
-                    "y": 517.05078125
-                },
-                "extent": {
-                    "x": 367.9765625,
-                    "y": 193.10546875
                 },
                 "fill": {
                     "r": 0,
