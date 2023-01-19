@@ -1,0 +1,1041 @@
+State,Year,Source,Total
+Alabama,2010,Coal,493094.0
+Alabama,2010,Geo,0.0
+Alabama,2010,Hydro,8704.0
+Alabama,2010,GD,176220.75
+Alabama,2011,Coal,468671.0
+Alabama,2011,Geo,0.0
+Alabama,2011,Hydro,8884.0
+Alabama,2011,GD,181923.0
+Alabama,2012,Coal,488084.0
+Alabama,2012,Geo,0.0
+Alabama,2012,Hydro,7435.0
+Alabama,2012,GD,187283.25
+Alabama,2013,Coal,469162.0
+Alabama,2013,Geo,0.0
+Alabama,2013,Hydro,12899.0
+Alabama,2013,GD,191605.25
+Alabama,2014,Coal,414366.0
+Alabama,2014,Geo,0.0
+Alabama,2014,Hydro,9467.0
+Alabama,2014,GD,197534.5
+Alaska,2010,Coal,33556.0
+Alaska,2010,Geo,0.0
+Alaska,2010,Hydro,1433.0
+Alaska,2010,GD,54220.0
+Alaska,2011,Coal,33524.0
+Alaska,2011,Geo,0.0
+Alaska,2011,Hydro,1345.0
+Alaska,2011,GD,59318.25
+Alaska,2012,Coal,31332.0
+Alaska,2012,Geo,0.0
+Alaska,2012,Hydro,1575.0
+Alaska,2012,GD,61613.5
+Alaska,2013,Coal,24917.0
+Alaska,2013,Geo,0.0
+Alaska,2013,Hydro,1435.0
+Alaska,2013,GD,59890.75
+Alaska,2014,Coal,22944.0
+Alaska,2014,Geo,0.0
+Alaska,2014,Hydro,1539.0
+Alaska,2014,GD,58066.75
+Arizona,2010,Coal,167930.0
+Arizona,2010,Geo,0.0
+Arizona,2010,Hydro,6622.0
+Arizona,2010,GD,247333.0
+Arizona,2011,Coal,174841.0
+Arizona,2011,Geo,0.0
+Arizona,2011,Hydro,9174.0
+Arizona,2011,GD,255620.5
+Arizona,2012,Coal,161374.0
+Arizona,2012,Geo,0.0
+Arizona,2012,Hydro,6717.0
+Arizona,2012,GD,266130.75
+Arizona,2013,Coal,163691.0
+Arizona,2013,Geo,0.0
+Arizona,2013,Hydro,5915.0
+Arizona,2013,GD,271072.5
+Arizona,2014,Coal,173337.0
+Arizona,2014,Geo,0.0
+Arizona,2014,Hydro,6118.0
+Arizona,2014,GD,281558.75
+Arkansas,2010,Coal,718.0
+Arkansas,2010,Geo,0.0
+Arkansas,2010,Hydro,3659.0
+Arkansas,2010,GD,104928.75
+Arkansas,2011,Coal,2985.0
+Arkansas,2011,Geo,0.0
+Arkansas,2011,Hydro,2958.0
+Arkansas,2011,GD,109378.25
+Arkansas,2012,Coal,2077.0
+Arkansas,2012,Geo,0.0
+Arkansas,2012,Hydro,2198.0
+Arkansas,2012,GD,111541.0
+Arkansas,2013,Coal,1433.0
+Arkansas,2013,Geo,0.0
+Arkansas,2013,Hydro,2655.0
+Arkansas,2013,GD,116651.5
+Arkansas,2014,Coal,1864.0
+Arkansas,2014,Geo,0.0
+Arkansas,2014,Hydro,2640.0
+Arkansas,2014,GD,121064.75
+California,2010,Coal,0.0
+California,2010,Geo,12600.0
+California,2010,Hydro,33431.0
+California,2010,GD,1960935.0
+California,2011,Coal,0.0
+California,2011,Geo,12552.0
+California,2011,Hydro,42557.0
+California,2011,GD,2031347.75
+California,2012,Coal,0.0
+California,2012,Geo,12519.0
+California,2012,Hydro,26837.0
+California,2012,GD,2121602.25
+California,2013,Coal,0.0
+California,2013,Geo,12307.0
+California,2013,Hydro,23755.0
+California,2013,GD,2215231.5
+California,2014,Coal,0.0
+California,2014,Geo,12102.0
+California,2014,Hydro,16531.0
+California,2014,GD,2324995.5
+Colorado,2010,Coal,551825.0
+Colorado,2010,Geo,0.0
+Colorado,2010,Hydro,1578.0
+Colorado,2010,GD,258148.25
+Colorado,2011,Coal,586847.0
+Colorado,2011,Geo,0.0
+Colorado,2011,Hydro,2083.0
+Colorado,2011,GD,266796.25
+Colorado,2012,Coal,629645.0
+Colorado,2012,Geo,0.0
+Colorado,2012,Hydro,1497.0
+Colorado,2012,GD,277646.75
+Colorado,2013,Coal,529096.0
+Colorado,2013,Geo,0.0
+Colorado,2013,Hydro,1213.0
+Colorado,2013,GD,288809.0
+Colorado,2014,Coal,528242.0
+Colorado,2014,Geo,0.0
+Colorado,2014,Hydro,1770.0
+Colorado,2014,GD,305366.75
+Connecticut,2010,Coal,0.0
+Connecticut,2010,Geo,0.0
+Connecticut,2010,Hydro,391.0
+Connecticut,2010,GD,230357.25
+Connecticut,2011,Coal,0.0
+Connecticut,2011,Geo,0.0
+Connecticut,2011,Hydro,567.0
+Connecticut,2011,GD,232270.75
+Connecticut,2012,Coal,0.0
+Connecticut,2012,Geo,0.0
+Connecticut,2012,Hydro,312.0
+Connecticut,2012,GD,238322.25
+Connecticut,2013,Coal,0.0
+Connecticut,2013,Geo,0.0
+Connecticut,2013,Hydro,402.0
+Connecticut,2013,GD,242417.0
+Connecticut,2014,Coal,0.0
+Connecticut,2014,Geo,0.0
+Connecticut,2014,Hydro,434.0
+Connecticut,2014,GD,250763.75
+Delaware,2010,Coal,0.0
+Delaware,2010,Geo,0.0
+Delaware,2010,Hydro,0.0
+Delaware,2010,GD,57673.75
+Delaware,2011,Coal,0.0
+Delaware,2011,Geo,0.0
+Delaware,2011,Hydro,0.0
+Delaware,2011,GD,59763.25
+Delaware,2012,Coal,0.0
+Delaware,2012,Geo,0.0
+Delaware,2012,Hydro,0.0
+Delaware,2012,GD,60774.25
+Delaware,2013,Coal,0.0
+Delaware,2013,Geo,0.0
+Delaware,2013,Hydro,0.0
+Delaware,2013,GD,61423.75
+Delaware,2014,Coal,0.0
+Delaware,2014,Geo,0.0
+Delaware,2014,Hydro,0.0
+Delaware,2014,GD,65484.75
+Florida,2010,Coal,0.0
+Florida,2010,Geo,0.0
+Florida,2010,Hydro,177.0
+Florida,2010,GD,729761.5
+Florida,2011,Coal,0.0
+Florida,2011,Geo,0.0
+Florida,2011,Hydro,182.0
+Florida,2011,GD,735244.25
+Florida,2012,Coal,0.0
+Florida,2012,Geo,0.0
+Florida,2012,Hydro,151.0
+Florida,2012,GD,764645.5
+Florida,2013,Coal,0.0
+Florida,2013,Geo,0.0
+Florida,2013,Hydro,254.0
+Florida,2013,GD,797343.5
+Florida,2014,Coal,0.0
+Florida,2014,Geo,0.0
+Florida,2014,Hydro,211.0
+Florida,2014,GD,835578.5
+Georgia,2010,Coal,0.0
+Georgia,2010,Geo,0.0
+Georgia,2010,Hydro,3322.0
+Georgia,2010,GD,407999.0
+Georgia,2011,Coal,0.0
+Georgia,2011,Geo,0.0
+Georgia,2011,Hydro,2705.0
+Georgia,2011,GD,418916.5
+Georgia,2012,Coal,0.0
+Georgia,2012,Geo,0.0
+Georgia,2012,Hydro,2236.0
+Georgia,2012,GD,434977.75
+Georgia,2013,Coal,0.0
+Georgia,2013,Geo,0.0
+Georgia,2013,Hydro,3714.0
+Georgia,2013,GD,450933.5
+Georgia,2014,Coal,0.0
+Georgia,2014,Geo,0.0
+Georgia,2014,Hydro,3064.0
+Georgia,2014,GD,471879.5
+Hawaii,2010,Coal,0.0
+Hawaii,2010,Geo,201.0
+Hawaii,2010,Hydro,70.0
+Hawaii,2010,GD,67538.5
+Hawaii,2011,Coal,0.0
+Hawaii,2011,Geo,224.0
+Hawaii,2011,Hydro,93.0
+Hawaii,2011,GD,69689.25
+Hawaii,2012,Coal,0.0
+Hawaii,2012,Geo,261.0
+Hawaii,2012,Hydro,115.0
+Hawaii,2012,GD,72100.25
+Hawaii,2013,Coal,0.0
+Hawaii,2013,Geo,275.0
+Hawaii,2013,Hydro,78.0
+Hawaii,2013,GD,74011.75
+Hawaii,2014,Coal,0.0
+Hawaii,2014,Geo,254.0
+Hawaii,2014,Hydro,94.0
+Hawaii,2014,GD,76424.75
+Idaho,2010,Coal,0.0
+Idaho,2010,Geo,72.0
+Idaho,2010,Hydro,9154.0
+Idaho,2010,GD,55420.25
+Idaho,2011,Coal,0.0
+Idaho,2011,Geo,63.0
+Idaho,2011,Hydro,13405.0
+Idaho,2011,GD,57081.0
+Idaho,2012,Coal,0.0
+Idaho,2012,Geo,75.0
+Idaho,2012,Hydro,10940.0
+Idaho,2012,GD,58544.75
+Idaho,2013,Coal,0.0
+Idaho,2013,Geo,40.0
+Idaho,2013,Hydro,8473.0
+Idaho,2013,GD,61110.75
+Idaho,2014,Coal,0.0
+Idaho,2014,Geo,79.0
+Idaho,2014,Hydro,9002.0
+Idaho,2014,GD,63364.0
+Illinois,2010,Coal,767419.0
+Illinois,2010,Geo,0.0
+Illinois,2010,Hydro,119.0
+Illinois,2010,GD,653164.0
+Illinois,2011,Coal,864228.0
+Illinois,2011,Geo,0.0
+Illinois,2011,Hydro,140.0
+Illinois,2011,GD,679269.0
+Illinois,2012,Coal,1094204.0
+Illinois,2012,Geo,0.0
+Illinois,2012,Hydro,111.0
+Illinois,2012,GD,712604.25
+Illinois,2013,Coal,1149607.0
+Illinois,2013,Geo,0.0
+Illinois,2013,Hydro,120.0
+Illinois,2013,GD,720494.5
+Illinois,2014,Coal,1293541.0
+Illinois,2014,Geo,0.0
+Illinois,2014,Hydro,132.0
+Illinois,2014,GD,742027.75
+Indiana,2010,Coal,790889.0
+Indiana,2010,Geo,0.0
+Indiana,2010,Hydro,454.0
+Indiana,2010,GD,283111.5
+Indiana,2011,Coal,840986.0
+Indiana,2011,Geo,0.0
+Indiana,2011,Hydro,409.0
+Indiana,2011,GD,291889.75
+Indiana,2012,Coal,826842.0
+Indiana,2012,Geo,0.0
+Indiana,2012,Hydro,434.0
+Indiana,2012,GD,299906.0
+Indiana,2013,Coal,883260.0
+Indiana,2013,Geo,0.0
+Indiana,2013,Hydro,387.0
+Indiana,2013,GD,310669.25
+Indiana,2014,Coal,886370.0
+Indiana,2014,Geo,0.0
+Indiana,2014,Hydro,371.0
+Indiana,2014,GD,324289.0
+Iowa,2010,Coal,0.0
+Iowa,2010,Geo,0.0
+Iowa,2010,Hydro,948.0
+Iowa,2010,GD,141382.5
+Iowa,2011,Coal,0.0
+Iowa,2011,Geo,0.0
+Iowa,2011,Hydro,925.0
+Iowa,2011,GD,149402.0
+Iowa,2012,Coal,0.0
+Iowa,2012,Geo,0.0
+Iowa,2012,Hydro,766.0
+Iowa,2012,GD,159095.75
+Iowa,2013,Coal,0.0
+Iowa,2013,Geo,0.0
+Iowa,2013,Hydro,749.0
+Iowa,2013,GD,163495.25
+Iowa,2014,Coal,0.0
+Iowa,2014,Geo,0.0
+Iowa,2014,Hydro,879.0
+Iowa,2014,GD,170715.0
+Kansas,2010,Coal,3069.0
+Kansas,2010,Geo,0.0
+Kansas,2010,Hydro,13.0
+Kansas,2010,GD,128589.0
+Kansas,2011,Coal,840.0
+Kansas,2011,Geo,0.0
+Kansas,2011,Hydro,15.0
+Kansas,2011,GD,137654.25
+Kansas,2012,Coal,388.0
+Kansas,2012,Geo,0.0
+Kansas,2012,Hydro,10.0
+Kansas,2012,GD,141600.25
+Kansas,2013,Coal,541.0
+Kansas,2013,Geo,0.0
+Kansas,2013,Hydro,15.0
+Kansas,2013,GD,142773.5
+Kansas,2014,Coal,1474.0
+Kansas,2014,Geo,0.0
+Kansas,2014,Hydro,16.0
+Kansas,2014,GD,146562.0
+Kentucky,2010,Coal,2556093.0
+Kentucky,2010,Geo,0.0
+Kentucky,2010,Hydro,2580.0
+Kentucky,2010,GD,165787.0
+Kentucky,2011,Coal,2623804.0
+Kentucky,2011,Geo,0.0
+Kentucky,2011,Hydro,2969.0
+Kentucky,2011,GD,172255.25
+Kentucky,2012,Coal,2193276.0
+Kentucky,2012,Geo,0.0
+Kentucky,2012,Hydro,2362.0
+Kentucky,2012,GD,178209.75
+Kentucky,2013,Coal,1940060.0
+Kentucky,2013,Geo,0.0
+Kentucky,2013,Hydro,3275.0
+Kentucky,2013,GD,182696.25
+Kentucky,2014,Coal,1869335.0
+Kentucky,2014,Geo,0.0
+Kentucky,2014,Hydro,3144.0
+Kentucky,2014,GD,188518.0
+Louisiana,2010,Coal,54346.0
+Louisiana,2010,Geo,0.0
+Louisiana,2010,Hydro,1109.0
+Louisiana,2010,GD,231371.5
+Louisiana,2011,Coal,52440.0
+Louisiana,2011,Geo,0.0
+Louisiana,2011,Hydro,1044.0
+Louisiana,2011,GD,236958.25
+Louisiana,2012,Coal,53041.0
+Louisiana,2012,Geo,0.0
+Louisiana,2012,Hydro,680.0
+Louisiana,2012,GD,243308.75
+Louisiana,2013,Coal,38079.0
+Louisiana,2013,Geo,0.0
+Louisiana,2013,Hydro,1045.0
+Louisiana,2013,GD,238308.25
+Louisiana,2014,Coal,35541.0
+Louisiana,2014,Geo,0.0
+Louisiana,2014,Hydro,1090.0
+Louisiana,2014,GD,245790.75
+Maine,2010,Coal,0.0
+Maine,2010,Geo,0.0
+Maine,2010,Hydro,3810.0
+Maine,2010,GD,51304.25
+Maine,2011,Coal,0.0
+Maine,2011,Geo,0.0
+Maine,2011,Hydro,3979.0
+Maine,2011,GD,51480.75
+Maine,2012,Coal,0.0
+Maine,2012,Geo,0.0
+Maine,2012,Hydro,3733.0
+Maine,2012,GD,52606.0
+Maine,2013,Coal,0.0
+Maine,2013,Geo,0.0
+Maine,2013,Hydro,3560.0
+Maine,2013,GD,53299.75
+Maine,2014,Coal,0.0
+Maine,2014,Geo,0.0
+Maine,2014,Hydro,3623.0
+Maine,2014,GD,55029.0
+Maryland,2010,Coal,58798.0
+Maryland,2010,Geo,0.0
+Maryland,2010,Hydro,1667.0
+Maryland,2010,GD,314470.5
+Maryland,2011,Coal,65871.0
+Maryland,2011,Geo,0.0
+Maryland,2011,Hydro,2547.0
+Maryland,2011,GD,323942.5
+Maryland,2012,Coal,54088.0
+Maryland,2012,Geo,0.0
+Maryland,2012,Hydro,1657.0
+Maryland,2012,GD,331423.75
+Maryland,2013,Coal,45290.0
+Maryland,2013,Geo,0.0
+Maryland,2013,Hydro,1727.0
+Maryland,2013,GD,337422.0
+Maryland,2014,Coal,46194.0
+Maryland,2014,Geo,0.0
+Maryland,2014,Hydro,1616.0
+Maryland,2014,GD,350262.5
+Massachusetts,2010,Coal,0.0
+Massachusetts,2010,Geo,0.0
+Massachusetts,2010,Hydro,996.0
+Massachusetts,2010,GD,399270.25
+Massachusetts,2011,Coal,0.0
+Massachusetts,2011,Geo,0.0
+Massachusetts,2011,Hydro,1149.0
+Massachusetts,2011,GD,413672.75
+Massachusetts,2012,Coal,0.0
+Massachusetts,2012,Geo,0.0
+Massachusetts,2012,Hydro,912.0
+Massachusetts,2012,GD,432256.25
+Massachusetts,2013,Coal,0.0
+Massachusetts,2013,Geo,0.0
+Massachusetts,2013,Hydro,992.0
+Massachusetts,2013,GD,438640.75
+Massachusetts,2014,Coal,0.0
+Massachusetts,2014,Geo,0.0
+Massachusetts,2014,Hydro,902.0
+Massachusetts,2014,GD,456273.0
+Michigan,2010,Coal,0.0
+Michigan,2010,Geo,0.0
+Michigan,2010,Hydro,1251.0
+Michigan,2010,GD,387167.0
+Michigan,2011,Coal,0.0
+Michigan,2011,Geo,0.0
+Michigan,2011,Hydro,1357.0
+Michigan,2011,GD,401359.75
+Michigan,2012,Coal,0.0
+Michigan,2012,Geo,0.0
+Michigan,2012,Hydro,1215.0
+Michigan,2012,GD,417328.25
+Michigan,2013,Coal,0.0
+Michigan,2013,Geo,0.0
+Michigan,2013,Hydro,1419.0
+Michigan,2013,GD,431111.5
+Michigan,2014,Coal,0.0
+Michigan,2014,Geo,0.0
+Michigan,2014,Hydro,1600.0
+Michigan,2014,GD,447221.25
+Minnesota,2010,Coal,0.0
+Minnesota,2010,Geo,0.0
+Minnesota,2010,Hydro,840.0
+Minnesota,2010,GD,271481.0
+Minnesota,2011,Coal,0.0
+Minnesota,2011,Geo,0.0
+Minnesota,2011,Hydro,746.0
+Minnesota,2011,GD,284490.75
+Minnesota,2012,Coal,0.0
+Minnesota,2012,Geo,0.0
+Minnesota,2012,Hydro,561.0
+Minnesota,2012,GD,294728.75
+Minnesota,2013,Coal,0.0
+Minnesota,2013,Geo,0.0
+Minnesota,2013,Hydro,511.0
+Minnesota,2013,GD,307215.75
+Minnesota,2014,Coal,0.0
+Minnesota,2014,Geo,0.0
+Minnesota,2014,Hydro,548.0
+Minnesota,2014,GD,320381.25
+Mississippi,2010,Coal,41586.0
+Mississippi,2010,Geo,0.0
+Mississippi,2010,Hydro,0.0
+Mississippi,2010,GD,94953.5
+Mississippi,2011,Coal,28822.0
+Mississippi,2011,Geo,0.0
+Mississippi,2011,Hydro,0.0
+Mississippi,2011,GD,96840.25
+Mississippi,2012,Coal,30537.0
+Mississippi,2012,Geo,0.0
+Mississippi,2012,Hydro,0.0
+Mississippi,2012,GD,102082.75
+Mississippi,2013,Coal,37197.0
+Mississippi,2013,Geo,0.0
+Mississippi,2013,Hydro,0.0
+Mississippi,2013,GD,103269.75
+Mississippi,2014,Coal,39072.0
+Mississippi,2014,Geo,0.0
+Mississippi,2014,Hydro,0.0
+Mississippi,2014,GD,104937.5
+Missouri,2010,Coal,9816.0
+Missouri,2010,Geo,0.0
+Missouri,2010,Hydro,1539.0
+Missouri,2010,GD,255631.25
+Missouri,2011,Coal,10075.0
+Missouri,2011,Geo,0.0
+Missouri,2011,Hydro,1185.0
+Missouri,2011,GD,256996.0
+Missouri,2012,Coal,9197.0
+Missouri,2012,Geo,0.0
+Missouri,2012,Hydro,714.0
+Missouri,2012,GD,265178.25
+Missouri,2013,Coal,9101.0
+Missouri,2013,Geo,0.0
+Missouri,2013,Hydro,1136.0
+Missouri,2013,GD,274540.5
+Missouri,2014,Coal,8206.0
+Missouri,2014,Geo,0.0
+Missouri,2014,Hydro,697.0
+Missouri,2014,GD,283280.25
+Montana,2010,Coal,797035.0
+Montana,2010,Geo,0.0
+Montana,2010,Hydro,9415.0
+Montana,2010,GD,37801.0
+Montana,2011,Coal,746650.0
+Montana,2011,Geo,0.0
+Montana,2011,Hydro,12596.0
+Montana,2011,GD,40841.25
+Montana,2012,Coal,660148.0
+Montana,2012,Geo,0.0
+Montana,2012,Hydro,11283.0
+Montana,2012,GD,42137.75
+Montana,2013,Coal,753246.0
+Montana,2013,Geo,0.0
+Montana,2013,Hydro,9638.0
+Montana,2013,GD,43223.25
+Montana,2014,Coal,790673.0
+Montana,2014,Geo,0.0
+Montana,2014,Hydro,11483.0
+Montana,2014,GD,44672.25
+Nebraska,2010,Coal,0.0
+Nebraska,2010,Geo,0.0
+Nebraska,2010,Hydro,1314.0
+Nebraska,2010,GD,91498.25
+Nebraska,2011,Coal,0.0
+Nebraska,2011,Geo,0.0
+Nebraska,2011,Hydro,1617.0
+Nebraska,2011,GD,99050.25
+Nebraska,2012,Coal,0.0
+Nebraska,2012,Geo,0.0
+Nebraska,2012,Hydro,1257.0
+Nebraska,2012,GD,102163.0
+Nebraska,2013,Coal,0.0
+Nebraska,2013,Geo,0.0
+Nebraska,2013,Hydro,1124.0
+Nebraska,2013,GD,107187.5
+Nebraska,2014,Coal,0.0
+Nebraska,2014,Geo,0.0
+Nebraska,2014,Hydro,1158.0
+Nebraska,2014,GD,110663.25
+Nevada,2010,Coal,0.0
+Nevada,2010,Geo,2070.0
+Nevada,2010,Hydro,2157.0
+Nevada,2010,GD,119771.0
+Nevada,2011,Coal,0.0
+Nevada,2011,Geo,2146.0
+Nevada,2011,Hydro,2191.0
+Nevada,2011,GD,122744.25
+Nevada,2012,Coal,0.0
+Nevada,2012,Geo,2347.0
+Nevada,2012,Hydro,2440.0
+Nevada,2012,GD,125204.5
+Nevada,2013,Coal,0.0
+Nevada,2013,Geo,2670.0
+Nevada,2013,Hydro,2682.0
+Nevada,2013,GD,126935.5
+Nevada,2014,Coal,0.0
+Nevada,2014,Geo,2729.0
+Nevada,2014,Hydro,2389.0
+Nevada,2014,GD,134052.25
+New Hampshire,2010,Coal,0.0
+New Hampshire,2010,Geo,0.0
+New Hampshire,2010,Hydro,1478.0
+New Hampshire,2010,GD,62678.75
+New Hampshire,2011,Coal,0.0
+New Hampshire,2011,Geo,0.0
+New Hampshire,2011,Hydro,1605.0
+New Hampshire,2011,GD,64097.5
+New Hampshire,2012,Coal,0.0
+New Hampshire,2012,Geo,0.0
+New Hampshire,2012,Hydro,1289.0
+New Hampshire,2012,GD,66012.75
+New Hampshire,2013,Coal,0.0
+New Hampshire,2013,Geo,0.0
+New Hampshire,2013,Hydro,1427.0
+New Hampshire,2013,GD,67306.5
+New Hampshire,2014,Coal,0.0
+New Hampshire,2014,Geo,0.0
+New Hampshire,2014,Hydro,1381.0
+New Hampshire,2014,GD,70345.25
+New Jersey,2010,Coal,0.0
+New Jersey,2010,Geo,0.0
+New Jersey,2010,Hydro,18.0
+New Jersey,2010,GD,492990.0
+New Jersey,2011,Coal,0.0
+New Jersey,2011,Geo,0.0
+New Jersey,2011,Hydro,24.0
+New Jersey,2011,GD,497571.0
+New Jersey,2012,Coal,0.0
+New Jersey,2012,Geo,0.0
+New Jersey,2012,Hydro,11.0
+New Jersey,2012,GD,518422.5
+New Jersey,2013,Coal,0.0
+New Jersey,2013,Geo,0.0
+New Jersey,2013,Hydro,18.0
+New Jersey,2013,GD,530091.25
+New Jersey,2014,Coal,0.0
+New Jersey,2014,Geo,0.0
+New Jersey,2014,Hydro,17.0
+New Jersey,2014,GD,545374.25
+New Mexico,2010,Coal,381448.0
+New Mexico,2010,Geo,0.0
+New Mexico,2010,Hydro,217.0
+New Mexico,2010,GD,86194.75
+New Mexico,2011,Coal,405952.0
+New Mexico,2011,Geo,0.0
+New Mexico,2011,Hydro,195.0
+New Mexico,2011,GD,89543.25
+New Mexico,2012,Coal,409050.0
+New Mexico,2012,Geo,0.0
+New Mexico,2012,Hydro,223.0
+New Mexico,2012,GD,90535.25
+New Mexico,2013,Coal,400228.0
+New Mexico,2013,Geo,0.0
+New Mexico,2013,Hydro,92.0
+New Mexico,2013,GD,91344.5
+New Mexico,2014,Coal,400158.0
+New Mexico,2014,Geo,9.0
+New Mexico,2014,Hydro,98.0
+New Mexico,2014,GD,94791.5
+New York,2010,Coal,0.0
+New York,2010,Geo,0.0
+New York,2010,Hydro,25472.0
+New York,2010,GD,1208079.25
+New York,2011,Coal,0.0
+New York,2011,Geo,0.0
+New York,2011,Hydro,27997.0
+New York,2011,GD,1231935.75
+New York,2012,Coal,0.0
+New York,2012,Geo,0.0
+New York,2012,Hydro,24652.0
+New York,2012,GD,1299813.5
+New York,2013,Coal,0.0
+New York,2013,Geo,0.0
+New York,2013,Hydro,24973.0
+New York,2013,GD,1335063.5
+New York,2014,Coal,0.0
+New York,2014,Geo,0.0
+New York,2014,Hydro,26087.0
+New York,2014,GD,1385776.25
+North Carolina,2010,Coal,0.0
+North Carolina,2010,Geo,0.0
+North Carolina,2010,Hydro,4757.0
+North Carolina,2010,GD,417375.5
+North Carolina,2011,Coal,0.0
+North Carolina,2011,Geo,0.0
+North Carolina,2011,Hydro,3893.0
+North Carolina,2011,GD,428730.75
+North Carolina,2012,Coal,0.0
+North Carolina,2012,Geo,0.0
+North Carolina,2012,Hydro,3728.0
+North Carolina,2012,GD,439332.5
+North Carolina,2013,Coal,0.0
+North Carolina,2013,Geo,0.0
+North Carolina,2013,Hydro,6901.0
+North Carolina,2013,GD,454450.0
+North Carolina,2014,Coal,0.0
+North Carolina,2014,Geo,0.0
+North Carolina,2014,Hydro,4756.0
+North Carolina,2014,GD,474355.25
+North Dakota,2010,Coal,377669.0
+North Dakota,2010,Geo,0.0
+North Dakota,2010,Hydro,2042.0
+North Dakota,2010,GD,36033.0
+North Dakota,2011,Coal,367624.0
+North Dakota,2011,Geo,0.0
+North Dakota,2011,Hydro,2580.0
+North Dakota,2011,GD,42122.75
+North Dakota,2012,Coal,366826.0
+North Dakota,2012,Geo,0.0
+North Dakota,2012,Hydro,2477.0
+North Dakota,2012,GD,52197.25
+North Dakota,2013,Coal,369479.0
+North Dakota,2013,Geo,0.0
+North Dakota,2013,Hydro,1852.0
+North Dakota,2013,GD,54441.25
+North Dakota,2014,Coal,389673.0
+North Dakota,2014,Geo,0.0
+North Dakota,2014,Hydro,2531.0
+North Dakota,2014,GD,58230.0
+Ohio,2010,Coal,644947.0
+Ohio,2010,Geo,0.0
+Ohio,2010,Hydro,429.0
+Ohio,2010,GD,494736.25
+Ohio,2011,Coal,679187.0
+Ohio,2011,Geo,0.0
+Ohio,2011,Hydro,384.0
+Ohio,2011,GD,521870.0
+Ohio,2012,Coal,642149.0
+Ohio,2012,Geo,0.0
+Ohio,2012,Hydro,414.0
+Ohio,2012,GD,544551.75
+Ohio,2013,Coal,612270.0
+Ohio,2013,Geo,0.0
+Ohio,2013,Hydro,549.0
+Ohio,2013,GD,558969.0
+Ohio,2014,Coal,541830.0
+Ohio,2014,Geo,0.0
+Ohio,2014,Hydro,478.0
+Ohio,2014,GD,588827.75
+Oklahoma,2010,Coal,17580.0
+Oklahoma,2010,Geo,0.0
+Oklahoma,2010,Hydro,2809.0
+Oklahoma,2010,GD,151317.5
+Oklahoma,2011,Coal,19094.0
+Oklahoma,2011,Geo,0.0
+Oklahoma,2011,Hydro,1507.0
+Oklahoma,2011,GD,165277.5
+Oklahoma,2012,Coal,22004.0
+Oklahoma,2012,Geo,0.0
+Oklahoma,2012,Hydro,1146.0
+Oklahoma,2012,GD,173911.5
+Oklahoma,2013,Coal,25054.0
+Oklahoma,2013,Geo,0.0
+Oklahoma,2013,Hydro,2178.0
+Oklahoma,2013,GD,182447.25
+Oklahoma,2014,Coal,20607.0
+Oklahoma,2014,Geo,0.0
+Oklahoma,2014,Hydro,1428.0
+Oklahoma,2014,GD,190170.5
+Oregon,2010,Coal,0.0
+Oregon,2010,Geo,0.0
+Oregon,2010,Hydro,30542.0
+Oregon,2010,GD,191393.0
+Oregon,2011,Coal,0.0
+Oregon,2011,Geo,0.0
+Oregon,2011,Hydro,42315.0
+Oregon,2011,GD,200267.5
+Oregon,2012,Coal,0.0
+Oregon,2012,Geo,26.0
+Oregon,2012,Hydro,39410.0
+Oregon,2012,GD,196982.25
+Oregon,2013,Coal,0.0
+Oregon,2013,Geo,165.0
+Oregon,2013,Hydro,33098.0
+Oregon,2013,GD,197732.75
+Oregon,2014,Coal,0.0
+Oregon,2014,Geo,183.0
+Oregon,2014,Hydro,35262.0
+Oregon,2014,GD,203328.0
+Pennsylvania,2010,Coal,1485775.0
+Pennsylvania,2010,Geo,0.0
+Pennsylvania,2010,Hydro,2332.0
+Pennsylvania,2010,GD,588275.75
+Pennsylvania,2011,Coal,1511491.0
+Pennsylvania,2011,Geo,0.0
+Pennsylvania,2011,Hydro,3217.0
+Pennsylvania,2011,GD,607403.25
+Pennsylvania,2012,Coal,1390644.0
+Pennsylvania,2012,Geo,0.0
+Pennsylvania,2012,Hydro,2242.0
+Pennsylvania,2012,GD,626315.5
+Pennsylvania,2013,Coal,1379262.0
+Pennsylvania,2013,Geo,0.0
+Pennsylvania,2013,Hydro,2525.0
+Pennsylvania,2013,GD,645382.5
+Pennsylvania,2014,Coal,1566449.0
+Pennsylvania,2014,Geo,0.0
+Pennsylvania,2014,Hydro,2641.0
+Pennsylvania,2014,GD,672413.25
+Rhode Island,2010,Coal,0.0
+Rhode Island,2010,Geo,0.0
+Rhode Island,2010,Hydro,4.0
+Rhode Island,2010,GD,49328.75
+Rhode Island,2011,Coal,0.0
+Rhode Island,2011,Geo,0.0
+Rhode Island,2011,Hydro,7.0
+Rhode Island,2011,GD,49931.25
+Rhode Island,2012,Coal,0.0
+Rhode Island,2012,Geo,0.0
+Rhode Island,2012,Hydro,4.0
+Rhode Island,2012,GD,51491.75
+Rhode Island,2013,Coal,0.0
+Rhode Island,2013,Geo,0.0
+Rhode Island,2013,Hydro,4.0
+Rhode Island,2013,GD,52808.5
+Rhode Island,2014,Coal,0.0
+Rhode Island,2014,Geo,0.0
+Rhode Island,2014,Hydro,4.0
+Rhode Island,2014,GD,55098.25
+South Carolina,2010,Coal,0.0
+South Carolina,2010,Geo,0.0
+South Carolina,2010,Hydro,2376.0
+South Carolina,2010,GD,165237.0
+South Carolina,2011,Coal,0.0
+South Carolina,2011,Geo,0.0
+South Carolina,2011,Hydro,1554.0
+South Carolina,2011,GD,171152.75
+South Carolina,2012,Coal,0.0
+South Carolina,2012,Geo,0.0
+South Carolina,2012,Hydro,1420.0
+South Carolina,2012,GD,175434.0
+South Carolina,2013,Coal,0.0
+South Carolina,2013,Geo,0.0
+South Carolina,2013,Hydro,3160.0
+South Carolina,2013,GD,180855.75
+South Carolina,2014,Coal,0.0
+South Carolina,2014,Geo,0.0
+South Carolina,2014,Hydro,2569.0
+South Carolina,2014,GD,189655.5
+South Dakota,2010,Coal,0.0
+South Dakota,2010,Geo,0.0
+South Dakota,2010,Hydro,5239.0
+South Dakota,2010,GD,38043.75
+South Dakota,2011,Coal,0.0
+South Dakota,2011,Geo,0.0
+South Dakota,2011,Hydro,6608.0
+South Dakota,2011,GD,42453.25
+South Dakota,2012,Coal,0.0
+South Dakota,2012,Geo,0.0
+South Dakota,2012,Hydro,5981.0
+South Dakota,2012,GD,43258.5
+South Dakota,2013,Coal,0.0
+South Dakota,2013,Geo,0.0
+South Dakota,2013,Hydro,4063.0
+South Dakota,2013,GD,44909.5
+South Dakota,2014,Coal,0.0
+South Dakota,2014,Geo,0.0
+South Dakota,2014,Hydro,5498.0
+South Dakota,2014,GD,45600.0
+Tennessee,2010,Coal,45030.0
+Tennessee,2010,Geo,0.0
+Tennessee,2010,Hydro,8138.0
+Tennessee,2010,GD,254343.0
+Tennessee,2011,Coal,38576.0
+Tennessee,2011,Geo,0.0
+Tennessee,2011,Hydro,9576.0
+Tennessee,2011,GD,264957.5
+Tennessee,2012,Coal,28372.0
+Tennessee,2012,Geo,0.0
+Tennessee,2012,Hydro,8296.0
+Tennessee,2012,GD,280843.0
+Tennessee,2013,Coal,28376.0
+Tennessee,2013,Geo,0.0
+Tennessee,2013,Hydro,12443.0
+Tennessee,2013,GD,289266.25
+Tennessee,2014,Coal,21711.0
+Tennessee,2014,Geo,0.0
+Tennessee,2014,Hydro,8901.0
+Tennessee,2014,GD,300015.25
+Texas,2010,Coal,538258.0
+Texas,2010,Geo,0.0
+Texas,2010,Hydro,1262.0
+Texas,2010,GD,1251494.0
+Texas,2011,Coal,605290.0
+Texas,2011,Geo,0.0
+Texas,2011,Hydro,563.0
+Texas,2011,GD,1351048.25
+Texas,2012,Coal,578697.0
+Texas,2012,Geo,0.0
+Texas,2012,Hydro,584.0
+Texas,2012,GD,1440819.0
+Texas,2013,Coal,564850.0
+Texas,2013,Geo,0.0
+Texas,2013,Hydro,480.0
+Texas,2013,GD,1527158.5
+Texas,2014,Coal,576803.0
+Texas,2014,Geo,0.0
+Texas,2014,Hydro,386.0
+Texas,2014,GD,1601976.75
+Utah,2010,Coal,445692.0
+Utah,2010,Geo,277.0
+Utah,2010,Hydro,696.0
+Utah,2010,GD,119037.0
+Utah,2011,Coal,453869.0
+Utah,2011,Geo,330.0
+Utah,2011,Hydro,1230.0
+Utah,2011,GD,125496.5
+Utah,2012,Coal,387129.0
+Utah,2012,Geo,335.0
+Utah,2012,Hydro,748.0
+Utah,2012,GD,129012.25
+Utah,2013,Coal,385736.0
+Utah,2013,Geo,319.0
+Utah,2013,Hydro,505.0
+Utah,2013,GD,134922.25
+Utah,2014,Coal,410997.0
+Utah,2014,Geo,522.0
+Utah,2014,Hydro,633.0
+Utah,2014,GD,140565.0
+Vermont,2010,Coal,0.0
+Vermont,2010,Geo,0.0
+Vermont,2010,Hydro,1347.0
+Vermont,2010,GD,26406.5
+Vermont,2011,Coal,0.0
+Vermont,2011,Geo,0.0
+Vermont,2011,Hydro,1425.0
+Vermont,2011,GD,27564.5
+Vermont,2012,Coal,0.0
+Vermont,2012,Geo,0.0
+Vermont,2012,Hydro,1109.0
+Vermont,2012,GD,28146.0
+Vermont,2013,Coal,0.0
+Vermont,2013,Geo,0.0
+Vermont,2013,Hydro,1286.0
+Vermont,2013,GD,28610.75
+Vermont,2014,Coal,0.0
+Vermont,2014,Geo,0.0
+Vermont,2014,Hydro,1175.0
+Vermont,2014,GD,29661.75
+Virginia,2010,Coal,564326.0
+Virginia,2010,Geo,0.0
+Virginia,2010,Hydro,1500.0
+Virginia,2010,GD,423505.75
+Virginia,2011,Coal,562805.0
+Virginia,2011,Geo,0.0
+Virginia,2011,Hydro,1210.0
+Virginia,2011,GD,431961.25
+Virginia,2012,Coal,493398.0
+Virginia,2012,Geo,0.0
+Virginia,2012,Hydro,1044.0
+Virginia,2012,GD,444527.5
+Virginia,2013,Coal,456766.0
+Virginia,2013,Geo,0.0
+Virginia,2013,Hydro,1254.0
+Virginia,2013,GD,451877.5
+Virginia,2014,Coal,393225.0
+Virginia,2014,Geo,0.0
+Virginia,2014,Hydro,955.0
+Virginia,2014,GD,462243.0
+Washington,2010,Coal,0.0
+Washington,2010,Geo,0.0
+Washington,2010,Hydro,68288.0
+Washington,2010,GD,362113.5
+Washington,2011,Coal,0.0
+Washington,2011,Geo,0.0
+Washington,2011,Hydro,91818.0
+Washington,2011,GD,372286.75
+Washington,2012,Coal,0.0
+Washington,2012,Geo,0.0
+Washington,2012,Hydro,89464.0
+Washington,2012,GD,390153.25
+Washington,2013,Coal,0.0
+Washington,2013,Geo,0.0
+Washington,2013,Hydro,78155.0
+Washington,2013,GD,402789.0
+Washington,2014,Coal,0.0
+Washington,2014,Geo,0.0
+Washington,2014,Hydro,79463.0
+Washington,2014,GD,422766.5
+West Virginia,2010,Coal,3346117.0
+West Virginia,2010,Geo,0.0
+West Virginia,2010,Hydro,1367.0
+West Virginia,2010,GD,66961.0
+West Virginia,2011,Coal,3321102.0
+West Virginia,2011,Geo,0.0
+West Virginia,2011,Hydro,1453.0
+West Virginia,2011,GD,70891.25
+West Virginia,2012,Coal,3059090.0
+West Virginia,2012,Geo,0.0
+West Virginia,2012,Hydro,1431.0
+West Virginia,2012,GD,70914.75
+West Virginia,2013,Coal,2874653.0
+West Virginia,2013,Geo,0.0
+West Virginia,2013,Hydro,1739.0
+West Virginia,2013,GD,72762.5
+West Virginia,2014,Coal,2858022.0
+West Virginia,2014,Geo,0.0
+West Virginia,2014,Hydro,1242.0
+West Virginia,2014,GD,74432.75
+Wisconsin,2010,Coal,0.0
+Wisconsin,2010,Geo,0.0
+Wisconsin,2010,Hydro,2112.0
+Wisconsin,2010,GD,253801.0
+Wisconsin,2011,Coal,0.0
+Wisconsin,2011,Geo,0.0
+Wisconsin,2011,Hydro,2147.0
+Wisconsin,2011,GD,263634.75
+Wisconsin,2012,Coal,0.0
+Wisconsin,2012,Geo,0.0
+Wisconsin,2012,Hydro,1522.0
+Wisconsin,2012,GD,273879.75
+Wisconsin,2013,Coal,0.0
+Wisconsin,2013,Geo,0.0
+Wisconsin,2013,Hydro,1979.0
+Wisconsin,2013,GD,281549.25
+Wisconsin,2014,Coal,0.0
+Wisconsin,2014,Geo,0.0
+Wisconsin,2014,Hydro,2472.0
+Wisconsin,2014,GD,293341.25
+Wyoming,2010,Coal,7658286.0
+Wyoming,2010,Geo,0.0
+Wyoming,2010,Hydro,1024.0
+Wyoming,2010,GD,39093.25
+Wyoming,2011,Coal,7591675.0
+Wyoming,2011,Geo,0.0
+Wyoming,2011,Hydro,1224.0
+Wyoming,2011,GD,41578.0
+Wyoming,2012,Coal,6973727.0
+Wyoming,2012,Geo,0.0
+Wyoming,2012,Hydro,893.0
+Wyoming,2012,GD,39909.0
+Wyoming,2013,Coal,6760447.0
+Wyoming,2013,Geo,0.0
+Wyoming,2013,Hydro,711.0
+Wyoming,2013,GD,40456.5
+Wyoming,2014,Coal,6880205.0
+Wyoming,2014,Geo,0.0
+Wyoming,2014,Hydro,869.0
+Wyoming,2014,GD,40875.5
+District of Columbia,2010,Coal,0.0
+District of Columbia,2010,Geo,0.0
+District of Columbia,2010,Hydro,0.0
+District of Columbia,2010,GD,104044.75
+District of Columbia,2011,Coal,0.0
+District of Columbia,2011,Geo,0.0
+District of Columbia,2011,Hydro,0.0
+District of Columbia,2011,GD,108029.0
+District of Columbia,2012,Coal,0.0
+District of Columbia,2012,Geo,0.0
+District of Columbia,2012,Hydro,0.0
+District of Columbia,2012,GD,109760.0
+District of Columbia,2013,Coal,0.0
+District of Columbia,2013,Geo,0.0
+District of Columbia,2013,Hydro,0.0
+District of Columbia,2013,GD,111816.5
+District of Columbia,2014,Coal,0.0
+District of Columbia,2014,Geo,0.0
+District of Columbia,2014,Hydro,0.0
+District of Columbia,2014,GD,116539.25
+United States,2010,Coal,21831301.0
+United States,2010,Geo,15219.0
+United States,2010,Hydro,260203.0
+United States,2010,GD,14859772.5
+United States,2011,Coal,22057248.0
+United States,2011,Geo,15316.0
+United States,2011,Hydro,319355.0
+United States,2011,GD,15406000.25
+United States,2012,Coal,20585319.0
+United States,2012,Geo,15562.0
+United States,2012,Hydro,276240.0
+United States,2012,GD,16041239.75
+United States,2013,Coal,19901802.0
+United States,2013,Geo,15775.0
+United States,2013,Hydro,268565.0
+United States,2013,GD,16548795.25
+United States,2014,Coal,20170837.0
+United States,2014,Geo,15877.0
+United States,2014,Hydro,259367.0
+United States,2014,GD,17233140.0

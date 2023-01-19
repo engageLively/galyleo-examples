@@ -1,0 +1,2081 @@
+State,Year,Source,Total
+Alabama,2010,Biomass,169088.0
+Alabama,2010,Coal,718684.0
+Alabama,2010,Elec,310023.0
+Alabama,2010,FossFuel,1785688.0
+Alabama,2010,Geo,138.0
+Alabama,2010,Hydro,84919.0
+Alabama,2010,NatGas,544405.0
+Alabama,2010,LPG,13088.0
+Alabama,2011,Biomass,179611.0
+Alabama,2011,Coal,651032.0
+Alabama,2011,Elec,303652.0
+Alabama,2011,FossFuel,1783839.0
+Alabama,2011,Geo,135.0
+Alabama,2011,Hydro,86313.0
+Alabama,2011,NatGas,609288.0
+Alabama,2011,LPG,10343.0
+Alabama,2012,Biomass,181878.0
+Alabama,2012,Coal,547004.0
+Alabama,2012,Elec,294055.0
+Alabama,2012,FossFuel,1740315.0
+Alabama,2012,Geo,141.0
+Alabama,2012,Hydro,70754.0
+Alabama,2012,NatGas,677380.0
+Alabama,2012,LPG,8628.0
+Alabama,2013,Biomass,194432.0
+Alabama,2013,Coal,565051.0
+Alabama,2013,Elec,299751.0
+Alabama,2013,FossFuel,1689491.0
+Alabama,2013,Geo,141.0
+Alabama,2013,Hydro,123071.0
+Alabama,2013,NatGas,625869.0
+Alabama,2013,LPG,9094.0
+Alabama,2014,Biomass,186649.0
+Alabama,2014,Coal,575912.0
+Alabama,2014,Elec,308765.0
+Alabama,2014,FossFuel,1724891.0
+Alabama,2014,Geo,141.0
+Alabama,2014,Hydro,90030.0
+Alabama,2014,NatGas,651532.0
+Alabama,2014,LPG,8460.0
+Alaska,2010,Biomass,4178.0
+Alaska,2010,Coal,14548.0
+Alaska,2010,Elec,21315.0
+Alaska,2010,FossFuel,634777.0
+Alaska,2010,Geo,153.0
+Alaska,2010,Hydro,13982.0
+Alaska,2010,NatGas,334978.0
+Alaska,2010,LPG,1353.0
+Alaska,2011,Biomass,4247.0
+Alaska,2011,Coal,15481.0
+Alaska,2011,Elec,21562.0
+Alaska,2011,FossFuel,635981.0
+Alaska,2011,Geo,214.0
+Alaska,2011,Hydro,13066.0
+Alaska,2011,NatGas,339819.0
+Alaska,2011,LPG,1247.0
+Alaska,2012,Biomass,4032.0
+Alaska,2012,Coal,15521.0
+Alaska,2012,Elec,21893.0
+Alaska,2012,FossFuel,629768.0
+Alaska,2012,Geo,186.0
+Alaska,2012,Hydro,14988.0
+Alaska,2012,NatGas,347228.0
+Alaska,2012,LPG,1314.0
+Alaska,2013,Biomass,5168.0
+Alaska,2013,Coal,14819.0
+Alaska,2013,Elec,21387.0
+Alaska,2013,FossFuel,600660.0
+Alaska,2013,Geo,186.0
+Alaska,2013,Hydro,13696.0
+Alaska,2013,NatGas,332963.0
+Alaska,2013,LPG,1272.0
+Alaska,2014,Biomass,5476.0
+Alaska,2014,Coal,18225.0
+Alaska,2014,Elec,21034.0
+Alaska,2014,FossFuel,581369.0
+Alaska,2014,Geo,186.0
+Alaska,2014,Hydro,14633.0
+Alaska,2014,NatGas,329585.0
+Alaska,2014,LPG,1190.0
+Arizona,2010,Biomass,29289.0
+Arizona,2010,Coal,457909.0
+Arizona,2010,Elec,248506.0
+Arizona,2010,FossFuel,1292346.0
+Arizona,2010,Geo,339.0
+Arizona,2010,Hydro,64606.0
+Arizona,2010,NatGas,336208.0
+Arizona,2010,LPG,7838.0
+Arizona,2011,Biomass,28565.0
+Arizona,2011,Coal,459909.0
+Arizona,2011,Elec,255708.0
+Arizona,2011,FossFuel,1253992.0
+Arizona,2011,Geo,345.0
+Arizona,2011,Hydro,89135.0
+Arizona,2011,NatGas,293134.0
+Arizona,2011,LPG,8759.0
+Arizona,2012,Biomass,27267.0
+Arizona,2012,Coal,420570.0
+Arizona,2012,Elec,256116.0
+Arizona,2012,FossFuel,1248032.0
+Arizona,2012,Geo,345.0
+Arizona,2012,Hydro,63918.0
+Arizona,2012,NatGas,339043.0
+Arizona,2012,LPG,6522.0
+Arizona,2013,Biomass,26492.0
+Arizona,2013,Coal,454865.0
+Arizona,2013,Elec,258159.0
+Arizona,2013,FossFuel,1289119.0
+Arizona,2013,Geo,345.0
+Arizona,2013,Hydro,56432.0
+Arizona,2013,NatGas,340375.0
+Arizona,2013,LPG,7576.0
+Arizona,2014,Biomass,31481.0
+Arizona,2014,Coal,447849.0
+Arizona,2014,Elec,260328.0
+Arizona,2014,FossFuel,1256577.0
+Arizona,2014,Geo,345.0
+Arizona,2014,Hydro,58185.0
+Arizona,2014,NatGas,315448.0
+Arizona,2014,LPG,7373.0
+Arkansas,2010,Biomass,94865.0
+Arkansas,2010,Coal,293689.0
+Arkansas,2010,Elec,164439.0
+Arkansas,2010,FossFuel,909827.0
+Arkansas,2010,Geo,773.0
+Arkansas,2010,Hydro,35697.0
+Arkansas,2010,NatGas,274774.0
+Arkansas,2010,LPG,10016.0
+Arkansas,2011,Biomass,97160.0
+Arkansas,2011,Coal,306119.0
+Arkansas,2011,Elec,163530.0
+Arkansas,2011,FossFuel,932878.0
+Arkansas,2011,Geo,750.0
+Arkansas,2011,Hydro,28738.0
+Arkansas,2011,NatGas,288906.0
+Arkansas,2011,LPG,8992.0
+Arkansas,2012,Biomass,96248.0
+Arkansas,2012,Coal,296732.0
+Arkansas,2012,Elec,159885.0
+Arkansas,2012,FossFuel,918078.0
+Arkansas,2012,Geo,808.0
+Arkansas,2012,Hydro,20921.0
+Arkansas,2012,NatGas,300572.0
+Arkansas,2012,LPG,7733.0
+Arkansas,2013,Biomass,95356.0
+Arkansas,2013,Coal,327099.0
+Arkansas,2013,Elec,159283.0
+Arkansas,2013,FossFuel,936796.0
+Arkansas,2013,Geo,808.0
+Arkansas,2013,Hydro,25329.0
+Arkansas,2013,NatGas,286352.0
+Arkansas,2013,LPG,8864.0
+Arkansas,2014,Biomass,95963.0
+Arkansas,2014,Coal,339214.0
+Arkansas,2014,Elec,160638.0
+Arkansas,2014,FossFuel,939788.0
+Arkansas,2014,Geo,808.0
+Arkansas,2014,Hydro,25104.0
+Arkansas,2014,NatGas,274767.0
+Arkansas,2014,LPG,9145.0
+California,2010,Biomass,280124.0
+California,2010,Coal,54972.0
+California,2010,Elec,882107.0
+California,2010,FossFuel,5741492.0
+California,2010,Geo,124981.0
+California,2010,Hydro,326152.0
+California,2010,NatGas,2325411.0
+California,2010,LPG,63022.0
+California,2011,Biomass,282581.0
+California,2011,Coal,55264.0
+California,2011,Elec,893745.0
+California,2011,FossFuel,5550201.0
+California,2011,Geo,124092.0
+California,2011,Hydro,413488.0
+California,2011,NatGas,2196252.0
+California,2011,LPG,62639.0
+California,2012,Biomass,280963.0
+California,2012,Coal,43832.0
+California,2012,Elec,885544.0
+California,2012,FossFuel,5687343.0
+California,2012,Geo,121269.0
+California,2012,Hydro,255384.0
+California,2012,NatGas,2456371.0
+California,2012,LPG,55405.0
+California,2013,Biomass,294412.0
+California,2013,Coal,38151.0
+California,2013,Elec,891666.0
+California,2013,FossFuel,5755210.0
+California,2013,Geo,119556.0
+California,2013,Hydro,226643.0
+California,2013,NatGas,2483208.0
+California,2013,LPG,54438.0
+California,2014,Biomass,298473.0
+California,2014,Coal,39486.0
+California,2014,Elec,895939.0
+California,2014,FossFuel,5702418.0
+California,2014,Geo,117226.0
+California,2014,Hydro,157213.0
+California,2014,NatGas,2417476.0
+California,2014,LPG,51472.0
+Colorado,2010,Biomass,28210.0
+Colorado,2010,Coal,382623.0
+Colorado,2010,Elec,180555.0
+Colorado,2010,FossFuel,1370758.0
+Colorado,2010,Geo,721.0
+Colorado,2010,Hydro,15398.0
+Colorado,2010,NatGas,510877.0
+Colorado,2010,LPG,16395.0
+Colorado,2011,Biomass,30883.0
+Colorado,2011,Coal,368871.0
+Colorado,2011,Elec,182400.0
+Colorado,2011,FossFuel,1304903.0
+Colorado,2011,Geo,741.0
+Colorado,2011,Hydro,20235.0
+Colorado,2011,NatGas,481614.0
+Colorado,2011,LPG,16036.0
+Colorado,2012,Biomass,30680.0
+Colorado,2012,Coal,370085.0
+Colorado,2012,Elec,183174.0
+Colorado,2012,FossFuel,1282352.0
+Colorado,2012,Geo,759.0
+Colorado,2012,Hydro,14247.0
+Colorado,2012,NatGas,461056.0
+Colorado,2012,LPG,15118.0
+Colorado,2013,Biomass,35382.0
+Colorado,2013,Coal,363532.0
+Colorado,2013,Elec,182343.0
+Colorado,2013,FossFuel,1303825.0
+Colorado,2013,Geo,759.0
+Colorado,2013,Hydro,11572.0
+Colorado,2013,NatGas,487445.0
+Colorado,2013,LPG,17952.0
+Colorado,2014,Biomass,36073.0
+Colorado,2014,Coal,350526.0
+Colorado,2014,Elec,182189.0
+Colorado,2014,FossFuel,1313834.0
+Colorado,2014,Geo,759.0
+Colorado,2014,Hydro,16831.0
+Colorado,2014,NatGas,499668.0
+Colorado,2014,LPG,16341.0
+Connecticut,2010,Biomass,35716.0
+Connecticut,2010,Coal,28711.0
+Connecticut,2010,Elec,103697.0
+Connecticut,2010,FossFuel,562060.0
+Connecticut,2010,Geo,20.0
+Connecticut,2010,Hydro,3811.0
+Connecticut,2010,NatGas,203814.0
+Connecticut,2010,LPG,9425.0
+Connecticut,2011,Biomass,33958.0
+Connecticut,2011,Coal,6081.0
+Connecticut,2011,Elec,101879.0
+Connecticut,2011,FossFuel,557282.0
+Connecticut,2011,Geo,19.0
+Connecticut,2011,Hydro,5513.0
+Connecticut,2011,NatGas,236016.0
+Connecticut,2011,LPG,10092.0
+Connecticut,2012,Biomass,32800.0
+Connecticut,2012,Coal,9290.0
+Connecticut,2012,Elec,100628.0
+Connecticut,2012,FossFuel,544358.0
+Connecticut,2012,Geo,21.0
+Connecticut,2012,Hydro,2970.0
+Connecticut,2012,NatGas,236260.0
+Connecticut,2012,LPG,8988.0
+Connecticut,2013,Biomass,34153.0
+Connecticut,2013,Coal,7679.0
+Connecticut,2013,Elec,101761.0
+Connecticut,2013,FossFuel,560141.0
+Connecticut,2013,Geo,21.0
+Connecticut,2013,Hydro,3835.0
+Connecticut,2013,NatGas,241509.0
+Connecticut,2013,LPG,10949.0
+Connecticut,2014,Biomass,36011.0
+Connecticut,2014,Coal,9097.0
+Connecticut,2014,Elec,100157.0
+Connecticut,2014,FossFuel,559695.0
+Connecticut,2014,Geo,21.0
+Connecticut,2014,Hydro,4127.0
+Connecticut,2014,NatGas,240614.0
+Connecticut,2014,LPG,10083.0
+Delaware,2010,Biomass,6901.0
+Delaware,2010,Coal,30253.0
+Delaware,2010,Elec,39599.0
+Delaware,2010,FossFuel,171414.0
+Delaware,2010,Geo,414.0
+Delaware,2010,Hydro,0.0
+Delaware,2010,NatGas,56087.0
+Delaware,2010,LPG,5323.0
+Delaware,2011,Biomass,6781.0
+Delaware,2011,Coal,17881.0
+Delaware,2011,Elec,39181.0
+Delaware,2011,FossFuel,201518.0
+Delaware,2011,Geo,401.0
+Delaware,2011,Hydro,0.0
+Delaware,2011,NatGas,81710.0
+Delaware,2011,LPG,4730.0
+Delaware,2012,Biomass,5972.0
+Delaware,2012,Coal,17384.0
+Delaware,2012,Elec,39304.0
+Delaware,2012,FossFuel,221203.0
+Delaware,2012,Geo,430.0
+Delaware,2012,Hydro,0.0
+Delaware,2012,NatGas,104421.0
+Delaware,2012,LPG,4306.0
+Delaware,2013,Biomass,5977.0
+Delaware,2013,Coal,18254.0
+Delaware,2013,Elec,38719.0
+Delaware,2013,FossFuel,213411.0
+Delaware,2013,Geo,430.0
+Delaware,2013,Hydro,0.0
+Delaware,2013,NatGas,100106.0
+Delaware,2013,LPG,4675.0
+Delaware,2014,Biomass,6249.0
+Delaware,2014,Coal,10238.0
+Delaware,2014,Elec,38687.0
+Delaware,2014,FossFuel,213655.0
+Delaware,2014,Geo,430.0
+Delaware,2014,Hydro,0.0
+Delaware,2014,NatGas,106854.0
+Delaware,2014,LPG,4872.0
+Florida,2010,Biomass,246789.0
+Florida,2010,Coal,637416.0
+Florida,2010,Elec,788887.0
+Florida,2010,FossFuel,3491560.0
+Florida,2010,Geo,9516.0
+Florida,2010,Hydro,1731.0
+Florida,2010,NatGas,1180462.0
+Florida,2010,LPG,20915.0
+Florida,2011,Biomass,245557.0
+Florida,2011,Coal,552730.0
+Florida,2011,Elec,768009.0
+Florida,2011,FossFuel,3357837.0
+Florida,2011,Geo,9799.0
+Florida,2011,Hydro,1769.0
+Florida,2011,NatGas,1235953.0
+Florida,2011,LPG,19205.0
+Florida,2012,Biomass,244646.0
+Florida,2012,Coal,482984.0
+Florida,2012,Elec,752941.0
+Florida,2012,FossFuel,3327632.0
+Florida,2012,Geo,10056.0
+Florida,2012,Hydro,1432.0
+Florida,2012,NatGas,1348390.0
+Florida,2012,LPG,17524.0
+Florida,2013,Biomass,253961.0
+Florida,2013,Coal,505155.0
+Florida,2013,Elec,757189.0
+Florida,2013,FossFuel,3273949.0
+Florida,2013,Geo,10056.0
+Florida,2013,Hydro,2425.0
+Florida,2013,NatGas,1245287.0
+Florida,2013,LPG,16807.0
+Florida,2014,Biomass,250043.0
+Florida,2014,Coal,557882.0
+Florida,2014,Elec,771379.0
+Florida,2014,FossFuel,3350291.0
+Florida,2014,Geo,10056.0
+Florida,2014,Hydro,2010.0
+Florida,2014,NatGas,1246670.0
+Florida,2014,LPG,16502.0
+Georgia,2010,Biomass,204742.0
+Georgia,2010,Coal,767906.0
+Georgia,2010,Elec,479971.0
+Georgia,2010,FossFuel,2324200.0
+Georgia,2010,Geo,300.0
+Georgia,2010,Hydro,32407.0
+Georgia,2010,NatGas,541691.0
+Georgia,2010,LPG,22767.0
+Georgia,2011,Biomass,210583.0
+Georgia,2011,Coal,634756.0
+Georgia,2011,Elec,465298.0
+Georgia,2011,FossFuel,2142535.0
+Georgia,2011,Geo,291.0
+Georgia,2011,Hydro,26282.0
+Georgia,2011,NatGas,532310.0
+Georgia,2011,LPG,18607.0
+Georgia,2012,Biomass,207725.0
+Georgia,2012,Coal,435546.0
+Georgia,2012,Elec,446900.0
+Georgia,2012,FossFuel,1946907.0
+Georgia,2012,Geo,315.0
+Georgia,2012,Hydro,21281.0
+Georgia,2012,NatGas,625008.0
+Georgia,2012,LPG,20507.0
+Georgia,2013,Biomass,233509.0
+Georgia,2013,Coal,426184.0
+Georgia,2013,Elec,445257.0
+Georgia,2013,FossFuel,1928374.0
+Georgia,2013,Geo,315.0
+Georgia,2013,Hydro,35431.0
+Georgia,2013,NatGas,635287.0
+Georgia,2013,LPG,17424.0
+Georgia,2014,Biomass,252985.0
+Georgia,2014,Coal,482657.0
+Georgia,2014,Elec,463315.0
+Georgia,2014,FossFuel,1985059.0
+Georgia,2014,Geo,315.0
+Georgia,2014,Hydro,29142.0
+Georgia,2014,NatGas,666771.0
+Georgia,2014,LPG,19087.0
+Hawaii,2010,Biomass,10448.0
+Hawaii,2010,Coal,17117.0
+Hawaii,2010,Elec,34176.0
+Hawaii,2010,FossFuel,259018.0
+Hawaii,2010,Geo,1964.0
+Hawaii,2010,Hydro,687.0
+Hawaii,2010,NatGas,2732.0
+Hawaii,2010,LPG,3155.0
+Hawaii,2011,Biomass,10550.0
+Hawaii,2011,Coal,16080.0
+Hawaii,2011,Elec,33989.0
+Hawaii,2011,FossFuel,265505.0
+Hawaii,2011,Geo,2183.0
+Hawaii,2011,Hydro,905.0
+Hawaii,2011,NatGas,2744.0
+Hawaii,2011,LPG,3397.0
+Hawaii,2012,Biomass,9604.0
+Hawaii,2012,Coal,16572.0
+Hawaii,2012,Elec,32889.0
+Hawaii,2012,FossFuel,256754.0
+Hawaii,2012,Geo,2491.0
+Hawaii,2012,Hydro,1090.0
+Hawaii,2012,NatGas,2813.0
+Hawaii,2012,LPG,3441.0
+Hawaii,2013,Biomass,11179.0
+Hawaii,2013,Coal,15306.0
+Hawaii,2013,Elec,32425.0
+Hawaii,2013,FossFuel,252836.0
+Hawaii,2013,Geo,2630.0
+Hawaii,2013,Hydro,747.0
+Hawaii,2013,NatGas,2805.0
+Hawaii,2013,LPG,3211.0
+Hawaii,2014,Biomass,10950.0
+Hawaii,2014,Coal,17241.0
+Hawaii,2014,Elec,32330.0
+Hawaii,2014,FossFuel,250786.0
+Hawaii,2014,Geo,2422.0
+Hawaii,2014,Hydro,895.0
+Hawaii,2014,NatGas,2805.0
+Hawaii,2014,LPG,3192.0
+Idaho,2010,Biomass,33561.0
+Idaho,2010,Coal,8527.0
+Idaho,2010,Elec,77786.0
+Idaho,2010,FossFuel,250946.0
+Idaho,2010,Geo,2120.0
+Idaho,2010,Hydro,89309.0
+Idaho,2010,NatGas,85075.0
+Idaho,2010,LPG,5268.0
+Idaho,2011,Biomass,31192.0
+Idaho,2011,Coal,7846.0
+Idaho,2011,Elec,79403.0
+Idaho,2011,FossFuel,247718.0
+Idaho,2011,Geo,2164.0
+Idaho,2011,Hydro,130241.0
+Idaho,2011,NatGas,83947.0
+Idaho,2011,LPG,5715.0
+Idaho,2012,Biomass,31038.0
+Idaho,2012,Coal,5186.0
+Idaho,2012,Elec,80905.0
+Idaho,2012,FossFuel,248082.0
+Idaho,2012,Geo,2213.0
+Idaho,2012,Hydro,104109.0
+Idaho,2012,NatGas,90339.0
+Idaho,2012,LPG,5318.0
+Idaho,2013,Biomass,33286.0
+Idaho,2013,Coal,7965.0
+Idaho,2013,Elec,82598.0
+Idaho,2013,FossFuel,270907.0
+Idaho,2013,Geo,1881.0
+Idaho,2013,Hydro,80845.0
+Idaho,2013,NatGas,106356.0
+Idaho,2013,LPG,6604.0
+Idaho,2014,Biomass,40040.0
+Idaho,2014,Coal,7472.0
+Idaho,2014,Elec,79272.0
+Idaho,2014,FossFuel,260704.0
+Idaho,2014,Geo,2252.0
+Idaho,2014,Hydro,85611.0
+Idaho,2014,NatGas,94319.0
+Idaho,2014,LPG,4962.0
+Illinois,2010,Biomass,147792.0
+Illinois,2010,Coal,1069037.0
+Illinois,2010,Elec,493923.0
+Illinois,2010,FossFuel,3225698.0
+Illinois,2010,Geo,1965.0
+Illinois,2010,Hydro,1157.0
+Illinois,2010,NatGas,974412.0
+Illinois,2010,LPG,71671.0
+Illinois,2011,Biomass,133873.0
+Illinois,2011,Coal,1052224.0
+Illinois,2011,Elec,487526.0
+Illinois,2011,FossFuel,3212010.0
+Illinois,2011,Geo,1905.0
+Illinois,2011,Hydro,1365.0
+Illinois,2011,NatGas,997722.0
+Illinois,2011,LPG,66874.0
+Illinois,2012,Biomass,132247.0
+Illinois,2012,Coal,969294.0
+Illinois,2012,Elec,489758.0
+Illinois,2012,FossFuel,3044403.0
+Illinois,2012,Geo,2042.0
+Illinois,2012,Hydro,1058.0
+Illinois,2012,NatGas,950711.0
+Illinois,2012,LPG,65531.0
+Illinois,2013,Biomass,135697.0
+Illinois,2013,Coal,1026925.0
+Illinois,2013,Elec,483838.0
+Illinois,2013,FossFuel,3266060.0
+Illinois,2013,Geo,2042.0
+Illinois,2013,Hydro,1148.0
+Illinois,2013,NatGas,1073734.0
+Illinois,2013,LPG,78680.0
+Illinois,2014,Biomass,138402.0
+Illinois,2014,Coal,1017855.0
+Illinois,2014,Elec,482935.0
+Illinois,2014,FossFuel,3304158.0
+Illinois,2014,Geo,2042.0
+Illinois,2014,Hydro,1258.0
+Illinois,2014,NatGas,1116417.0
+Illinois,2014,LPG,67730.0
+Indiana,2010,Biomass,98571.0
+Indiana,2010,Coal,1449371.0
+Indiana,2010,Elec,361653.0
+Indiana,2010,FossFuel,2770123.0
+Indiana,2010,Geo,4408.0
+Indiana,2010,Hydro,4426.0
+Indiana,2010,NatGas,580752.0
+Indiana,2010,LPG,25691.0
+Indiana,2011,Biomass,105527.0
+Indiana,2011,Coal,1333442.0
+Indiana,2011,Elec,361051.0
+Indiana,2011,FossFuel,2712351.0
+Indiana,2011,Geo,4499.0
+Indiana,2011,Hydro,3972.0
+Indiana,2011,NatGas,638237.0
+Indiana,2011,LPG,25085.0
+Indiana,2012,Biomass,103946.0
+Indiana,2012,Coal,1193465.0
+Indiana,2012,Elec,358852.0
+Indiana,2012,FossFuel,2562415.0
+Indiana,2012,Geo,4647.0
+Indiana,2012,Hydro,4125.0
+Indiana,2012,NatGas,657719.0
+Indiana,2012,LPG,20584.0
+Indiana,2013,Biomass,108119.0
+Indiana,2013,Coal,1198611.0
+Indiana,2013,Elec,359923.0
+Indiana,2013,FossFuel,2632450.0
+Indiana,2013,Geo,4647.0
+Indiana,2013,Hydro,3692.0
+Indiana,2013,NatGas,682842.0
+Indiana,2013,LPG,25008.0
+Indiana,2014,Biomass,112781.0
+Indiana,2014,Coal,1221492.0
+Indiana,2014,Elec,364888.0
+Indiana,2014,FossFuel,2709827.0
+Indiana,2014,Geo,4647.0
+Indiana,2014,Hydro,3530.0
+Indiana,2014,NatGas,727758.0
+Indiana,2014,LPG,22520.0
+Iowa,2010,Biomass,239261.0
+Iowa,2010,Coal,493794.0
+Iowa,2010,Elec,155059.0
+Iowa,2010,FossFuel,1187456.0
+Iowa,2010,Geo,1170.0
+Iowa,2010,Hydro,9250.0
+Iowa,2010,NatGas,312941.0
+Iowa,2010,LPG,66062.0
+Iowa,2011,Biomass,231401.0
+Iowa,2011,Coal,463138.0
+Iowa,2011,Elec,155774.0
+Iowa,2011,FossFuel,1155743.0
+Iowa,2011,Geo,1359.0
+Iowa,2011,Hydro,8991.0
+Iowa,2011,NatGas,309672.0
+Iowa,2011,LPG,64049.0
+Iowa,2012,Biomass,216577.0
+Iowa,2012,Coal,422595.0
+Iowa,2012,Elec,155959.0
+Iowa,2012,FossFuel,1092732.0
+Iowa,2012,Geo,1281.0
+Iowa,2012,Hydro,7291.0
+Iowa,2012,NatGas,299315.0
+Iowa,2012,LPG,62281.0
+Iowa,2013,Biomass,227495.0
+Iowa,2013,Coal,402402.0
+Iowa,2013,Elec,159358.0
+Iowa,2013,FossFuel,1125533.0
+Iowa,2013,Geo,1281.0
+Iowa,2013,Hydro,7147.0
+Iowa,2013,NatGas,331358.0
+Iowa,2013,LPG,70963.0
+Iowa,2014,Biomass,241138.0
+Iowa,2014,Coal,401151.0
+Iowa,2014,Elec,161053.0
+Iowa,2014,FossFuel,1137920.0
+Iowa,2014,Geo,1281.0
+Iowa,2014,Hydro,8356.0
+Iowa,2014,NatGas,342431.0
+Iowa,2014,LPG,68131.0
+Kansas,2010,Biomass,39348.0
+Kansas,2010,Coal,359908.0
+Kansas,2010,Elec,137915.0
+Kansas,2010,FossFuel,997849.0
+Kansas,2010,Geo,906.0
+Kansas,2010,Hydro,129.0
+Kansas,2010,NatGas,280413.0
+Kansas,2010,LPG,12277.0
+Kansas,2011,Biomass,41131.0
+Kansas,2011,Coal,346521.0
+Kansas,2011,Elec,139074.0
+Kansas,2011,FossFuel,970721.0
+Kansas,2011,Geo,1005.0
+Kansas,2011,Hydro,143.0
+Kansas,2011,NatGas,285318.0
+Kansas,2011,LPG,11583.0
+Kansas,2012,Biomass,38492.0
+Kansas,2012,Coal,307585.0
+Kansas,2012,Elec,137481.0
+Kansas,2012,FossFuel,913457.0
+Kansas,2012,Geo,974.0
+Kansas,2012,Hydro,99.0
+Kansas,2012,NatGas,268086.0
+Kansas,2012,LPG,9589.0
+Kansas,2013,Biomass,40855.0
+Kansas,2013,Coal,326817.0
+Kansas,2013,Elec,135959.0
+Kansas,2013,FossFuel,963626.0
+Kansas,2013,Geo,974.0
+Kansas,2013,Hydro,139.0
+Kansas,2013,NatGas,288840.0
+Kansas,2013,LPG,11228.0
+Kansas,2014,Biomass,45862.0
+Kansas,2014,Coal,316572.0
+Kansas,2014,Elec,138396.0
+Kansas,2014,FossFuel,965093.0
+Kansas,2014,Geo,974.0
+Kansas,2014,Hydro,154.0
+Kansas,2014,NatGas,289697.0
+Kansas,2014,LPG,11283.0
+Kentucky,2010,Biomass,51017.0
+Kentucky,2010,Coal,1009823.0
+Kentucky,2010,Elec,319259.0
+Kentucky,2010,FossFuel,1874296.0
+Kentucky,2010,Geo,2544.0
+Kentucky,2010,Hydro,25173.0
+Kentucky,2010,NatGas,239062.0
+Kentucky,2010,LPG,33939.0
+Kentucky,2011,Biomass,51474.0
+Kentucky,2011,Coal,1010623.0
+Kentucky,2011,Elec,305505.0
+Kentucky,2011,FossFuel,1846216.0
+Kentucky,2011,Geo,2700.0
+Kentucky,2011,Hydro,28850.0
+Kentucky,2011,NatGas,229056.0
+Kentucky,2011,LPG,32032.0
+Kentucky,2012,Biomass,49735.0
+Kentucky,2012,Coal,909705.0
+Kentucky,2012,Elec,303833.0
+Kentucky,2012,FossFuel,1735259.0
+Kentucky,2012,Geo,2712.0
+Kentucky,2012,Hydro,22475.0
+Kentucky,2012,NatGas,232702.0
+Kentucky,2012,LPG,32072.0
+Kentucky,2013,Biomass,55168.0
+Kentucky,2013,Coal,914774.0
+Kentucky,2013,Elec,289214.0
+Kentucky,2013,FossFuel,1737960.0
+Kentucky,2013,Geo,2712.0
+Kentucky,2013,Hydro,31249.0
+Kentucky,2013,NatGas,236423.0
+Kentucky,2013,LPG,48525.0
+Kentucky,2014,Biomass,57195.0
+Kentucky,2014,Coal,913452.0
+Kentucky,2014,Elec,268998.0
+Kentucky,2014,FossFuel,1754132.0
+Kentucky,2014,Geo,2712.0
+Kentucky,2014,Hydro,29895.0
+Kentucky,2014,NatGas,261233.0
+Kentucky,2014,LPG,36157.0
+Louisiana,2010,Biomass,112227.0
+Louisiana,2010,Coal,259750.0
+Louisiana,2010,Elec,290292.0
+Louisiana,2010,FossFuel,3974821.0
+Louisiana,2010,Geo,1708.0
+Louisiana,2010,Hydro,10817.0
+Louisiana,2010,NatGas,1483201.0
+Louisiana,2010,LPG,489633.0
+Louisiana,2011,Biomass,113514.0
+Louisiana,2011,Coal,269993.0
+Louisiana,2011,Elec,294691.0
+Louisiana,2011,FossFuel,4015581.0
+Louisiana,2011,Geo,1891.0
+Louisiana,2011,Hydro,10144.0
+Louisiana,2011,NatGas,1536147.0
+Louisiana,2011,LPG,516784.0
+Louisiana,2012,Biomass,113460.0
+Louisiana,2012,Coal,238811.0
+Louisiana,2012,Elec,289101.0
+Louisiana,2012,FossFuel,3886754.0
+Louisiana,2012,Geo,1842.0
+Louisiana,2012,Hydro,6470.0
+Louisiana,2012,NatGas,1586439.0
+Louisiana,2012,LPG,565869.0
+Louisiana,2013,Biomass,125789.0
+Louisiana,2013,Coal,228055.0
+Louisiana,2013,Elec,292777.0
+Louisiana,2013,FossFuel,3785289.0
+Louisiana,2013,Geo,1842.0
+Louisiana,2013,Hydro,9966.0
+Louisiana,2013,NatGas,1499625.0
+Louisiana,2013,LPG,613368.0
+Louisiana,2014,Biomass,144404.0
+Louisiana,2014,Coal,209973.0
+Louisiana,2014,Elec,309224.0
+Louisiana,2014,FossFuel,3810396.0
+Louisiana,2014,Geo,1842.0
+Louisiana,2014,Hydro,10366.0
+Louisiana,2014,NatGas,1563857.0
+Louisiana,2014,LPG,617916.0
+Maine,2010,Biomass,114477.0
+Maine,2010,Coal,2279.0
+Maine,2010,Elec,39346.0
+Maine,2010,FossFuel,277354.0
+Maine,2010,Geo,70.0
+Maine,2010,Hydro,37174.0
+Maine,2010,NatGas,80988.0
+Maine,2010,LPG,10859.0
+Maine,2011,Biomass,113899.0
+Maine,2011,Coal,1542.0
+Maine,2011,Elec,38949.0
+Maine,2011,FossFuel,268118.0
+Maine,2011,Geo,68.0
+Maine,2011,Hydro,38660.0
+Maine,2011,NatGas,75061.0
+Maine,2011,LPG,10996.0
+Maine,2012,Biomass,113103.0
+Maine,2012,Coal,1299.0
+Maine,2012,Elec,39446.0
+Maine,2012,FossFuel,244896.0
+Maine,2012,Geo,72.0
+Maine,2012,Hydro,35519.0
+Maine,2012,NatGas,70451.0
+Maine,2012,LPG,10825.0
+Maine,2013,Biomass,116850.0
+Maine,2013,Coal,1657.0
+Maine,2013,Elec,40449.0
+Maine,2013,FossFuel,253371.0
+Maine,2013,Geo,72.0
+Maine,2013,Hydro,33970.0
+Maine,2013,NatGas,66014.0
+Maine,2013,LPG,13201.0
+Maine,2014,Biomass,111979.0
+Maine,2014,Coal,2142.0
+Maine,2014,Elec,40953.0
+Maine,2014,FossFuel,252829.0
+Maine,2014,Geo,72.0
+Maine,2014,Hydro,34457.0
+Maine,2014,NatGas,62355.0
+Maine,2014,LPG,12801.0
+Maryland,2010,Biomass,51683.0
+Maryland,2010,Coal,266067.0
+Maryland,2010,Elec,222925.0
+Maryland,2010,FossFuel,963419.0
+Maryland,2010,Geo,548.0
+Maryland,2010,Hydro,16267.0
+Maryland,2010,NatGas,217744.0
+Maryland,2010,LPG,13030.0
+Maryland,2011,Biomass,49917.0
+Maryland,2011,Coal,241190.0
+Maryland,2011,Elec,217002.0
+Maryland,2011,FossFuel,900614.0
+Maryland,2011,Geo,532.0
+Maryland,2011,Hydro,24748.0
+Maryland,2011,NatGas,199223.0
+Maryland,2011,LPG,12743.0
+Maryland,2012,Biomass,49822.0
+Maryland,2012,Coal,192334.0
+Maryland,2012,Elec,210908.0
+Maryland,2012,FossFuel,857053.0
+Maryland,2012,Geo,570.0
+Maryland,2012,Hydro,15764.0
+Maryland,2012,NatGas,216678.0
+Maryland,2012,LPG,9977.0
+Maryland,2013,Biomass,54874.0
+Maryland,2013,Coal,183191.0
+Maryland,2013,Elec,211201.0
+Maryland,2013,FossFuel,847590.0
+Maryland,2013,Geo,570.0
+Maryland,2013,Hydro,16477.0
+Maryland,2013,NatGas,207422.0
+Maryland,2013,LPG,11389.0
+Maryland,2014,Biomass,53814.0
+Maryland,2014,Coal,201220.0
+Maryland,2014,Elec,210465.0
+Maryland,2014,FossFuel,878993.0
+Maryland,2014,Geo,570.0
+Maryland,2014,Hydro,15364.0
+Maryland,2014,NatGas,217440.0
+Maryland,2014,LPG,12185.0
+Massachusetts,2010,Biomass,59866.0
+Massachusetts,2010,Coal,83850.0
+Massachusetts,2010,Elec,194905.0
+Massachusetts,2010,FossFuel,1107941.0
+Massachusetts,2010,Geo,764.0
+Massachusetts,2010,Hydro,9720.0
+Massachusetts,2010,NatGas,447429.0
+Massachusetts,2010,LPG,9140.0
+Massachusetts,2011,Biomass,59074.0
+Massachusetts,2011,Coal,42963.0
+Massachusetts,2011,Elec,189605.0
+Massachusetts,2011,FossFuel,1073354.0
+Massachusetts,2011,Geo,962.0
+Massachusetts,2011,Hydro,11161.0
+Massachusetts,2011,NatGas,464018.0
+Massachusetts,2011,LPG,10672.0
+Massachusetts,2012,Biomass,57348.0
+Massachusetts,2012,Coal,24036.0
+Massachusetts,2012,Elec,188729.0
+Massachusetts,2012,FossFuel,982397.0
+Massachusetts,2012,Geo,859.0
+Massachusetts,2012,Hydro,8683.0
+Massachusetts,2012,NatGas,430921.0
+Massachusetts,2012,LPG,9254.0
+Massachusetts,2013,Biomass,60267.0
+Massachusetts,2013,Coal,42208.0
+Massachusetts,2013,Elec,188564.0
+Massachusetts,2013,FossFuel,1030817.0
+Massachusetts,2013,Geo,859.0
+Massachusetts,2013,Hydro,9460.0
+Massachusetts,2013,NatGas,434893.0
+Massachusetts,2013,LPG,11098.0
+Massachusetts,2014,Biomass,61735.0
+Massachusetts,2014,Coal,29871.0
+Massachusetts,2014,Elec,185849.0
+Massachusetts,2014,FossFuel,1011008.0
+Massachusetts,2014,Geo,859.0
+Massachusetts,2014,Hydro,8579.0
+Massachusetts,2014,NatGas,433246.0
+Massachusetts,2014,LPG,11534.0
+Michigan,2010,Biomass,129422.0
+Michigan,2010,Coal,749285.0
+Michigan,2010,Elec,353651.0
+Michigan,2010,FossFuel,2305457.0
+Michigan,2010,Geo,4898.0
+Michigan,2010,Hydro,12200.0
+Michigan,2010,NatGas,758696.0
+Michigan,2010,LPG,41696.0
+Michigan,2011,Biomass,140472.0
+Michigan,2011,Coal,691150.0
+Michigan,2011,Elec,358443.0
+Michigan,2011,FossFuel,2253650.0
+Michigan,2011,Geo,5088.0
+Michigan,2011,Hydro,13188.0
+Michigan,2011,NatGas,787337.0
+Michigan,2011,LPG,40051.0
+Michigan,2012,Biomass,140729.0
+Michigan,2012,Coal,621633.0
+Michigan,2012,Elec,357640.0
+Michigan,2012,FossFuel,2186354.0
+Michigan,2012,Geo,5193.0
+Michigan,2012,Hydro,11561.0
+Michigan,2012,NatGas,804084.0
+Michigan,2012,LPG,35551.0
+Michigan,2013,Biomass,148084.0
+Michigan,2013,Coal,658172.0
+Michigan,2013,Elec,351567.0
+Michigan,2013,FossFuel,2304114.0
+Michigan,2013,Geo,5193.0
+Michigan,2013,Hydro,13539.0
+Michigan,2013,NatGas,828483.0
+Michigan,2013,LPG,47132.0
+Michigan,2014,Biomass,150125.0
+Michigan,2014,Coal,618479.0
+Michigan,2014,Elec,352508.0
+Michigan,2014,FossFuel,2329372.0
+Michigan,2014,Geo,5193.0
+Michigan,2014,Hydro,15216.0
+Michigan,2014,NatGas,878699.0
+Michigan,2014,LPG,46050.0
+Minnesota,2010,Biomass,163181.0
+Minnesota,2010,Coal,315438.0
+Minnesota,2010,Elec,231333.0
+Minnesota,2010,FossFuel,1337325.0
+Minnesota,2010,Geo,1035.0
+Minnesota,2010,Hydro,8199.0
+Minnesota,2010,NatGas,427198.0
+Minnesota,2010,LPG,30431.0
+Minnesota,2011,Biomass,155130.0
+Minnesota,2011,Coal,315604.0
+Minnesota,2011,Elec,233834.0
+Minnesota,2011,FossFuel,1329595.0
+Minnesota,2011,Geo,1003.0
+Minnesota,2011,Hydro,7250.0
+Minnesota,2011,NatGas,424978.0
+Minnesota,2011,LPG,29366.0
+Minnesota,2012,Biomass,150916.0
+Minnesota,2012,Coal,257875.0
+Minnesota,2012,Elec,231977.0
+Minnesota,2012,FossFuel,1281593.0
+Minnesota,2012,Geo,1075.0
+Minnesota,2012,Hydro,5339.0
+Minnesota,2012,NatGas,430286.0
+Minnesota,2012,LPG,27850.0
+Minnesota,2013,Biomass,148505.0
+Minnesota,2013,Coal,267695.0
+Minnesota,2013,Elec,234214.0
+Minnesota,2013,FossFuel,1328816.0
+Minnesota,2013,Geo,1075.0
+Minnesota,2013,Hydro,4877.0
+Minnesota,2013,NatGas,474891.0
+Minnesota,2013,LPG,36574.0
+Minnesota,2014,Biomass,162992.0
+Minnesota,2014,Coal,313073.0
+Minnesota,2014,Elec,234470.0
+Minnesota,2014,FossFuel,1385193.0
+Minnesota,2014,Geo,1075.0
+Minnesota,2014,Hydro,5216.0
+Minnesota,2014,NatGas,489901.0
+Minnesota,2014,LPG,39558.0
+Mississippi,2010,Biomass,71310.0
+Mississippi,2010,Coal,148463.0
+Mississippi,2010,Elec,169533.0
+Mississippi,2010,FossFuel,999309.0
+Mississippi,2010,Geo,855.0
+Mississippi,2010,Hydro,0.0
+Mississippi,2010,NatGas,444875.0
+Mississippi,2010,LPG,11899.0
+Mississippi,2011,Biomass,71184.0
+Mississippi,2011,Coal,107546.0
+Mississippi,2011,Elec,168340.0
+Mississippi,2011,FossFuel,944952.0
+Mississippi,2011,Geo,1074.0
+Mississippi,2011,Hydro,0.0
+Mississippi,2011,NatGas,437873.0
+Mississippi,2011,LPG,10531.0
+Mississippi,2012,Biomass,84165.0
+Mississippi,2012,Coal,82456.0
+Mississippi,2012,Elec,165099.0
+Mississippi,2012,FossFuel,989634.0
+Mississippi,2012,Geo,958.0
+Mississippi,2012,Hydro,0.0
+Mississippi,2012,NatGas,499946.0
+Mississippi,2012,LPG,8627.0
+Mississippi,2013,Biomass,70216.0
+Mississippi,2013,Coal,97767.0
+Mississippi,2013,Elec,166444.0
+Mississippi,2013,FossFuel,942046.0
+Mississippi,2013,Geo,958.0
+Mississippi,2013,Hydro,0.0
+Mississippi,2013,NatGas,427323.0
+Mississippi,2013,LPG,10027.0
+Mississippi,2014,Biomass,71994.0
+Mississippi,2014,Coal,116537.0
+Mississippi,2014,Elec,168582.0
+Mississippi,2014,FossFuel,982217.0
+Mississippi,2014,Geo,958.0
+Mississippi,2014,Hydro,0.0
+Mississippi,2014,NatGas,440003.0
+Mississippi,2014,LPG,10676.0
+Missouri,2010,Biomass,69261.0
+Missouri,2010,Coal,801625.0
+Missouri,2010,Elec,293722.0
+Missouri,2010,FossFuel,1721620.0
+Missouri,2010,Geo,339.0
+Missouri,2010,Hydro,15018.0
+Missouri,2010,NatGas,282141.0
+Missouri,2010,LPG,28861.0
+Missouri,2011,Biomass,66131.0
+Missouri,2011,Coal,825650.0
+Missouri,2011,Elec,287478.0
+Missouri,2011,FossFuel,1719891.0
+Missouri,2011,Geo,329.0
+Missouri,2011,Hydro,11515.0
+Missouri,2011,NatGas,275308.0
+Missouri,2011,LPG,25961.0
+Missouri,2012,Biomass,62496.0
+Missouri,2012,Coal,768297.0
+Missouri,2012,Elec,281269.0
+Missouri,2012,FossFuel,1623633.0
+Missouri,2012,Geo,352.0
+Missouri,2012,Hydro,6797.0
+Missouri,2012,NatGas,258945.0
+Missouri,2012,LPG,22703.0
+Missouri,2013,Biomass,71490.0
+Missouri,2013,Coal,806549.0
+Missouri,2013,Elec,284585.0
+Missouri,2013,FossFuel,1689057.0
+Missouri,2013,Geo,352.0
+Missouri,2013,Hydro,10843.0
+Missouri,2013,NatGas,280845.0
+Missouri,2013,LPG,25820.0
+Missouri,2014,Biomass,74839.0
+Missouri,2014,Coal,780707.0
+Missouri,2014,Elec,286193.0
+Missouri,2014,FossFuel,1694147.0
+Missouri,2014,Geo,352.0
+Missouri,2014,Hydro,6632.0
+Missouri,2014,NatGas,301360.0
+Missouri,2014,LPG,27023.0
+Montana,2010,Biomass,14644.0
+Montana,2010,Coal,203339.0
+Montana,2010,Elec,46988.0
+Montana,2010,FossFuel,447231.0
+Montana,2010,Geo,279.0
+Montana,2010,Hydro,91849.0
+Montana,2010,NatGas,72888.0
+Montana,2010,LPG,9000.0
+Montana,2011,Biomass,7601.0
+Montana,2011,Coal,165687.0
+Montana,2011,Elec,47045.0
+Montana,2011,FossFuel,422616.0
+Montana,2011,Geo,403.0
+Montana,2011,Hydro,122382.0
+Montana,2011,NatGas,79470.0
+Montana,2011,LPG,9531.0
+Montana,2012,Biomass,7601.0
+Montana,2012,Coal,157308.0
+Montana,2012,Elec,47302.0
+Montana,2012,FossFuel,405716.0
+Montana,2012,Geo,337.0
+Montana,2012,Hydro,107373.0
+Montana,2012,NatGas,75234.0
+Montana,2012,LPG,8061.0
+Montana,2013,Biomass,8632.0
+Montana,2013,Coal,166104.0
+Montana,2013,Elec,47922.0
+Montana,2013,FossFuel,422138.0
+Montana,2013,Geo,337.0
+Montana,2013,Hydro,91959.0
+Montana,2013,NatGas,81900.0
+Montana,2013,LPG,7786.0
+Montana,2014,Biomass,8888.0
+Montana,2014,Coal,175357.0
+Montana,2014,Elec,48117.0
+Montana,2014,FossFuel,423897.0
+Montana,2014,Geo,337.0
+Montana,2014,Hydro,109201.0
+Montana,2014,NatGas,79260.0
+Montana,2014,LPG,8298.0
+Nebraska,2010,Biomass,109887.0
+Nebraska,2010,Coal,254552.0
+Nebraska,2010,Elec,101846.0
+Nebraska,2010,FossFuel,666348.0
+Nebraska,2010,Geo,1151.0
+Nebraska,2010,Hydro,12818.0
+Nebraska,2010,NatGas,169620.0
+Nebraska,2010,LPG,12111.0
+Nebraska,2011,Biomass,116589.0
+Nebraska,2011,Coal,285384.0
+Nebraska,2011,Elec,101255.0
+Nebraska,2011,FossFuel,690557.0
+Nebraska,2011,Geo,1195.0
+Nebraska,2011,Hydro,15713.0
+Nebraska,2011,NatGas,173666.0
+Nebraska,2011,LPG,10877.0
+Nebraska,2012,Biomass,107042.0
+Nebraska,2012,Coal,272587.0
+Nebraska,2012,Elec,105185.0
+Nebraska,2012,FossFuel,668116.0
+Nebraska,2012,Geo,1212.0
+Nebraska,2012,Hydro,11962.0
+Nebraska,2012,NatGas,161774.0
+Nebraska,2012,LPG,9757.0
+Nebraska,2013,Biomass,107097.0
+Nebraska,2013,Coal,292956.0
+Nebraska,2013,Elec,104750.0
+Nebraska,2013,FossFuel,705960.0
+Nebraska,2013,Geo,1212.0
+Nebraska,2013,Hydro,10723.0
+Nebraska,2013,NatGas,178752.0
+Nebraska,2013,LPG,12280.0
+Nebraska,2014,Biomass,102397.0
+Nebraska,2014,Coal,276544.0
+Nebraska,2014,Elec,103118.0
+Nebraska,2014,FossFuel,691958.0
+Nebraska,2014,Geo,1212.0
+Nebraska,2014,Hydro,11010.0
+Nebraska,2014,NatGas,179544.0
+Nebraska,2014,LPG,10349.0
+Nevada,2010,Biomass,9739.0
+Nevada,2010,Coal,80228.0
+Nevada,2010,Elec,115232.0
+Nevada,2010,FossFuel,577325.0
+Nevada,2010,Geo,21631.0
+Nevada,2010,Hydro,21047.0
+Nevada,2010,NatGas,267808.0
+Nevada,2010,LPG,4409.0
+Nevada,2011,Biomass,9375.0
+Nevada,2011,Coal,62701.0
+Nevada,2011,Elec,115723.0
+Nevada,2011,FossFuel,529486.0
+Nevada,2011,Geo,22419.0
+Nevada,2011,Hydro,21284.0
+Nevada,2011,NatGas,255970.0
+Nevada,2011,LPG,4170.0
+Nevada,2012,Biomass,9154.0
+Nevada,2012,Coal,52850.0
+Nevada,2012,Elec,120034.0
+Nevada,2012,FossFuel,548427.0
+Nevada,2012,Geo,23886.0
+Nevada,2012,Hydro,23223.0
+Nevada,2012,NatGas,281432.0
+Nevada,2012,LPG,4125.0
+Nevada,2013,Biomass,10021.0
+Nevada,2013,Coal,64838.0
+Nevada,2013,Elec,120141.0
+Nevada,2013,FossFuel,569355.0
+Nevada,2013,Geo,27022.0
+Nevada,2013,Hydro,25588.0
+Nevada,2013,NatGas,281972.0
+Nevada,2013,LPG,4444.0
+Nevada,2014,Biomass,10681.0
+Nevada,2014,Coal,79230.0
+Nevada,2014,Elec,119678.0
+Nevada,2014,FossFuel,568174.0
+Nevada,2014,Geo,27499.0
+Nevada,2014,Hydro,22719.0
+Nevada,2014,NatGas,259438.0
+Nevada,2014,LPG,4059.0
+New Hampshire,2010,Biomass,33502.0
+New Hampshire,2010,Coal,33827.0
+New Hampshire,2010,Elec,37157.0
+New Hampshire,2010,FossFuel,242475.0
+New Hampshire,2010,Geo,28.0
+New Hampshire,2010,Hydro,14415.0
+New Hampshire,2010,NatGas,62612.0
+New Hampshire,2010,LPG,12029.0
+New Hampshire,2011,Biomass,33745.0
+New Hampshire,2011,Coal,24489.0
+New Hampshire,2011,Elec,37084.0
+New Hampshire,2011,FossFuel,242846.0
+New Hampshire,2011,Geo,27.0
+New Hampshire,2011,Hydro,15592.0
+New Hampshire,2011,NatGas,72778.0
+New Hampshire,2011,LPG,13375.0
+New Hampshire,2012,Biomass,35301.0
+New Hampshire,2012,Coal,14191.0
+New Hampshire,2012,Elec,37089.0
+New Hampshire,2012,FossFuel,224415.0
+New Hampshire,2012,Geo,29.0
+New Hampshire,2012,Hydro,12270.0
+New Hampshire,2012,NatGas,74336.0
+New Hampshire,2012,LPG,15243.0
+New Hampshire,2013,Biomass,40393.0
+New Hampshire,2013,Coal,16778.0
+New Hampshire,2013,Elec,37680.0
+New Hampshire,2013,FossFuel,214922.0
+New Hampshire,2013,Geo,29.0
+New Hampshire,2013,Hydro,13617.0
+New Hampshire,2013,NatGas,55649.0
+New Hampshire,2013,LPG,16495.0
+New Hampshire,2014,Biomass,43200.0
+New Hampshire,2014,Coal,14867.0
+New Hampshire,2014,Elec,37341.0
+New Hampshire,2014,FossFuel,225508.0
+New Hampshire,2014,Geo,29.0
+New Hampshire,2014,Hydro,13137.0
+New Hampshire,2014,NatGas,58841.0
+New Hampshire,2014,LPG,19027.0
+New Jersey,2010,Biomass,64370.0
+New Jersey,2010,Coal,71961.0
+New Jersey,2010,Elec,270160.0
+New Jersey,2010,FossFuel,1772767.0
+New Jersey,2010,Geo,448.0
+New Jersey,2010,Hydro,177.0
+New Jersey,2010,NatGas,671474.0
+New Jersey,2010,LPG,8532.0
+New Jersey,2011,Biomass,62752.0
+New Jersey,2011,Coal,49592.0
+New Jersey,2011,Elec,262246.0
+New Jersey,2011,FossFuel,1794240.0
+New Jersey,2011,Geo,435.0
+New Jersey,2011,Hydro,237.0
+New Jersey,2011,NatGas,677923.0
+New Jersey,2011,LPG,8544.0
+New Jersey,2012,Biomass,61003.0
+New Jersey,2012,Coal,25589.0
+New Jersey,2012,Elec,256081.0
+New Jersey,2012,FossFuel,1647100.0
+New Jersey,2012,Geo,466.0
+New Jersey,2012,Hydro,102.0
+New Jersey,2012,NatGas,670970.0
+New Jersey,2012,LPG,6972.0
+New Jersey,2013,Biomass,65208.0
+New Jersey,2013,Coal,25910.0
+New Jersey,2013,Elec,254680.0
+New Jersey,2013,FossFuel,1704155.0
+New Jersey,2013,Geo,466.0
+New Jersey,2013,Hydro,174.0
+New Jersey,2013,NatGas,712948.0
+New Jersey,2013,LPG,7711.0
+New Jersey,2014,Biomass,67456.0
+New Jersey,2014,Coal,30731.0
+New Jersey,2014,Elec,252031.0
+New Jersey,2014,FossFuel,1799165.0
+New Jersey,2014,Geo,466.0
+New Jersey,2014,Hydro,164.0
+New Jersey,2014,NatGas,798602.0
+New Jersey,2014,LPG,7881.0
+New Mexico,2010,Biomass,17663.0
+New Mexico,2010,Coal,267474.0
+New Mexico,2010,Elec,76526.0
+New Mexico,2010,FossFuel,737539.0
+New Mexico,2010,Geo,324.0
+New Mexico,2010,Hydro,2117.0
+New Mexico,2010,NatGas,246201.0
+New Mexico,2010,LPG,8501.0
+New Mexico,2011,Biomass,17054.0
+New Mexico,2011,Coal,284737.0
+New Mexico,2011,Elec,78618.0
+New Mexico,2011,FossFuel,768020.0
+New Mexico,2011,Geo,442.0
+New Mexico,2011,Hydro,1892.0
+New Mexico,2011,NatGas,251838.0
+New Mexico,2011,LPG,7782.0
+New Mexico,2012,Biomass,16179.0
+New Mexico,2012,Coal,263439.0
+New Mexico,2012,Elec,79085.0
+New Mexico,2012,FossFuel,745336.0
+New Mexico,2012,Geo,368.0
+New Mexico,2012,Hydro,2120.0
+New Mexico,2012,NatGas,249815.0
+New Mexico,2012,LPG,7683.0
+New Mexico,2013,Biomass,17990.0
+New Mexico,2013,Coal,256377.0
+New Mexico,2013,Elec,78698.0
+New Mexico,2013,FossFuel,741402.0
+New Mexico,2013,Geo,368.0
+New Mexico,2013,Hydro,876.0
+New Mexico,2013,NatGas,252867.0
+New Mexico,2013,LPG,8501.0
+New Mexico,2014,Biomass,17189.0
+New Mexico,2014,Coal,215348.0
+New Mexico,2014,Elec,78869.0
+New Mexico,2014,FossFuel,711338.0
+New Mexico,2014,Geo,451.0
+New Mexico,2014,Hydro,936.0
+New Mexico,2014,NatGas,256085.0
+New Mexico,2014,LPG,7187.0
+New York,2010,Biomass,120168.0
+New York,2010,Coal,167094.0
+New York,2010,Elec,493456.0
+New York,2010,FossFuel,2733286.0
+New York,2010,Geo,1070.0
+New York,2010,Hydro,248502.0
+New York,2010,NatGas,1224485.0
+New York,2010,LPG,31093.0
+New York,2011,Biomass,124402.0
+New York,2011,Coal,125181.0
+New York,2011,Elec,491487.0
+New York,2011,FossFuel,2620842.0
+New York,2011,Geo,1283.0
+New York,2011,Hydro,272019.0
+New York,2011,NatGas,1247757.0
+New York,2011,LPG,28906.0
+New York,2012,Biomass,122513.0
+New York,2012,Coal,72914.0
+New York,2012,Elec,488471.0
+New York,2012,FossFuel,2593481.0
+New York,2012,Geo,1185.0
+New York,2012,Hydro,234593.0
+New York,2012,NatGas,1260950.0
+New York,2012,LPG,26543.0
+New York,2013,Biomass,129687.0
+New York,2013,Coal,68707.0
+New York,2013,Elec,504618.0
+New York,2013,FossFuel,2629451.0
+New York,2013,Geo,1185.0
+New York,2013,Hydro,238270.0
+New York,2013,NatGas,1315282.0
+New York,2013,LPG,29634.0
+New York,2014,Biomass,134792.0
+New York,2014,Coal,64655.0
+New York,2014,Elec,502833.0
+New York,2014,FossFuel,2747588.0
+New York,2014,Geo,1185.0
+New York,2014,Hydro,248086.0
+New York,2014,NatGas,1386580.0
+New York,2014,LPG,33225.0
+North Carolina,2010,Biomass,134325.0
+North Carolina,2010,Coal,749091.0
+North Carolina,2010,Elec,465448.0
+North Carolina,2010,FossFuel,1869784.0
+North Carolina,2010,Geo,931.0
+North Carolina,2010,Hydro,46405.0
+North Carolina,2010,NatGas,308710.0
+North Carolina,2010,LPG,47840.0
+North Carolina,2011,Biomass,141002.0
+North Carolina,2011,Coal,624783.0
+North Carolina,2011,Elec,447262.0
+North Carolina,2011,FossFuel,1704725.0
+North Carolina,2011,Geo,903.0
+North Carolina,2011,Hydro,37828.0
+North Carolina,2011,NatGas,311189.0
+North Carolina,2011,LPG,41807.0
+North Carolina,2012,Biomass,142163.0
+North Carolina,2012,Coal,534713.0
+North Carolina,2012,Elec,437026.0
+North Carolina,2012,FossFuel,1654828.0
+North Carolina,2012,Geo,967.0
+North Carolina,2012,Hydro,35475.0
+North Carolina,2012,NatGas,367948.0
+North Carolina,2012,LPG,36513.0
+North Carolina,2013,Biomass,148324.0
+North Carolina,2013,Coal,493771.0
+North Carolina,2013,Elec,442809.0
+North Carolina,2013,FossFuel,1734549.0
+North Carolina,2013,Geo,967.0
+North Carolina,2013,Hydro,65838.0
+North Carolina,2013,NatGas,445898.0
+North Carolina,2013,LPG,33150.0
+North Carolina,2014,Biomass,145560.0
+North Carolina,2014,Coal,501592.0
+North Carolina,2014,Elec,454249.0
+North Carolina,2014,FossFuel,1761282.0
+North Carolina,2014,Geo,967.0
+North Carolina,2014,Hydro,45230.0
+North Carolina,2014,NatGas,460876.0
+North Carolina,2014,LPG,36489.0
+North Dakota,2010,Biomass,25305.0
+North Dakota,2010,Coal,409684.0
+North Dakota,2010,Elec,44207.0
+North Dakota,2010,FossFuel,622237.0
+North Dakota,2010,Geo,906.0
+North Dakota,2010,Hydro,19923.0
+North Dakota,2010,NatGas,70046.0
+North Dakota,2010,LPG,9541.0
+North Dakota,2011,Biomass,27145.0
+North Dakota,2011,Coal,394771.0
+North Dakota,2011,Elec,46871.0
+North Dakota,2011,FossFuel,652742.0
+North Dakota,2011,Geo,1001.0
+North Dakota,2011,Hydro,25068.0
+North Dakota,2011,NatGas,77752.0
+North Dakota,2011,LPG,9405.0
+North Dakota,2012,Biomass,25455.0
+North Dakota,2012,Coal,406344.0
+North Dakota,2012,Elec,50214.0
+North Dakota,2012,FossFuel,678850.0
+North Dakota,2012,Geo,978.0
+North Dakota,2012,Hydro,23573.0
+North Dakota,2012,NatGas,77469.0
+North Dakota,2012,LPG,9057.0
+North Dakota,2013,Biomass,26067.0
+North Dakota,2013,Coal,393193.0
+North Dakota,2013,Elec,54704.0
+North Dakota,2013,FossFuel,701050.0
+North Dakota,2013,Geo,978.0
+North Dakota,2013,Hydro,17674.0
+North Dakota,2013,NatGas,88285.0
+North Dakota,2013,LPG,12682.0
+North Dakota,2014,Biomass,26745.0
+North Dakota,2014,Coal,399195.0
+North Dakota,2014,Elec,62234.0
+North Dakota,2014,FossFuel,723128.0
+North Dakota,2014,Geo,978.0
+North Dakota,2014,Hydro,24073.0
+North Dakota,2014,NatGas,90629.0
+North Dakota,2014,LPG,10982.0
+Ohio,2010,Biomass,110645.0
+Ohio,2010,Coal,1355137.0
+Ohio,2010,Elec,525944.0
+Ohio,2010,FossFuel,3304252.0
+Ohio,2010,Geo,3241.0
+Ohio,2010,Hydro,4186.0
+Ohio,2010,NatGas,810958.0
+Ohio,2010,LPG,29374.0
+Ohio,2011,Biomass,115650.0
+Ohio,2011,Coal,1222606.0
+Ohio,2011,Elec,527994.0
+Ohio,2011,FossFuel,3188336.0
+Ohio,2011,Geo,3372.0
+Ohio,2011,Hydro,3728.0
+Ohio,2011,NatGas,849076.0
+Ohio,2011,LPG,29302.0
+Ohio,2012,Biomass,115615.0
+Ohio,2012,Coal,1019140.0
+Ohio,2012,Elec,520183.0
+Ohio,2012,FossFuel,2984206.0
+Ohio,2012,Geo,3435.0
+Ohio,2012,Hydro,3941.0
+Ohio,2012,NatGas,869934.0
+Ohio,2012,LPG,23914.0
+Ohio,2013,Biomass,126808.0
+Ohio,2013,Coal,1104486.0
+Ohio,2013,Elec,512848.0
+Ohio,2013,FossFuel,3170468.0
+Ohio,2013,Geo,3435.0
+Ohio,2013,Hydro,5240.0
+Ohio,2013,NatGas,954374.0
+Ohio,2013,LPG,26992.0
+Ohio,2014,Biomass,129920.0
+Ohio,2014,Coal,1057377.0
+Ohio,2014,Elec,514119.0
+Ohio,2014,FossFuel,3208044.0
+Ohio,2014,Geo,3435.0
+Ohio,2014,Hydro,4546.0
+Ohio,2014,NatGas,1044986.0
+Ohio,2014,LPG,27457.0
+Oklahoma,2010,Biomass,39320.0
+Oklahoma,2010,Coal,346047.0
+Oklahoma,2010,Elec,197370.0
+Oklahoma,2010,FossFuel,1571983.0
+Oklahoma,2010,Geo,23.0
+Oklahoma,2010,Hydro,27403.0
+Oklahoma,2010,NatGas,697351.0
+Oklahoma,2010,LPG,11435.0
+Oklahoma,2011,Biomass,39133.0
+Oklahoma,2011,Coal,378320.0
+Oklahoma,2011,Elec,204197.0
+Oklahoma,2011,FossFuel,1576848.0
+Oklahoma,2011,Geo,23.0
+Oklahoma,2011,Hydro,14641.0
+Oklahoma,2011,NatGas,676910.0
+Oklahoma,2011,LPG,10418.0
+Oklahoma,2012,Biomass,41310.0
+Oklahoma,2012,Coal,327089.0
+Oklahoma,2012,Elec,202470.0
+Oklahoma,2012,FossFuel,1567142.0
+Oklahoma,2012,Geo,24.0
+Oklahoma,2012,Hydro,10901.0
+Oklahoma,2012,NatGas,712411.0
+Oklahoma,2012,LPG,8764.0
+Oklahoma,2013,Biomass,42616.0
+Oklahoma,2013,Coal,335925.0
+Oklahoma,2013,Elec,204478.0
+Oklahoma,2013,FossFuel,1537652.0
+Oklahoma,2013,Geo,24.0
+Oklahoma,2013,Hydro,20781.0
+Oklahoma,2013,NatGas,682277.0
+Oklahoma,2013,LPG,10666.0
+Oklahoma,2014,Biomass,42870.0
+Oklahoma,2014,Coal,336080.0
+Oklahoma,2014,Elec,210088.0
+Oklahoma,2014,FossFuel,1543910.0
+Oklahoma,2014,Geo,24.0
+Oklahoma,2014,Hydro,13585.0
+Oklahoma,2014,NatGas,665799.0
+Oklahoma,2014,LPG,10596.0
+Oregon,2010,Biomass,59498.0
+Oregon,2010,Coal,42556.0
+Oregon,2010,Elec,157041.0
+Oregon,2010,FossFuel,628380.0
+Oregon,2010,Geo,1114.0
+Oregon,2010,Hydro,297970.0
+Oregon,2010,NatGas,242914.0
+Oregon,2010,LPG,5956.0
+Oregon,2011,Biomass,57460.0
+Oregon,2011,Coal,35135.0
+Oregon,2011,Elec,160949.0
+Oregon,2011,FossFuel,572458.0
+Oregon,2011,Geo,1286.0
+Oregon,2011,Hydro,411131.0
+Oregon,2011,NatGas,203607.0
+Oregon,2011,LPG,6208.0
+Oregon,2012,Biomass,61814.0
+Oregon,2012,Coal,28259.0
+Oregon,2012,Elec,159302.0
+Oregon,2012,FossFuel,575060.0
+Oregon,2012,Geo,1476.0
+Oregon,2012,Hydro,375027.0
+Oregon,2012,NatGas,220578.0
+Oregon,2012,LPG,5689.0
+Oregon,2013,Biomass,71299.0
+Oregon,2013,Coal,38900.0
+Oregon,2013,Elec,162551.0
+Oregon,2013,FossFuel,608017.0
+Oregon,2013,Geo,2803.0
+Oregon,2013,Hydro,315785.0
+Oregon,2013,NatGas,244025.0
+Oregon,2013,LPG,6013.0
+Oregon,2014,Biomass,72449.0
+Oregon,2014,Coal,34238.0
+Oregon,2014,Elec,161507.0
+Oregon,2014,FossFuel,588438.0
+Oregon,2014,Geo,2977.0
+Oregon,2014,Hydro,335341.0
+Oregon,2014,NatGas,225576.0
+Oregon,2014,LPG,6029.0
+Pennsylvania,2010,Biomass,132240.0
+Pennsylvania,2010,Coal,1310670.0
+Pennsylvania,2010,Elec,508265.0
+Pennsylvania,2010,FossFuel,3469617.0
+Pennsylvania,2010,Geo,2018.0
+Pennsylvania,2010,Hydro,22753.0
+Pennsylvania,2010,NatGas,909263.0
+Pennsylvania,2010,LPG,55261.0
+Pennsylvania,2011,Biomass,143718.0
+Pennsylvania,2011,Coal,1212984.0
+Pennsylvania,2011,Elec,507560.0
+Pennsylvania,2011,FossFuel,3412240.0
+Pennsylvania,2011,Geo,2180.0
+Pennsylvania,2011,Hydro,31258.0
+Pennsylvania,2011,NatGas,1000509.0
+Pennsylvania,2011,LPG,57268.0
+Pennsylvania,2012,Biomass,141507.0
+Pennsylvania,2012,Coal,1093178.0
+Pennsylvania,2012,Elec,493750.0
+Pennsylvania,2012,FossFuel,3324396.0
+Pennsylvania,2012,Geo,2162.0
+Pennsylvania,2012,Hydro,21334.0
+Pennsylvania,2012,NatGas,1079497.0
+Pennsylvania,2012,LPG,48347.0
+Pennsylvania,2013,Biomass,154219.0
+Pennsylvania,2013,Coal,1126118.0
+Pennsylvania,2013,Elec,499018.0
+Pennsylvania,2013,FossFuel,3472175.0
+Pennsylvania,2013,Geo,2162.0
+Pennsylvania,2013,Hydro,24088.0
+Pennsylvania,2013,NatGas,1176660.0
+Pennsylvania,2013,LPG,48235.0
+Pennsylvania,2014,Biomass,148961.0
+Pennsylvania,2014,Coal,1039161.0
+Pennsylvania,2014,Elec,500498.0
+Pennsylvania,2014,FossFuel,3486721.0
+Pennsylvania,2014,Geo,2162.0
+Pennsylvania,2014,Hydro,25117.0
+Pennsylvania,2014,NatGas,1257090.0
+Pennsylvania,2014,LPG,48546.0
+Rhode Island,2010,Biomass,6691.0
+Rhode Island,2010,Coal,0.0
+Rhode Island,2010,Elec,26611.0
+Rhode Island,2010,FossFuel,184732.0
+Rhode Island,2010,Geo,20.0
+Rhode Island,2010,Hydro,36.0
+Rhode Island,2010,NatGas,95710.0
+Rhode Island,2010,LPG,1342.0
+Rhode Island,2011,Biomass,6265.0
+Rhode Island,2011,Coal,0.0
+Rhode Island,2011,Elec,26383.0
+Rhode Island,2011,FossFuel,185371.0
+Rhode Island,2011,Geo,127.0
+Rhode Island,2011,Hydro,72.0
+Rhode Island,2011,NatGas,102465.0
+Rhode Island,2011,LPG,1469.0
+Rhode Island,2012,Biomass,5609.0
+Rhode Island,2012,Coal,0.0
+Rhode Island,2012,Elec,26301.0
+Rhode Island,2012,FossFuel,178036.0
+Rhode Island,2012,Geo,57.0
+Rhode Island,2012,Hydro,41.0
+Rhode Island,2012,NatGas,98435.0
+Rhode Island,2012,LPG,1455.0
+Rhode Island,2013,Biomass,5458.0
+Rhode Island,2013,Coal,0.0
+Rhode Island,2013,Elec,26549.0
+Rhode Island,2013,FossFuel,171472.0
+Rhode Island,2013,Geo,57.0
+Rhode Island,2013,Hydro,42.0
+Rhode Island,2013,NatGas,88274.0
+Rhode Island,2013,LPG,1711.0
+Rhode Island,2014,Biomass,7068.0
+Rhode Island,2014,Coal,0.0
+Rhode Island,2014,Elec,26078.0
+Rhode Island,2014,FossFuel,178774.0
+Rhode Island,2014,Geo,57.0
+Rhode Island,2014,Hydro,38.0
+Rhode Island,2014,NatGas,91259.0
+Rhode Island,2014,LPG,1970.0
+South Carolina,2010,Biomass,101716.0
+South Carolina,2010,Coal,404966.0
+South Carolina,2010,Elec,281419.0
+South Carolina,2010,FossFuel,1124533.0
+South Carolina,2010,Geo,624.0
+South Carolina,2010,Hydro,23185.0
+South Carolina,2010,NatGas,225961.0
+South Carolina,2010,LPG,11209.0
+South Carolina,2011,Biomass,111632.0
+South Carolina,2011,Coal,366160.0
+South Carolina,2011,Elec,274627.0
+South Carolina,2011,FossFuel,1077992.0
+South Carolina,2011,Geo,605.0
+South Carolina,2011,Hydro,15100.0
+South Carolina,2011,NatGas,235465.0
+South Carolina,2011,LPG,9625.0
+South Carolina,2012,Biomass,117091.0
+South Carolina,2012,Coal,298572.0
+South Carolina,2012,Elec,265389.0
+South Carolina,2012,FossFuel,1012652.0
+South Carolina,2012,Geo,648.0
+South Carolina,2012,Hydro,13515.0
+South Carolina,2012,NatGas,250482.0
+South Carolina,2012,LPG,8411.0
+South Carolina,2013,Biomass,113934.0
+South Carolina,2013,Coal,257319.0
+South Carolina,2013,Elec,268190.0
+South Carolina,2013,FossFuel,975757.0
+South Carolina,2013,Geo,648.0
+South Carolina,2013,Hydro,30152.0
+South Carolina,2013,NatGas,236710.0
+South Carolina,2013,LPG,8755.0
+South Carolina,2014,Biomass,122321.0
+South Carolina,2014,Coal,305656.0
+South Carolina,2014,Elec,278487.0
+South Carolina,2014,FossFuel,1021676.0
+South Carolina,2014,Geo,648.0
+South Carolina,2014,Hydro,24432.0
+South Carolina,2014,NatGas,235860.0
+South Carolina,2014,LPG,9741.0
+South Dakota,2010,Biomass,63943.0
+South Dakota,2010,Coal,39061.0
+South Dakota,2010,Elec,38747.0
+South Dakota,2010,FossFuel,226232.0
+South Dakota,2010,Geo,1716.0
+South Dakota,2010,Hydro,51110.0
+South Dakota,2010,NatGas,72926.0
+South Dakota,2010,LPG,7707.0
+South Dakota,2011,Biomass,62472.0
+South Dakota,2011,Coal,32112.0
+South Dakota,2011,Elec,39851.0
+South Dakota,2011,FossFuel,218924.0
+South Dakota,2011,Geo,1962.0
+South Dakota,2011,Hydro,64205.0
+South Dakota,2011,NatGas,73973.0
+South Dakota,2011,LPG,6744.0
+South Dakota,2012,Biomass,58812.0
+South Dakota,2012,Coal,35574.0
+South Dakota,2012,Elec,40037.0
+South Dakota,2012,FossFuel,225164.0
+South Dakota,2012,Geo,1868.0
+South Dakota,2012,Hydro,56915.0
+South Dakota,2012,NatGas,71501.0
+South Dakota,2012,LPG,6231.0
+South Dakota,2013,Biomass,61515.0
+South Dakota,2013,Coal,34246.0
+South Dakota,2013,Elec,41660.0
+South Dakota,2013,FossFuel,231578.0
+South Dakota,2013,Geo,1868.0
+South Dakota,2013,Hydro,38761.0
+South Dakota,2013,NatGas,83871.0
+South Dakota,2013,LPG,7501.0
+South Dakota,2014,Biomass,62730.0
+South Dakota,2014,Coal,33062.0
+South Dakota,2014,Elec,42154.0
+South Dakota,2014,FossFuel,230463.0
+South Dakota,2014,Geo,1868.0
+South Dakota,2014,Hydro,52288.0
+South Dakota,2014,NatGas,83464.0
+South Dakota,2014,LPG,6694.0
+Tennessee,2010,Biomass,91516.0
+Tennessee,2010,Coal,515464.0
+Tennessee,2010,Elec,353215.0
+Tennessee,2010,FossFuel,1461432.0
+Tennessee,2010,Geo,205.0
+Tennessee,2010,Hydro,79392.0
+Tennessee,2010,NatGas,263365.0
+Tennessee,2010,LPG,14037.0
+Tennessee,2011,Biomass,91048.0
+Tennessee,2011,Coal,481127.0
+Tennessee,2011,Elec,343702.0
+Tennessee,2011,FossFuel,1427048.0
+Tennessee,2011,Geo,199.0
+Tennessee,2011,Hydro,93037.0
+Tennessee,2011,NatGas,267929.0
+Tennessee,2011,LPG,11999.0
+Tennessee,2012,Biomass,96477.0
+Tennessee,2012,Coal,423086.0
+Tennessee,2012,Elec,328854.0
+Tennessee,2012,FossFuel,1355061.0
+Tennessee,2012,Geo,213.0
+Tennessee,2012,Hydro,78942.0
+Tennessee,2012,NatGas,281007.0
+Tennessee,2012,LPG,9047.0
+Tennessee,2013,Biomass,98518.0
+Tennessee,2013,Coal,399768.0
+Tennessee,2013,Elec,330773.0
+Tennessee,2013,FossFuel,1344036.0
+Tennessee,2013,Geo,213.0
+Tennessee,2013,Hydro,118721.0
+Tennessee,2013,NatGas,285308.0
+Tennessee,2013,LPG,9879.0
+Tennessee,2014,Biomass,101449.0
+Tennessee,2014,Coal,427509.0
+Tennessee,2014,Elec,341948.0
+Tennessee,2014,FossFuel,1411675.0
+Tennessee,2014,Geo,213.0
+Tennessee,2014,Hydro,84645.0
+Tennessee,2014,NatGas,311966.0
+Tennessee,2014,LPG,10383.0
+Texas,2010,Biomass,179840.0
+Texas,2010,Coal,1568060.0
+Texas,2010,Elec,1223057.0
+Texas,2010,FossFuel,10741110.0
+Texas,2010,Geo,2316.0
+Texas,2010,Hydro,12310.0
+Texas,2010,NatGas,3689583.0
+Texas,2010,LPG,1425319.0
+Texas,2011,Biomass,205461.0
+Texas,2011,Coal,1695239.0
+Texas,2011,Elec,1283134.0
+Texas,2011,FossFuel,10979933.0
+Texas,2011,Geo,2488.0
+Texas,2011,Hydro,5471.0
+Texas,2011,NatGas,3800578.0
+Texas,2011,LPG,1452532.0
+Texas,2012,Biomass,200181.0
+Texas,2012,Coal,1498818.0
+Texas,2012,Elec,1245735.0
+Texas,2012,FossFuel,11054960.0
+Texas,2012,Geo,2478.0
+Texas,2012,Hydro,5562.0
+Texas,2012,NatGas,3964121.0
+Texas,2012,LPG,1555977.0
+Texas,2013,Biomass,197910.0
+Texas,2013,Coal,1597357.0
+Texas,2013,Elec,1292524.0
+Texas,2013,FossFuel,11616497.0
+Texas,2013,Geo,2478.0
+Texas,2013,Hydro,4580.0
+Texas,2013,NatGas,4143328.0
+Texas,2013,LPG,1650880.0
+Texas,2014,Biomass,214603.0
+Texas,2014,Coal,1585961.0
+Texas,2014,Elec,1329553.0
+Texas,2014,FossFuel,11752655.0
+Texas,2014,Geo,2478.0
+Texas,2014,Hydro,3670.0
+Texas,2014,NatGas,4219128.0
+Texas,2014,LPG,1598099.0
+Utah,2010,Biomass,7712.0
+Utah,2010,Coal,356148.0
+Utah,2010,Elec,95686.0
+Utah,2010,FossFuel,847682.0
+Utah,2010,Geo,3449.0
+Utah,2010,Hydro,6785.0
+Utah,2010,NatGas,229078.0
+Utah,2010,LPG,4050.0
+Utah,2011,Biomass,9209.0
+Utah,2011,Coal,346181.0
+Utah,2011,Elec,98467.0
+Utah,2011,FossFuel,858627.0
+Utah,2011,Geo,4027.0
+Utah,2011,Hydro,11952.0
+Utah,2011,NatGas,230672.0
+Utah,2011,LPG,4911.0
+Utah,2012,Biomass,9560.0
+Utah,2012,Coal,322055.0
+Utah,2012,Elec,101416.0
+Utah,2012,FossFuel,829676.0
+Utah,2012,Geo,3993.0
+Utah,2012,Hydro,7116.0
+Utah,2012,NatGas,232630.0
+Utah,2012,LPG,4285.0
+Utah,2013,Biomass,10581.0
+Utah,2013,Coal,355230.0
+Utah,2013,Elec,103977.0
+Utah,2013,FossFuel,897843.0
+Utah,2013,Geo,3851.0
+Utah,2013,Hydro,4818.0
+Utah,2013,NatGas,258909.0
+Utah,2013,LPG,5084.0
+Utah,2014,Biomass,10562.0
+Utah,2014,Coal,344054.0
+Utah,2014,Elec,102507.0
+Utah,2014,FossFuel,875384.0
+Utah,2014,Geo,5769.0
+Utah,2014,Hydro,6018.0
+Utah,2014,NatGas,252691.0
+Utah,2014,LPG,4575.0
+Vermont,2010,Biomass,19041.0
+Vermont,2010,Coal,0.0
+Vermont,2010,Elec,19090.0
+Vermont,2010,FossFuel,90299.0
+Vermont,2010,Geo,28.0
+Vermont,2010,Hydro,13140.0
+Vermont,2010,NatGas,8502.0
+Vermont,2010,LPG,9018.0
+Vermont,2011,Biomass,17194.0
+Vermont,2011,Coal,0.0
+Vermont,2011,Elec,18937.0
+Vermont,2011,FossFuel,88836.0
+Vermont,2011,Geo,27.0
+Vermont,2011,Hydro,13843.0
+Vermont,2011,NatGas,8679.0
+Vermont,2011,LPG,8271.0
+Vermont,2012,Biomass,16070.0
+Vermont,2012,Coal,0.0
+Vermont,2012,Elec,18803.0
+Vermont,2012,FossFuel,84141.0
+Vermont,2012,Geo,29.0
+Vermont,2012,Hydro,10555.0
+Vermont,2012,NatGas,8290.0
+Vermont,2012,LPG,9153.0
+Vermont,2013,Biomass,20794.0
+Vermont,2013,Coal,0.0
+Vermont,2013,Elec,19065.0
+Vermont,2013,FossFuel,89119.0
+Vermont,2013,Geo,29.0
+Vermont,2013,Hydro,12269.0
+Vermont,2013,NatGas,9746.0
+Vermont,2013,LPG,10391.0
+Vermont,2014,Biomass,20279.0
+Vermont,2014,Coal,0.0
+Vermont,2014,Elec,19004.0
+Vermont,2014,FossFuel,90377.0
+Vermont,2014,Geo,29.0
+Vermont,2014,Hydro,11177.0
+Vermont,2014,NatGas,10848.0
+Vermont,2014,LPG,10103.0
+Virginia,2010,Biomass,119506.0
+Virginia,2010,Coal,346161.0
+Virginia,2010,Elec,388307.0
+Virginia,2010,FossFuel,1535604.0
+Virginia,2010,Geo,1569.0
+Virginia,2010,Hydro,14636.0
+Virginia,2010,NatGas,385931.0
+Virginia,2010,LPG,21572.0
+Virginia,2011,Biomass,116144.0
+Virginia,2011,Coal,288348.0
+Virginia,2011,Elec,376099.0
+Virginia,2011,FossFuel,1431388.0
+Virginia,2011,Geo,1764.0
+Virginia,2011,Hydro,11760.0
+Virginia,2011,NatGas,383527.0
+Virginia,2011,LPG,20844.0
+Virginia,2012,Biomass,118265.0
+Virginia,2012,Coal,222270.0
+Virginia,2012,Elec,367796.0
+Virginia,2012,FossFuel,1432460.0
+Virginia,2012,Geo,1701.0
+Virginia,2012,Hydro,9933.0
+Virginia,2012,NatGas,424050.0
+Virginia,2012,LPG,18335.0
+Virginia,2013,Biomass,132138.0
+Virginia,2013,Coal,290508.0
+Virginia,2013,Elec,377066.0
+Virginia,2013,FossFuel,1512226.0
+Virginia,2013,Geo,1701.0
+Virginia,2013,Hydro,11961.0
+Virginia,2013,NatGas,435247.0
+Virginia,2013,LPG,22539.0
+Virginia,2014,Biomass,150362.0
+Virginia,2014,Coal,278183.0
+Virginia,2014,Elec,382480.0
+Virginia,2014,FossFuel,1500290.0
+Virginia,2014,Geo,1701.0
+Virginia,2014,Hydro,9084.0
+Virginia,2014,NatGas,437322.0
+Virginia,2014,LPG,21423.0
+Washington,2010,Biomass,115340.0
+Washington,2010,Coal,94934.0
+Washington,2010,Elec,308376.0
+Washington,2010,FossFuel,1115899.0
+Washington,2010,Geo,1013.0
+Washington,2010,Hydro,666221.0
+Washington,2010,NatGas,294871.0
+Washington,2010,LPG,15836.0
+Washington,2011,Biomass,114621.0
+Washington,2011,Coal,56951.0
+Washington,2011,Elec,319789.0
+Washington,2011,FossFuel,1042446.0
+Washington,2011,Geo,1262.0
+Washington,2011,Hydro,892101.0
+Washington,2011,NatGas,272261.0
+Washington,2011,LPG,16604.0
+Washington,2012,Biomass,112884.0
+Washington,2012,Coal,42656.0
+Washington,2012,Elec,315052.0
+Washington,2012,FossFuel,1049562.0
+Washington,2012,Geo,1136.0
+Washington,2012,Hydro,851343.0
+Washington,2012,NatGas,271947.0
+Washington,2012,LPG,16186.0
+Washington,2013,Biomass,119013.0
+Washington,2013,Coal,74955.0
+Washington,2013,Elec,316916.0
+Washington,2013,FossFuel,1113069.0
+Washington,2013,Geo,1136.0
+Washington,2013,Hydro,745678.0
+Washington,2013,NatGas,327840.0
+Washington,2013,LPG,16138.0
+Washington,2014,Biomass,121119.0
+Washington,2014,Coal,76547.0
+Washington,2014,Elec,314384.0
+Washington,2014,FossFuel,1092335.0
+Washington,2014,Geo,1136.0
+Washington,2014,Hydro,755695.0
+Washington,2014,NatGas,319784.0
+Washington,2014,LPG,14874.0
+West Virginia,2010,Biomass,25598.0
+West Virginia,2010,Coal,848129.0
+West Virginia,2010,Elec,109293.0
+West Virginia,2010,FossFuel,1165405.0
+West Virginia,2010,Geo,31.0
+West Virginia,2010,Hydro,13340.0
+West Virginia,2010,NatGas,121780.0
+West Virginia,2010,LPG,4636.0
+West Virginia,2011,Biomass,25409.0
+West Virginia,2011,Coal,822645.0
+West Virginia,2011,Elec,106587.0
+West Virginia,2011,FossFuel,1138906.0
+West Virginia,2011,Geo,30.0
+West Virginia,2011,Hydro,14118.0
+West Virginia,2011,NatGas,124935.0
+West Virginia,2011,LPG,4323.0
+West Virginia,2012,Biomass,24257.0
+West Virginia,2012,Coal,756716.0
+West Virginia,2012,Elec,105148.0
+West Virginia,2012,FossFuel,1083056.0
+West Virginia,2012,Geo,32.0
+West Virginia,2012,Hydro,13622.0
+West Virginia,2012,NatGas,140133.0
+West Virginia,2012,LPG,4030.0
+West Virginia,2013,Biomass,30008.0
+West Virginia,2013,Coal,771188.0
+West Virginia,2013,Elec,107136.0
+West Virginia,2013,FossFuel,1113141.0
+West Virginia,2013,Geo,32.0
+West Virginia,2013,Hydro,16590.0
+West Virginia,2013,NatGas,153875.0
+West Virginia,2013,LPG,5866.0
+West Virginia,2014,Biomass,30091.0
+West Virginia,2014,Coal,816460.0
+West Virginia,2014,Elec,111559.0
+West Virginia,2014,FossFuel,1163308.0
+West Virginia,2014,Geo,32.0
+West Virginia,2014,Hydro,11811.0
+West Virginia,2014,NatGas,161661.0
+West Virginia,2014,LPG,4009.0
+Wisconsin,2010,Biomass,137892.0
+Wisconsin,2010,Coal,458442.0
+Wisconsin,2010,Elec,234583.0
+Wisconsin,2010,FossFuel,1361165.0
+Wisconsin,2010,Geo,592.0
+Wisconsin,2010,Hydro,20603.0
+Wisconsin,2010,NatGas,376627.0
+Wisconsin,2010,LPG,32179.0
+Wisconsin,2011,Biomass,136188.0
+Wisconsin,2011,Coal,447370.0
+Wisconsin,2011,Elec,234103.0
+Wisconsin,2011,FossFuel,1359984.0
+Wisconsin,2011,Geo,574.0
+Wisconsin,2011,Hydro,20859.0
+Wisconsin,2011,NatGas,399247.0
+Wisconsin,2011,LPG,32051.0
+Wisconsin,2012,Biomass,133110.0
+Wisconsin,2012,Coal,373281.0
+Wisconsin,2012,Elec,234814.0
+Wisconsin,2012,FossFuel,1283286.0
+Wisconsin,2012,Geo,615.0
+Wisconsin,2012,Hydro,14486.0
+Wisconsin,2012,NatGas,410305.0
+Wisconsin,2012,LPG,27669.0
+Wisconsin,2013,Biomass,134199.0
+Wisconsin,2013,Coal,454554.0
+Wisconsin,2013,Elec,235851.0
+Wisconsin,2013,FossFuel,1418732.0
+Wisconsin,2013,Geo,615.0
+Wisconsin,2013,Hydro,18880.0
+Wisconsin,2013,NatGas,453608.0
+Wisconsin,2013,LPG,36388.0
+Wisconsin,2014,Biomass,136809.0
+Wisconsin,2014,Coal,417096.0
+Wisconsin,2014,Elec,237116.0
+Wisconsin,2014,FossFuel,1437711.0
+Wisconsin,2014,Geo,615.0
+Wisconsin,2014,Hydro,23507.0
+Wisconsin,2014,NatGas,477923.0
+Wisconsin,2014,LPG,36344.0
+Wyoming,2010,Biomass,3330.0
+Wyoming,2010,Coal,484239.0
+Wyoming,2010,Elec,58391.0
+Wyoming,2010,FossFuel,805265.0
+Wyoming,2010,Geo,598.0
+Wyoming,2010,Hydro,9989.0
+Wyoming,2010,NatGas,154759.0
+Wyoming,2010,LPG,5226.0
+Wyoming,2011,Biomass,3974.0
+Wyoming,2011,Coal,467671.0
+Wyoming,2011,Elec,59429.0
+Wyoming,2011,FossFuel,797726.0
+Wyoming,2011,Geo,670.0
+Wyoming,2011,Hydro,11890.0
+Wyoming,2011,NatGas,161776.0
+Wyoming,2011,LPG,5481.0
+Wyoming,2012,Biomass,4165.0
+Wyoming,2012,Coal,490128.0
+Wyoming,2012,Elec,57906.0
+Wyoming,2012,FossFuel,821266.0
+Wyoming,2012,Geo,663.0
+Wyoming,2012,Hydro,8502.0
+Wyoming,2012,NatGas,158546.0
+Wyoming,2012,LPG,4817.0
+Wyoming,2013,Biomass,4694.0
+Wyoming,2013,Coal,520699.0
+Wyoming,2013,Elec,58187.0
+Wyoming,2013,FossFuel,839683.0
+Wyoming,2013,Geo,663.0
+Wyoming,2013,Hydro,6782.0
+Wyoming,2013,NatGas,155960.0
+Wyoming,2013,LPG,5113.0
+Wyoming,2014,Biomass,4566.0
+Wyoming,2014,Coal,489300.0
+Wyoming,2014,Elec,58461.0
+Wyoming,2014,FossFuel,803967.0
+Wyoming,2014,Geo,663.0
+Wyoming,2014,Hydro,8261.0
+Wyoming,2014,NatGas,141763.0
+Wyoming,2014,LPG,5442.0
+District of Columbia,2010,Biomass,1027.0
+District of Columbia,2010,Coal,71.0
+District of Columbia,2010,Elec,40524.0
+District of Columbia,2010,FossFuel,58155.0
+District of Columbia,2010,Geo,6.0
+District of Columbia,2010,Hydro,0.0
+District of Columbia,2010,NatGas,33717.0
+District of Columbia,2010,LPG,21.0
+District of Columbia,2011,Biomass,1028.0
+District of Columbia,2011,Coal,48.0
+District of Columbia,2011,Elec,39450.0
+District of Columbia,2011,FossFuel,55887.0
+District of Columbia,2011,Geo,59.0
+District of Columbia,2011,Hydro,0.0
+District of Columbia,2011,NatGas,33389.0
+District of Columbia,2011,LPG,18.0
+District of Columbia,2012,Biomass,819.0
+District of Columbia,2012,Coal,77.0
+District of Columbia,2012,Elec,38415.0
+District of Columbia,2012,FossFuel,49025.0
+District of Columbia,2012,Geo,22.0
+District of Columbia,2012,Hydro,0.0
+District of Columbia,2012,NatGas,29389.0
+District of Columbia,2012,LPG,27.0
+District of Columbia,2013,Biomass,855.0
+District of Columbia,2013,Coal,4.0
+District of Columbia,2013,Elec,37824.0
+District of Columbia,2013,FossFuel,53357.0
+District of Columbia,2013,Geo,22.0
+District of Columbia,2013,Hydro,0.0
+District of Columbia,2013,NatGas,34315.0
+District of Columbia,2013,LPG,25.0
+District of Columbia,2014,Biomass,920.0
+District of Columbia,2014,Coal,48.0
+District of Columbia,2014,Elec,38193.0
+District of Columbia,2014,FossFuel,55217.0
+District of Columbia,2014,Geo,22.0
+District of Columbia,2014,Hydro,0.0
+District of Columbia,2014,NatGas,35316.0
+District of Columbia,2014,LPG,24.0
+United States,2010,Biomass,4235786.0
+United States,2010,Coal,20828382.0
+United States,2010,Elec,12811519.0
+United States,2010,FossFuel,80891321.0
+United States,2010,Geo,207979.0
+United States,2010,Hydro,2538541.0
+United States,2010,NatGas,24633507.0
+United States,2010,LPG,2820984.0
+United States,2011,Biomass,4290667.0
+United States,2011,Coal,19663856.0
+United States,2011,Elec,12794475.0
+United States,2011,FossFuel,79487114.0
+United States,2011,Geo,212311.0
+United States,2011,Hydro,3102852.0
+United States,2011,NatGas,25014983.0
+United States,2011,LPG,2838955.0
+United States,2012,Biomass,4249844.0
+United States,2012,Coal,17380923.0
+United States,2012,Elec,12606145.0
+United States,2012,FossFuel,77530807.0
+United States,2012,Geo,211592.0
+United States,2012,Hydro,2628702.0
+United States,2012,NatGas,26138351.0
+United States,2012,LPG,2911810.0
+United States,2013,Biomass,4464695.0
+United States,2013,Coal,18038771.0
+United States,2013,Elec,12709249.0
+United States,2013,FossFuel,79551830.0
+United States,2013,Geo,214006.0
+United States,2013,Hydro,2562382.0
+United States,2013,NatGas,26858134.0
+United States,2013,LPG,3166737.0
+United States,2014,Biomass,4611638.0
+United States,2014,Coal,17996577.0
+United States,2014,Elec,12845157.0
+United States,2014,FossFuel,80425776.0
+United States,2014,Geo,214490.0
+United States,2014,Hydro,2466577.0
+United States,2014,NatGas,27513198.0
+United States,2014,LPG,3090053.0

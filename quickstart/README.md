@@ -60,7 +60,7 @@ And click on the Tables tab to see this:
 
 13. Click on the Chart Tab and Click on the Create Button.  Select "MonthDetail" from the dropdown as the data source for the chart, and type "MonthDetail" as the name of the chart as well.   Click OK.
 
-<img src = images/chart_dialog_1.png width = 800>
+<img src = images/chart_dialog.png width = 800>
 
 14. Click on Pie  Chart in the Chart Editor click OK. Drag the pie chart to wherever you want.
 
