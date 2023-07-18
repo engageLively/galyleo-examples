@@ -1,3 +1,5 @@
+<img src= ../../galyleo-logo.png width=200>
+
 # Remote Presidential Elections
 This demo shows how to use Remote, or Virtual, Tables.  A Remote Table is a table that is served by a Galyleo Table Server.  A demonstration server, which gives the Presidential Election Data, has been set up at https://engagelively.wl.r.appspot.com/, and we'll use that to set this up.   To run this demo:
 1. In the Launcher, launch a new Galyleo Table file 
