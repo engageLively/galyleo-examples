@@ -2,7 +2,7 @@
 
 # Demonstration Examples
 
-There are five demonstrations in this directory.  Each comes with a description of the example, a Notebook, and a Dashboard file.  The five demos are:
+There are six  demonstrations in this directory.  Each comes with a description of the example, a Notebook, and a Dashboard file.  The five demos are:
 
 1. presidential-elections.  The Notebook is in Elections.ipynb, and the dashboard file in elections.gd.json.  The dataset is originally from the [Cook Political Report](https://cookpolitical.com/) [database of Presidential elections](https://docs.google.com/spreadsheets/d/1D-edaVHTnZNhVU840EPUhz3Cgd7m39Urx7HM8Pq6Pus/edit#gid=29622862).  A cleaned version is in the file elections.csv.  Electoral college results are in the file electoral_college.csv
 
@@ -13,3 +13,5 @@ There are five demonstrations in this directory.  Each comes with a description 
 4. senate-elections.  The Notebook is in Notebook.ipynb, the dashboard file in senate-elections.gd.json.  The dataset is from the [MIT Election Lab](https://electionlab.mit.edu/)[Senate Elections dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PEJ5QU), replicated in 1976-2020-senate.csv. The Senate Control dataset was compiled by hand, and is in senate-control.csv
 
 5. nightingale.  The Notebook is in Notebook.ipynb, the dashboard file in nightingale.gd.json.  The dataset is from [Compute.io](https://github.com/compute-io).
+
+6. seaice.  These are observations of polar sea ice extent collected by the National Snow and Ice Data Center (NSIDC) and downloaded from Kaggle: https://www.kaggle.com/datasets/nsidcorg/daily-sea-ice-extent-data and is replicated in seaice.csv.  The Notebook is in seaice.ipynb, the dashboard file in seaice.gd.json
