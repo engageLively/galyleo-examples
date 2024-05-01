@@ -76595,7 +76595,7 @@
       "textProperties": {
         "fixedHeight": true,
         "fixedWidth": true,
-        "fontFamily": "\"IBM Plex Sans\",Sans-Serif",
+        "fontFamily": "\"Open Sans\"",
         "fontSize": 24,
         "fontStyle": "normal",
         "fontWeight": "bold",
