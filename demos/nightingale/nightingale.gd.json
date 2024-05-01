@@ -1621,7 +1621,7 @@
                 }
             },
             "textProperties": {
-                "fontFamily": "\"Helvetica Neue\",Arial,sans-serif",
+                "fontFamily": "\"Open Sans\"",
                 "fontSize": 30,
                 "fontStyle": "normal",
                 "fontWeight": "bold",
@@ -1720,7 +1720,7 @@
                 }
             },
             "textProperties": {
-                "fontFamily": "\"IBM Plex Sans\",Sans-Serif",
+                "fontFamily": "\"Open Sans\"",
                 "fontSize": 20,
                 "fontStyle": "normal",
                 "fontWeight": "bold",
@@ -1963,7 +1963,7 @@
                 }
             },
             "textProperties": {
-                "fontFamily": "\"Helvetica Neue\",Arial,sans-serif",
+                "fontFamily": "\"Open Sans\"",
                 "fontSize": 12,
                 "fontStyle": "normal",
                 "fontWeight": "normal",
