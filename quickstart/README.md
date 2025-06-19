@@ -58,7 +58,7 @@ Red "delete" buttons will appear to the left of each table:
 
 10. The Chart Editor disappears, leaving the column chart in the top left.  Drag it to wherever you want on the dashboard.
 
-11. Time to do a drill-down; we want to see the detail for a month when we click on the SummaryMonth chart.  *In Galyleo, every chart is a filter and can be used to select values in a view*.  The filter is always a *Select* filter -- it picks a single value for the column -- and the value chosen is the value on the *x* or category axis.  The name of the filter is the name of the chart.  In this case, clicking on the SummaryMonth chart picks the month for the bar it was clicked on.   Click on the Views Tab, click Create, and choose "Detail" as the source table and make the name of the View "MonthDetail".
+11. Time to do a drill-down; we want to see the detail for a month when we click on the SummaryMonth chart.  *In Galyleo, every chart is a filter and can be used to select values in a view*.  The filter is always a *Select* filter -- it picks a single value for the column -- and the value chosen is the value on the *x* or category axis.  The name of the filter is the name of the chart.  In this case, clicking on the SummaryMonth chart picks the month for the bar it was clicked on.   Click on the Views Tab, click Create, and choose "rickmcgeer@engagelively.com/records.sdml" as the source table and make the name of the View "MonthDetail".
 
 <img src = images/view_dialog_2.png width = 800>
 
