@@ -32,7 +32,7 @@ Red "delete" buttons will appear to the left of each table:
 
 <img src = images/dashboard_tables_done.png width = 800>
 
-5.  Click on the Filter Tab and click the Create Button to bring up the Filter Dialog, choose "month" as the column, "doubleSlider" as the Filter type,  make the name "MonthFilter" and choose "rickmcgeer/nightingale.sdml" as the table.
+5.  Click on the Filter Tab and click the Add Filter Button to bring up the Filter Dialog, choose "month" as the column, "doubleSlider" as the Filter type,  make the name "MonthFilter" and choose "rick.mcgeer@engagelively.com/nightingale.sdml" as the table.
 
 <img src = images/filter_dialog.png width = 800>
 
@@ -40,7 +40,7 @@ Red "delete" buttons will appear to the left of each table:
 
 <img src = images/filter_shot.png width = 800>
 
-6.  Click on the View Tab and Click on the Create Button.  A View Builder Dialog pops up.  Choose "Summary" as the Table, type in "SummaryMonth" as the View name, click OK
+6.  Click on the Views Tab and Click on the Add View Button.  A View Builder Dialog pops up.  Choose "rick.mcgeer@engagelively.com/nightingale.sdml" as the Table, type in "SummaryMonth" as the View name, click Update View.
 
 <img src = images/view_dialog_1.png width = 800>
 
@@ -48,7 +48,7 @@ Red "delete" buttons will appear to the left of each table:
 
 <img src = images/view_editor_1.png width = 800>
 
-8. Click on the Chart Tab and Click on the Create Button.  A Chart Builder Dialog pops up. Select "SummaryMonth" from the dropdown as the data source for the chart, and type "SummaryMonth" as the name of the chart as well (you can pick any name that isn't the name of another Chart or a Filter, but picking the same name as the View helps you keep them straight).   Click OK.
+8. Click on the Charts Tab and Click on the Add Chart Button.  A Chart Builder Dialog pops up. Select "SummaryMonth" from the dropdown as the data source for the chart, and type "SummaryMonth" as the name of the chart as well (you can pick any name that isn't the name of another Chart or a Filter, but picking the same name as the View helps you keep them straight).   Click OK.
 
 <img src = images/chart_dialog.png width = 800>
 
@@ -58,15 +58,15 @@ Red "delete" buttons will appear to the left of each table:
 
 10. The Chart Editor disappears, leaving the column chart in the top left.  Drag it to wherever you want on the dashboard.
 
-11. Time to do a drill-down; we want to see the detail for a month when we click on the SummaryMonth chart.  *In Galyleo, every chart is a filter and can be used to select values in a view*.  The filter is always a *Select* filter -- it picks a single value for the column -- and the value chosen is the value on the *x* or category axis.  The name of the filter is the name of the chart.  In this case, clicking on the SummaryMonth chart picks the month for the bar it was clicked on.   Click on the Views Tab, click Create, and choose "rickmcgeer@engagelively.com/records.sdml" as the source table and make the name of the View "MonthDetail".
+11. Time to do a drill-down; we want to see the detail for a month when we click on the SummaryMonth chart.  *In Galyleo, every chart is a filter and can be used to select values in a view*.  The filter is always a *Select* filter -- it picks a single value for the column -- and the value chosen is the value on the *x* or category axis.  The name of the filter is the name of the chart.  In this case, clicking on the SummaryMonth chart picks the month for the bar it was clicked on.   Click on the Views Tab, click Add View, and choose "rickmcgeer@engagelively.com/records.sdml" as the source table and make the name of the View "MonthDetail".
 
 <img src = images/view_dialog_2.png width = 800>
 
-12. A View Editor pops up.  Click the boxes next to "cause" and "deaths" in the top (column selector) box, then click on the box next to SummaryMonth, in the bottom box then click OK
+12. A View Editor pops up.  Click the boxes next to "cause" and "deaths" in the top (column selector) box, then click on the box next to SummaryMonth, in the bottom box then click Update view.
 
 <img src = images/view_editor_2.png width = 800>
 
-13. Click on the Chart Tab and Click on the Create Button.  Select "MonthDetail" from the dropdown as the data source for the chart, and type "MonthDetail" as the name of the chart as well.   Click OK.
+13. Click on the Charts Tab and Click on the Add Chart Button.  Select "MonthDetail" from the dropdown as the data source for the chart, and type "MonthDetail" as the name of the chart as well.   Click Create chart.
 
 <img src = images/chart_dialog2.png width = 800>
 
@@ -92,7 +92,15 @@ Grab the cross symbol for drag; to resize the object, just grab and drag any of 
 
 <img src = images/final_dashboard.png width = 800>
 
-17.  Save the dashboard file.  Now it's time to publish the dashboard.  Click on the "Publish" button on the top bar, and a Publish dialog will appear.  Type in "florence.gd.json" in the name box and hit the "Publish" button.
+17.  Rename  the dashboard file.  Right-click on the dashboard file in the file menu:
+
+<img src = images/rename-menu.png width = 800>
+
+17.  Type 'nightingale.gd.json' as the file name:
+
+<img src = images/rename-done.png width = 800>
+
+19.  Now it's time to publish the dashboard.  Click on the "Publish" button on the top bar, and a Publish dialog will appear.  Type in "florence.gd.json" in the name box and hit the "Publish" button.
 
 <img src = images/publish_dialog.png width = 800>
 
