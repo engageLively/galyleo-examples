@@ -1,10 +1,10 @@
 <img src=../../galyleo-logo.png width=200>
 
-# Tutorial 1: Techniques for Table Creation using the Galyleo Table Library
-This tutorial demonstrates the various techniques for creating Galyleo Tables, saving them, and loading them from disk.
+# Tutorial 1: Techniques for Table Creation using the SDTP  Library
+This tutorial demonstrates the various techniques for creating SDML Tables, saving them, and loading them from disk.
 
 # What You'll Learn
-1. Creating a Galyleo Table
+1. Creating an SDML Table
 2. Loading it with data from a dictionary; from JSON; from a Pandas Dataframe
 3. Saving the table to disk
 4. Loading from disk
@@ -15,21 +15,24 @@ None
 # Uses
 1. A Jupyter Notebook
 
-# A Galyleo Table
-A Galyleo Table is the foundation of a Galyleo Dashboard; all data are contained in Tables.  A Table is a dictionary with
-fields "columns" and "rows".  The columns field is a list of dictionaries.  Each dictionary has two fields, "name", and "type".
-The "type" field must be one of the Galyleo types, defined in the library galyleo.galyleo_constants: GALYLEO_NUMBER, GALYLEO_BOOLEAN, GALYLEO_STRING, GALYLEO_DATE, GALYLEO_DATETIME, GALYLEO_TIME_OF_DAY. 
+# An SDML Table
+An SDML Table is the foundation of a Galyleo Dashboard; all data are contained in Tables.  A Table is a dictionary with
+fields "schema" and "type".  In our application, the type is always "RowTable" and there is an additional field "rows". 
 
-The "rows" field of a table consists of a list of lists.  To be valid, a table must obey the following:
+The schema field is a list of dictionaries.  Each dictionary has two fields, "name", and "type".
+The "type" field must be one of the SDML types: "string", "number", "boolean", "date", "datetime", "timeofday"
+
+The "rows" field of a RowTable consists of a list of lists.  To be valid, a table must obey the following:
 
 1. The length of each row must be equal to the length of the columns: `[len(row) == len(columns) for row in rows]`
 2. The type of the jth element of each row must match the type declared in the jth column `[matchType(row[j], column[j]["type"]) for j in range(len(row))]`
 
-where a float or int matches GALYLEO_NUMBER, True or False matches GALYLEO_BOOLEAN, and anything matches GALYLEO_STRING.
+where a float or int matches "number", True or False matches "boolean", and anything matches "string".
 Here is an example table:
 ```
     {
-        "columns": [{"name": "name", "type": GALYLEO_STRING}, {"name": "age", "type": GALYLEO_NUMBER}]
+        "type"" "RowTable"
+        "schema": [{"name": "name", "type": "string}, {"name": "age", "type": "number}]
         "rows": [['tom', 23], ['teresa', 22], ['jill', 36], ['jack', 47], ['dick', 33], ['jennifer', 47], ['harry', 28], ['meghan', 23]]
     }
 ```
@@ -39,7 +42,7 @@ The tutorial is simply executing the three Notebooks provided, in order.
 
 
 # First Notebook
-The first notebook shows how to create a GalyleoTable, assign types to a schema, load a table from a record, and write a table to a file.  Open and execute FirstNotebook.ipynb.
+The first notebook shows how to create an SDML tabke, assign types to a schema, load a table from a record, and write an SDML table to a file.  Open and execute FirstNotebook.ipynb.
 
 # Second Notebook
 The second notebook shows how to read a GalyleoTable from a file and load it, using JSON.  The file is the one written by the first Notebook.  A copy is in the repo.

@@ -16,7 +16,7 @@ In a View, columns are manually chosen -- and, importantly, ordered by the dashb
 # Prerequisites
 
 1. Create Table
-2. Load Table
+2. Publish Table
 3. Create Filters
 
 # Uses
@@ -27,7 +27,7 @@ In a View, columns are manually chosen -- and, importantly, ordered by the dashb
 # Instructions
 The loaded, filtered dashboard we created in the filter-table tutorial has been preloaded into this directory.  Double-click on it to open it up.  This is the dashboard you should see, when you open the right sidebar:
 
-![First Image](images/create-view-1.png)
+![First Image](images/init-dashboard.png)
 
 Click on the views tab
 
@@ -35,9 +35,9 @@ Click on the views tab
 
 Click on Add View to add a view, and get the View Creation popup:
 
-![View Creator](images/view-creator.png)
+![View Creator](images/view-creator-new.png)
 
-Choose "aggregate_cy" as the table, pick any name other than an existing table as the name, and then click "Create". The View will appear in the Views list, and the View Editor popup will appear
+Choose "ufos-cy" as the table, pick any name other than an existing table as the name, and then click "Create". The View will appear in the Views list, and the View Editor popup will appear
 
 ![View Editor 1](images/init-reorder.png)
 
