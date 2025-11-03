@@ -29,41 +29,44 @@ Today, make this call manually:
 requests.post(f{JUPYTERHUB_URL}/services/galyleo/publish_data', json=table, headers = {'Authorization': f'token {os.environ["JUPYTERHUB_API_TOKEN"]}')
 ```
 
-We can't do much with the dashboard until it has some data, so  execute the Notebook.  This will publish all of the tables, to the Galyleo service.   Now open up a new dashboard.
+We can't do much with the dashboard until it has some data, so  execute the Notebook.  This will publish all of the tables, to the Galyleo service.
+
+Once the Notebook has executed, open up a new dashboard.
 
 
-![File Menu](images/image1.png)
+![File Menu](images/start_dashboard.png)
 
 
-At this point, click over to the untitled.gd.json tab and see that there's a table in the Table box (make sure Tables is selected in the tab chooser at the top right).  The tables tab will have all of the tables we computed in the Notebook preloaded (among others):
+At this point, click over to the untitled.gd.json tab and see that the tables from the Notebook are in the  Table box (make sure Tables is selected in the tab chooser at the top right).  The tables tab will have all of the tables we computed in the Notebook preloaded (among others):
+
 | Table |
 |-------|
 | tables/<user>/electoral_college.sdml |
-| tables/<user>//nationwide_vote.sdml	|
+| tables/<user>/nationwide_vote.sdml	|
 | tables/<user>/presidential_margins.sdml	|
 | tables/<user>/presidential_vote.sdml | 
 | tables/<user>/presidential_vote_history.sdml |
 |---------------|
 
 
-![First Table](images/first_table.png)
+![Tables](images/tables.png)
 
- However, this table does have a "Year" column, and we are going to want to create a filter for that.
+The `presidential_vote` table  has a "Year" column, and we are going to want to create a filter for that.
 _About filters_: A _filter_ is a user interface element that selects a value (or range of values) from a column.  This can be used to choose subsets of rows from a particular table, to create what we call a _view_.  A _Select_ filter chooses a specific value; a _Range_ filter chooses a range of values.  This is the way that the dashboard viewer chooses what data to display on a dashboard.  In this case, we're going to get a Slider (an example of a Select filter) to choose the year.  So click over to the "Filters" tab, click on add filter, type "YearFilter" into the name input of the popup, choose "slider" from the Filter Type pulldown menu and "Year" from the column pulldown menu, then click "Create Filter".
 
-![Filter popup](images/filter.png)
+![Filter popup](images/filter1.png)
 
 A filter appears in the top-left corner.  Make sure the hand icon is selected in the top bar, then drag the slider anywhere convenient.  Play with the slider a bit; note that it increments by four, the low end is 1828, and the high end is 2020.
 
 ![Filter appears](images/filter_appears.png)
 
-Execute the rest of the notebook.  When that is done, we now have all the data in the dashboard, so it's time to build some charts.  But the first thing to do is construct a _View_
+It's time to build some charts.  But the first thing to do is construct a _View_
 
 A _View_ is a subset of a table; a selection (and, potentially, a reordering) of the columns of a table, and a subset of its rows, chosen by one or more Filters.  While a chart can take as input a _Table_, such a chart wouldn't respond to user inputs (because a user selects the rows he's interested in by adjusting a Filter, and filters only affect the rows in Views).  
 
 To construct a view, click over to the Views Tab, then click "Add view".  A popup appears.  Choose a name, say "Margins" (it cannot conflict with a Table name), and then pick "presidential_margins" from the table pulldown.  Click "Create View".
 
-![View Creation](images/create_view.png)
+![View Creation](images/create_view_new.png)
 
 An editor popup appears, inviting you to choose the columns of the view and the filters which will pick the rows.  We want our columns to be "State" and "Margin", _in that order_.  Fortunately, they are in the right order now; were they not, we'd use the pen icon (top right) to toggle between select and order mode, and then drag columns into the right order.  Select columns "State" and "Margin". We want to only look at data for the year selected by YearFilter, so select this in the filters box and click "Update view".  The view is now in the view box.  We can just click the gear icon next to it to edit this view again.
 
@@ -90,7 +93,7 @@ The next few steps are just a repeat of the steps we've done so far.  Create a v
 The next view/chart to create is the percentage of the vote vs party for a given state and year.  We know how to select the year; but where is the select filter for a state?  The answer is, _the Margins chart_.  In Galyleo, _every_ chart is a select filter; clicking on the chart picks an x-, or category-axis value.  In a GeoChart, it's the name of the region you click on; in a pie chart, the category corresponding to the wedge; in a bar or column chart, the category corresponding to the bar/column, etc.  And this shows up easily and naturally.
 Click on views, Add view, and bring up the view popup.  Choose presidential_vote as the table, and "PctvParty" as the name.
 
-![View Create2](images/create_view2.png)
+![View Create2](images/create_view_new_2.png)
 
 The popup _now has Margin as a Filter choice!_  This is why Charts and Filters share the same namespace.  _Every Chart is a Filter!_  In this case, we're going to use Margin to select the State.  Click "Party" and "Percentage" as the columns (and make sure Party is above Percentage), and choose "Year Filter" and "Margins" as the filters, then Update view
 
@@ -152,9 +155,13 @@ Now let's add some images.  Click on the top bar shapes menu and select image:
 
 ![Select Image](images/image-select.png)
 
-This is a stock image, and we'd like to change it.  This is done by URL.  CLick on the right sidebar and, in the imageURL box, enter the image URL you'd like displayed.  (Of course, ensure that you have the right to use the image first).
+Drag the mouse and a stock image appears. 
 
-![Image URL](images/set-image-url.png)
+![Image URL](images/set_image_url1.png)
+
+to set the image to something non-stock, set the image URL from the menu.  With the Halo, click on the Menu icon (top left), select "change image url...", and then enter the URL in the popup. 
+
+![Image URL](images/set_image_url2.png)
     
 Of course, also fiddle with border properties, etc., and position.
     

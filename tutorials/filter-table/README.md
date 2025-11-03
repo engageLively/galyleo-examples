@@ -11,20 +11,22 @@ This tutorial demonstrates  building a filter to filter rows from one or more ta
 # Prerequisites
 
 1. Create Table
-2. Load Table
+2. Publish Table
 # Uses
 
-1. Notebooks
-2. Galyleo Dashboards
+1. Galyleo Dashboards
 
 # Instructions
-Launch a new dashboard, and then open Notebook.py.  Once the dashboard has been opened, execute all the cells in Notebook.ipynb.  Click over to the dashboard, click the chevron to open the sidebar (middle, right-hand side) and you should see this:
+Launch a new dashboard.  You should see this.
+![Table Tab on screen](images/initial_table.png)
 
-![Table on screen](images/table-added.png)
+These tables are identical to the tables you see by clicking "View Tables" on the Galyleo Service.
 
-Click on "Filters" to bring up the filters tab, then click on "Add Filter".  The Filter builder/editor will pop up, inviting you to build a filter.  Type in the name, select the kind of widget to use (more below) and the column to filter.  Then click Create.
+![Galyleo Tables](images/galyleo-tables.png)
 
-![Filter Dialog](images/filter-dialog.png)
+Click on "Filters" to bring up the filters tab, then click on "Add Filter".  The Filter builder/editor will pop up, inviting you to build a filter.  Type in the name, select the kind of widget to use (more below), the table containing the column and the column to filter.  Then click Create.
+
+![Filter Dialog](images/filter-dialog-new.png)
 
 When you click Create, the widget appears in the top-left and the filter name appears in the filter list.  A gear button next to the filter lets you edit it.
 
