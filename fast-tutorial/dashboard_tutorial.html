@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Galyleo Tutorial: Global Dashboard</title>
+    <style>
+        :root {
+            /* JupyterLab-friendly variables */
+            --jp-content-font-color1: #212121;
+            --jp-content-font-color2: #616161;
+            --jp-layout-color1: #ffffff;
+            --jp-layout-color2: #f5f5f5;
+            --jp-brand-color1: #1976d2;
+            --jp-border-color: #e0e0e0;
+        }
+
+        /* Dark mode overrides (if JL allows) */
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --jp-content-font-color1: #eeeeee;
+                --jp-content-font-color2: #bdbdbd;
+                --jp-layout-color1: #212121;
+                --jp-layout-color2: #424242;
+                --jp-border-color: #616161;
+            }
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            color: var(--jp-content-font-color1);
+            background-color: var(--jp-layout-color1);
+            line-height: 1.6;
+            margin: 0;
+            padding: 40px;
+            max-width: 800px;
+        }
+
+        h1, h2, h3 { color: var(--jp-brand-color1); }
+        h1 { border-bottom: 2px solid var(--jp-border-color); padding-bottom: 10px; }
+        
+        .step-card {
+            background: var(--jp-layout-color2);
+            border: 1px solid var(--jp-border-color);
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+
+        .badge {
+            display: inline-block;
+            background: var(--jp-brand-color1);
+            color: white;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.85em;
+            font-weight: bold;
+            margin-right: 8px;
+        }
+
+        code {
+            background-color: rgba(27, 31, 35, 0.05);
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+        }
+
+        .action-highlight {
+            font-weight: bold;
+            color: var(--jp-content-font-color1);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Global Weather Dashboard</h1>
+    <p>
+        In Tutorial 1, you published the <code style="color: #d32f2f">global_weather_2023.sdml</code> dataset. 
+        Now, let's visualize the temperature contrast between <strong>London</strong>, <strong>Tokyo</strong>, and <strong>Rio de Janeiro</strong>.
+    </p>
+
+    <div class="step-card">
+        <h3><span class="badge">1</span> Open the Editor</h3>
+        <p>
+            Click the <span class="action-highlight">Galyleo Icon</span> in the left sidebar or select 
+            <span class="action-highlight">File &gt; New &gt; Galyleo Dashboard</span>.
+        </p>
+    </div>
+
+    <div class="step-card">
+        <h3><span class="badge">2</span> Select Your Data</h3>
+        <p>
+            In the Data Source panel on the right, locate the dropdown menu. Select:
+            <br><br>
+            <strong>📂 global_weather_2023.sdml</strong>
+        </p>
+        <p><em>(Note: If you don't see it, ensure you ran the "Rapid Infiltration" notebook first!)</em></p>
+    </div>
+
+    <div class="step-card">
+        <h3><span class="badge">3</span> Map the Dimensions</h3>
+        <p>Drag and drop the columns to create a multi-series time chart:</p>
+        <ul>
+            <li><strong>X-Axis:</strong> Drag <code>DATE</code> here.</li>
+            <li><strong>Y-Axis:</strong> Drag <code>TEMP</code> here.</li>
+            <li><strong>Series / Color:</strong> Drag <code>CITY</code> here.</li>
+        </ul>
+        <p>
+            <small>✨ <strong>Tip:</strong> This separation by City is what reveals the inverted seasons between Northern and Southern hemispheres.</small>
+        </p>
+    </div>
+
+    <div class="step-card">
+        <h3><span class="badge">4</span> Save & Publish</h3>
+        <p>
+            Click the <span class="action-highlight">💾 Save</span> icon in the dashboard toolbar. 
+            Name your file <code>weather_dashboard.gd.json</code>.
+        </p>
+    </div>
+
+</body>
+</html>
