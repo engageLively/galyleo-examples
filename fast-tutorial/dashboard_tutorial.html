@@ -14,7 +14,7 @@
             --jp-border-color: #e0e0e0;
         }
 
-        /* Dark mode overrides (if JL allows) */
+        /* Dark mode overrides */
         @media (prefers-color-scheme: dark) {
             :root {
                 --jp-content-font-color1: #eeeeee;
@@ -58,6 +58,15 @@
             margin-right: 8px;
         }
 
+        /* --- ADDED THIS TO PREVENT GIANT IMAGES --- */
+        img {
+            max-width: 100%;
+            border: 1px solid var(--jp-border-color);
+            border-radius: 4px;
+            margin-top: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
         code {
             background-color: rgba(27, 31, 35, 0.05);
             padding: 2px 4px;
@@ -76,47 +85,48 @@
     <h1>Global Weather Dashboard</h1>
     <p>
         In Tutorial 1, you published the <code style="color: #d32f2f">global_weather_2023.sdml</code> dataset. 
-        Now, let's visualize the temperature contrast between <strong>London</strong>, <strong>Tokyo</strong>, and <strong>Rio de Janeiro</strong>.
+        Now, let's visualize the temperature trends using a dynamic city filter.
     </p>
 
     <div class="step-card">
         <h3><span class="badge">1</span> Open the Editor</h3>
         <p>
-            Click the <span class="action-highlight">Galyleo Icon</span> in the left sidebar or select 
-            <span class="action-highlight">File &gt; New &gt; Galyleo Dashboard</span>.
+            Click the <span class="action-highlight">New Galyleo Dashboard Icon</span> in the Launcher.
         </p>
+        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/launcher.png" 
+             alt="Launch Dashboard">
     </div>
 
     <div class="step-card">
-        <h3><span class="badge">2</span> Select Your Data</h3>
+        <h3><span class="badge">2</span> Verify Data (Optional)</h3>
         <p>
-            In the Data Source panel on the right, locate the dropdown menu. Select:
-            <br><br>
-            <strong>📂 global_weather_2023.sdml</strong>
+            Click on <span class="action-highlight">"Tables"</span> in the right sidebar to confirm <code>global_weather_tutorial</code> is loaded.
         </p>
-        <p><em>(Note: If you don't see it, ensure you ran the "Rapid Infiltration" notebook first!)</em></p>
+        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/tables.png" 
+             alt="See the table">
     </div>
 
     <div class="step-card">
-        <h3><span class="badge">3</span> Map the Dimensions</h3>
-        <p>Drag and drop the columns to create a multi-series time chart:</p>
-        <ul>
-            <li><strong>X-Axis:</strong> Drag <code>DATE</code> here.</li>
-            <li><strong>Y-Axis:</strong> Drag <code>TEMP</code> here.</li>
-            <li><strong>Series / Color:</strong> Drag <code>CITY</code> here.</li>
-        </ul>
+        <h3><span class="badge">3</span> Create the Filter</h3>
         <p>
-            <small>✨ <strong>Tip:</strong> This separation by City is what reveals the inverted seasons between Northern and Southern hemispheres.</small>
+            Click on <span class="action-highlight">"Filters"</span> in the right sidebar and select "Add Filter".
         </p>
+        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/filters.png" 
+             alt="Click Add Filter">
+        <p>
+            In the dialog, configure the following:
+            <ul>
+                <li><strong>Name:</strong> <code>CityChooser</code></li>
+                <li><strong>Type:</strong> Dropdown</li>
+                <li><strong>Table:</strong> global_weather_tutorial</li>
+                <li><strong>Column:</strong> CITY</li>
+            </ul>
+        </p>
+        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/filter-builder.png" 
+             alt="Filter Builder Dialog">
     </div>
 
-    <div class="step-card">
-        <h3><span class="badge">4</span> Save & Publish</h3>
-        <p>
-            Click the <span class="action-highlight">💾 Save</span> icon in the dashboard toolbar. 
-            Name your file <code>weather_dashboard.gd.json</code>.
-        </p>
-    </div>
+    
 
 </body>
 </html>
