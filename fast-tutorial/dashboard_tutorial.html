@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>Galyleo Tutorial: Global Dashboard</title>
+    <title>Galyleo チュートリアル：グローバルダッシュボード</title>
     <style>
         :root {
-            /* JupyterLab-friendly variables */
             --jp-content-font-color1: #212121;
             --jp-content-font-color2: #616161;
             --jp-layout-color1: #ffffff;
@@ -14,7 +13,6 @@
             --jp-border-color: #e0e0e0;
         }
 
-        /* Dark mode overrides */
         @media (prefers-color-scheme: dark) {
             :root {
                 --jp-content-font-color1: #eeeeee;
@@ -37,7 +35,7 @@
 
         h1, h2, h3 { color: var(--jp-brand-color1); }
         h1 { border-bottom: 2px solid var(--jp-border-color); padding-bottom: 10px; }
-        
+
         .step-card {
             background: var(--jp-layout-color2);
             border: 1px solid var(--jp-border-color);
@@ -58,7 +56,6 @@
             margin-right: 8px;
         }
 
-        /* --- ADDED THIS TO PREVENT GIANT IMAGES --- */
         img {
             max-width: 100%;
             border: 1px solid var(--jp-border-color);
@@ -82,157 +79,146 @@
 </head>
 <body>
 
-    <h1>Global Weather Dashboard</h1>
+<h1>世界の天気　ダッシュボード</h1>
+<p>
+チュートリアル1では <code style="color: #d32f2f">global_weather_2023.sdml</code> データセットを公開しました。
+今回は都市ごとのフィルターを使用して気温の推移を可視化します。
+</p>
+
+<div class="step-card">
+    <h3><span class="badge">1</span> エディターを開く</h3>
     <p>
-        In Tutorial 1, you published the <code style="color: #d32f2f">global_weather_2023.sdml</code> dataset. 
-        Now, let's visualize the temperature trends using a dynamic city filter.
+        ランチャーの <span class="action-highlight">New Galyleo Dashboard アイコン</span> をクリックします。
+    </p>
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/launcher.png">
+</div>
+
+<div class="step-card">
+    <h3><span class="badge">2</span> データを確認（任意）</h3>
+    <p>
+        右側のサイドバーで <span class="action-highlight">「Tables」</span> をクリックし、
+        <code>global_weather_tutorial</code> が読み込まれていることを確認します。
+    </p>
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/tables.png">
+</div>
+
+<div class="step-card">
+    <h3><span class="badge">3</span> フィルターを作成する</h3>
+    <p>
+        右側のサイドバーで <span class="action-highlight">「Filters」</span> をクリックし、
+        「Add Filter」を選択します。
+    </p>
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/filters.png">
+
+    <ul>
+        <li><strong>Name:</strong> <code>CityChooser</code></li>
+        <li><strong>Type:</strong> Dropdown</li>
+        <li><strong>Table:</strong> global_weather_tutorial</li>
+        <li><strong>Column:</strong> CITY</li>
+    </ul>
+
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/filter-builder.png">
+    <p>左上に都市名のフィルターメニューが表示されます。</p>
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/city-menu.png">
+</div>
+
+<div class="step-card">
+    <h3><span class="badge">4</span> ビューを作成する</h3>
+    <p>
+        右側のサイドバーで <span class="action-highlight">「Views」</span> をクリックし、
+        「Add View」を選択します。
+    </p>
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/views.png">
+
+    <ul>
+        <li><strong>Name:</strong> <code>CityTemp</code></li>
+        <li><strong>Table:</strong> global_weather_tutorial</li>
+    </ul>
+
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/view-dialog.png">
+
+    <p>
+        表示されたエディターで「DATE」と「TEMP」を選択し、
+        フィルターとして「CityChooser」を選びます。
+        その後「Update View」をクリックします。
+    </p>
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/view-editor.png">
+</div>
+
+<div class="step-card">
+    <h3><span class="badge">5</span> チャートを作成する</h3>
+    <p>
+        右側のサイドバーで <span class="action-highlight">「Chart」</span> をクリックし、
+        「Add Chart」を選択します。
+    </p>
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/charts.png">
+
+    <ul>
+        <li><strong>Name:</strong> <code>CityTemp</code></li>
+        <li><strong>dropdown:</strong> CityTemp（先ほど作成したView、メニューの一番下に表示されます）</li>
+    </ul>
+
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/chart-dialog.png">
+
+    <p>
+        チャートエディターが表示されます。これはGoogle Sheetsと同じチャートエディターです。
+        「Area Chart（エリアチャート）」がおすすめです。
     </p>
 
-    <div class="step-card">
-        <h3><span class="badge">1</span> Open the Editor</h3>
-        <p>
-            Click the <span class="action-highlight">New Galyleo Dashboard Icon</span> in the Launcher.
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/launcher.png" 
-             alt="Launch Dashboard">
-    </div>
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/chart-editor.png">
 
-    <div class="step-card">
-        <h3><span class="badge">2</span> Verify Data (Optional)</h3>
-        <p>
-            Click on <span class="action-highlight">"Tables"</span> in the right sidebar to confirm <code>global_weather_tutorial</code> is loaded.
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/tables.png" 
-             alt="See the table">
-    </div>
+    <p>
+        OKをクリックするとチャートが左上に表示されます。
+        右クリックすると操作ツール（Halo）が表示されます。
+    </p>
 
-    <div class="step-card">
-        <h3><span class="badge">3</span> Create the Filter</h3>
-        <p>
-            Click on <span class="action-highlight">"Filters"</span> in the right sidebar and select "Add Filter".
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/filters.png" 
-             alt="Click Add Filter">
-        <p>
-            In the dialog, configure the following:
-            <ul>
-                <li><strong>Name:</strong> <code>CityChooser</code></li>
-                <li><strong>Type:</strong> Dropdown</li>
-                <li><strong>Table:</strong> global_weather_tutorial</li>
-                <li><strong>Column:</strong> CITY</li>
-            </ul>
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/filter-builder.png" 
-             alt="City Menu">
-    </div>
-       <p> A menu will appear in the top left with city names </p>
-       <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/city-menu.png" 
-             alt="Filter Builder Dialog">
-    <div class="step-card">
-        <h3><span class="badge">4</span> Create the View</h3>
-        <p>
-            Click on <span class="action-highlight">"Views"</span> in the right sidebar and select "Add View".
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/views.png" 
-             alt="Click Add View">
-        <p>
-            In the dialog, configure the following:
-            <ul>
-                <li><strong>Name:</strong> <code>CityTemp</code></li>
-                <li><strong>Table:</strong> global_weather_tutorial</li>
-            </ul>
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/view-dialog.png" 
-             alt="View Builder Dialog">
-        <p>
-            An editor will pop up.  Select "DATE" and "TEMP" as columns and choose CityChooser as the filter.  Click "Update View".
-            
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/view-editor.png" 
-             alt="View Editor Dialog">
-    </div>
-    <div class="step-card">
-        <h3><span class="badge">5</span> Create the Chart</h3>
-        <p>
-            Click on <span class="action-highlight">"Chart"</span> in the right sidebar and select "Add Chart".
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/charts.png" 
-             alt="Click Add View">
-        <p>
-            In the dialog, configure the following:
-            <ul>
-                <li><strong>Name:</strong> <code>CityTemp</code></li>
-                <li><strong>dropdown:</strong> CityTemp (it will be the bottom item of the menu) </li>
-            </ul>
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/chart-dialog.png" 
-             alt="Chart Builder Dialog">
-        <p>
-            An editor will pop up.  This editor will look familiar; it is exactly the same chart editor used in Google Sheets. 
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/chart-builder.png" 
-             alt="Chart Editor Dialog">
-        <p>
-            Select the chart type you want.  "Area Chart" is a good choice for this. The preview will change to match the chart you select.
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/chart-editor.png" 
-             alt="Chart Editor Dialog">
-        <p>
-            Click OK. The chart will appear in the top left.  right-click it so a Halo of tools appears around the chart.
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/chart-editor-area.png" 
-             alt="Chart Halo">
-        <p>
-            The cross icon is the drag tool.  Click on it, hold the mouse down, and use it to drag the Area Chart into positio.
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/chart-final.png" 
-             alt="Chart Final Position">
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/chart-final.png">
+</div>
 
-    </div>
-    <div class="step-card">
-        <h3><span class="badge">6</span> Play With  the Chart</h3>
-        <p>
-            Click on <span class="action-highlight">the editing/interacting tool</span> in the top bar (arrow on the far left).  
-            A menu will appear.  Choose <b>interacting</b> and the icon will change to a hand
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/interaction-dialog.png" 
-             alt="Choose Interaction">
-        <p>
-            Now choose a city from the CityChooser you created.  The temperature chart will change as you change cities.
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/chart-interaction.png" 
-             alt="Chart Interaction">
-        
+<div class="step-card">
+    <h3><span class="badge">6</span> チャートを操作する</h3>
+    <p>
+        上部バー左端の編集／操作ツール（矢印アイコン）をクリックし、
+        「interacting」を選択します。
+    </p>
 
-    </div>
-    <div class="step-card">
-        <h3><span class="badge">7</span> Publish the  Chart</h3>
-        <p>
-            Click on the <span class="action-highlight"> Publish button</span> in the top bar.  
-            
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/publish-button.png" 
-             alt="Publish Button">
-        <p>
-            A dialog will appear with the names of previously published dashboards and a text box for the name.  Put "citytemp.gd.json"
-            in the textbox (the name <i>must</i> end in '.gd.json' and should have no spaces)
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/publish-dialog.png" 
-             alt="Publish Dialog">
-        <p>
-            Click OK.  A popup  will appear with links for you to view your published dashboard.
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/view-dashboard-notice.png" 
-             alt="View Dashboard">
-        <p>
-            Click on the link and your published dashboard will appear in a new browser tab.
-        </p>
-        <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/published-dashboard.png" 
-             alt="Published Dashboard">
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/interaction-dialog.png">
 
-    </div>
+    <p>
+        CityChooserから都市を選択すると、チャートが自動的に更新されます。
+    </p>
 
-    
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/chart-interaction.png">
+</div>
+
+<div class="step-card">
+    <h3><span class="badge">7</span> チャートを公開する</h3>
+    <p>
+        上部バーの <span class="action-highlight">Publish ボタン</span> をクリックします。
+    </p>
+
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/publish-button.png">
+
+    <p>
+        テキストボックスに <code>citytemp.gd.json</code> と入力します。
+        ※ 必ず「.gd.json」で終わり、スペースを含めないでください。
+    </p>
+
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/publish-dialog.png">
+
+    <p>
+        OKをクリックすると、公開されたダッシュボードへのリンクが表示されます。
+        リンクをクリックすると新しいタブで表示されます。
+    </p>
+
+    <img src="https://raw.githubusercontent.com/engageLively/galyleo-examples/galyleo-2/fast-tutorial/images/published-dashboard.png">
+
+    <p>
+        以上がダッシュボード作成のチュートリアルとなります。
+        その他詳しい使い方は<a href="https://engagelively.github.io/galyleo-user-docs/" target="_blank">Galyleo User Guide(英文）</a>をご確認ください。
+    </p>
+
+</div>
 
 </body>
 </html>
