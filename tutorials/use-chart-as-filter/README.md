@@ -14,10 +14,9 @@ on a data set and drive a detailed chart.
 # Prerequisites
 
 1. Create Table
-2. Load Table
-3. Create Filters
-4. Create Views
-5. Create Charts
+2. Create Filters
+3. Create Views
+4. Create Charts
 
 # Uses
 

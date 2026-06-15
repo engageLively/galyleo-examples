@@ -2,18 +2,17 @@
 
 # Guide to the Tutorials
 
-There are (at this writing) eight  tutorials in this directory.  They are:
+There are (at this writing) seven  tutorials in this directory.  They are:
 
 1. create-table: learn how to create a Galyleo Table from a CSV file or PANDAS frame
 2. publish-table: learn how to publish  the created table to the Galyleo Service
-3. load-table: load a table from the Galyleo Service.,
-4. filter-table: learn how to filter the columns of a table by value or range
-5. create-view: use filters, column selection and ordering to prepare the data for a dynamic chart
-6. create-chart: create a chart that takes as its inputs a view
-7. use-chart-as-filter: Every chart is also a filter; use this to do data drill-downs
-8. add-images-text-and-shapes: Add images, text, and shapes, and style them
+3. filter-table: learn how to filter the columns of a table by value or range
+4. create-view: use filters, column selection and ordering to prepare the data for a dynamic chart
+5. create-chart: create a chart that takes as its inputs a view
+6. use-chart-as-filter: Every chart is also a filter; use this to do data drill-downs
+7. add-images-text-and-shapes: Add images, text, and shapes, and style them
 
-These tutorials are in roughly the order that a person would go through in order to create a dashboard; of course, there is a great deal of iteration involved here, too.  The tutorials are designed to be done in order, so start with create-table, go on to load-table, and so on, finishing up with add-images-and-text.
+These tutorials are in roughly the order that a person would go through in order to create a dashboard; of course, there is a great deal of iteration involved here, too.  The tutorials are designed to be done in order, so start with create-table, go on to filter-table, and so on, finishing up with add-images-and-text.
 
 Each tutorial is designed to teach a specific set of techniques and familiarize the reader with those techniques.  They aren't a substitute for the [User Guide](https://galyleo-user-docs.readthedocs.io/en/latest/), nor do they intend to show complete examples (the demos directory does that).
 
