@@ -20,7 +20,7 @@ An SDML Table is the foundation of a Galyleo Dashboard; all data are contained i
 fields "schema" and "type".  In our application, the type is always "RowTable" and there is an additional field "rows". 
 
 The schema field is a list of dictionaries.  Each dictionary has two fields, "name", and "type".
-The "type" field must be one of the SDML types: "string", "number", "boolean", "date", "datetime", "timeofday"
+The "type" field must be one of the SDML types: "string", "number", "boolean", "date", "datetime", "timeofday".
 
 The "rows" field of a RowTable consists of a list of lists.  To be valid, a table must obey the following:
 
@@ -42,7 +42,7 @@ The tutorial is simply executing the three Notebooks provided, in order.
 
 
 # First Notebook
-The first notebook shows how to create an SDML tabke, assign types to a schema, load a table from a record, and write an SDML table to a file.  Open and execute FirstNotebook.ipynb.
+The first notebook shows how to create an SDML table, assign types to a schema, load a table from a record, and write an SDML table to a file.  Open and execute FirstNotebook.ipynb.
 
 # Second Notebook
 The second notebook shows how to read a GalyleoTable from a file and load it, using JSON.  The file is the one written by the first Notebook.  A copy is in the repo.
