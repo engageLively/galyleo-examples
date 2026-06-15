@@ -47,7 +47,7 @@ Scroll down in the sidebar; at the bottom are tools to control the border of the
 
 Time to add a shape.  Click on the shapes menu (next to text, top left).  The shapes are Rectangle, Ellipse, Image, and Label.  Choose Ellipse.  The shape will change into an oval and it will show in blue
 
-![Shape menu](images/shape-menu.png)
+![Shape menu](images/shapes-menu.png)
 
 Drag an oval over the text, and then use the right sidebar to style it.  The oval now hides the text, which isn't what's wanted.  Right-click on the oval to bring up the Context menu (the browser menu may show up first; click elsewhere to get rid of it).  The context menu has two items: Bring to front and Send to back.  Click Send to back.
 
