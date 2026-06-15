@@ -17,14 +17,17 @@ Click on the "View Tables" button on the top bar.  You'll the current tables for
 ![Tables](images/tables.png)
 Click back to Home.  We're going to use the `/services/galyleo/publish_data` API method
 ## Open the Notebook
-Open Notebook.ipynb and run the cells.  Check the response code for the final call.  It should be 200:
-![Tables](images/post_request.png)
-If it is, the upload succeeded.  Click on View Tables in the Galyleo Services community.  You'll see your table there
+Open Notebook.ipynb and run the cells.  Now check if the tables were published.  Click on the 
+'Galyleo Services' item on the 'Galyleo' menu.
+![Services](images/services_menu.png)
+This will bring up the Galyleo Services page in a new tab.  Go to that tab, and then click on View Tables in the Navigation Bar.  You'll see your table there:
 ![Tables](images/table_added.png)
+Clicking on the table link will bring up its schema:
+![Schema](images/schema_view.png)
 ## Bonus: Make it Publicly Readable
 By default, dashboards and tables are only viewable by their authors.  However,. you can make any dashboard or table readable by everyone.  Click on the button `Share <table name>`
 ![Added](images/table_added.png)
-A submenu is brought up, with checkmarks next to the people the item is shared with `PUBLIC` shares an item with everyone.
-![Share](images/share_button.png)
+A submenu is brought up, with a list of users with whom the table is currently shared.  Click the remove button to remove an existing user, enter new users (email addresses) in the text box and click 'Add', or check the box to share with all Hub users.  Click 'Save Changes' when done.
+![Share](images/share_view.png)
 
 
