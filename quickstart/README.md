@@ -114,9 +114,9 @@ Grab the cross symbol for drag; to resize the object, just grab and drag any of 
 <img src = images/galyleo_service.png width = 800>
 22. The Galyleo service will appear in a new tab. Click on View Dashboards
 <img src = images/galyleo_service_2.png width = 800>
-23.  And click on the "Share" button beside the florence.gd.json entry.  This brings up a page which lists Hub users; check the boxes of the ones you wish to share it with.  To share it with all hub users, click "HUB".  To share with the world, click "PUBLIC"
+23.  And click on the "Share" button beside the florence.gd.json entry.  This brings up a page which lists Hub users with whom the dashboard is shared.  Click "Remove" next to the ones you no longer wish to share.  If you wish to share with additional users, enter their emails in the text box and click "Add" (they must have Hub accounts).  If you want to share with all Hub users, click the "Shared with Hub" checkbox.  Be sure to click "Save Changes".
 
-<img src = images/share_dialog.png width = 800>
+<img src = images/share_view.png width = 800>
 
 24.  Congratulations on publishing your first dashboard!
     
