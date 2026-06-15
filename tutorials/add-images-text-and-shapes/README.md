@@ -45,7 +45,7 @@ This text needs to be styled.  Click "Selection Mode" (arrow, top left), then op
 
 Scroll down in the sidebar; at the bottom are tools to control the border of the text box.  Set the width to 0 pixels and the box will only appear when selected.
 
-Time to add a shape.  Click on the shapes menu (next to text, top left).  The shapes are Rectangle, Ellipse, Image, and Label.  Choose Ellipse.  The shape will change into an oval and it will show in blue
+Time to add a shape.  Click on the shapes menu (next to text, top left).  The shapes are Rectangle, Ellipse, and Image.  Choose Ellipse.  The shape will change into an oval and it will show in blue
 
 ![Shape menu](images/shapes-menu.png)
 
