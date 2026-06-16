@@ -40,10 +40,7 @@
           "type": "number"
         }
       ],
-      "connector": {
-        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
-        "remoteName": "tables/rick.mcgeer@engagelively.com/summary.sdml"
-      }
+      "staticUrl": "https://raw.githubusercontent.com/engageLively/galyleo-examples/feature/static-gcs-deploy/demos/published/tables/summary.sdml"
     },
     "rick.mcgeer@engagelively.com/records.sdml": {
       "columns": [
@@ -60,10 +57,7 @@
           "type": "number"
         }
       ],
-      "connector": {
-        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
-        "remoteName": "tables/rick.mcgeer@engagelively.com/records.sdml"
-      }
+      "staticUrl": "https://raw.githubusercontent.com/engageLively/galyleo-examples/feature/static-gcs-deploy/demos/published/tables/records.sdml"
     }
   },
   "views": {
