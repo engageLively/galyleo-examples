@@ -2,7 +2,7 @@
 
 # Galyleo Quickstart
 
-Build a dashboard from scratch in under two minutes! In this exercise, we're going to build about half of the [Florence Nightingale Dashboard](https://galyleobeta.engagelively.com/public/galyleo/index.html?dashboard=https://raw.githubusercontent.com/engageLively/galyleo-examples/main/demos/nightingale/nightingale.gd.json).  To make this easy, we've set up the data and the Notebook to process it for the dashboard, so all you have to do is run it to populate the dashboard with data. 
+Build a dashboard from scratch in under two minutes! In this exercise, we're going to build about half of the [Florence Nightingale Dashboard](https://engagelively.github.io/galyleo-dashboard/?dashboard=https://raw.githubusercontent.com/engageLively/galyleo-examples/feature/static-gcs-deploy/demos/published/dashboards/nightingale.gd.json).  To make this easy, we've set up the data and the Notebook to process it for the dashboard, so all you have to do is run it to populate the dashboard with data. 
 
 1. Use the star icon on the launcher to launch a Galyleo Dashboard.
 
