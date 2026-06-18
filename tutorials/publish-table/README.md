@@ -6,7 +6,7 @@ The Notebook reads the SDML file we created in the create-table tutorial, turns 
 As per our standard practice, _no specialized client software is required_.  In fact, the `sdtp` library is not required; we use it as a convenience.
 
 ## Description
-This Notebook first reads the `ufos.sdml` file and then uses the Galyleo Services REST interface to publish the table under the name tables/<user>/ufos.sdml.
+This Notebook first reads the `ufos.sdml` file and then uses the Galyleo Service REST interface to publish the table under the name tables/<user>/ufos.sdml.
 
 ## To Start
 Select "Galyleo Service" from the Galyleo Menu.
@@ -26,11 +26,11 @@ Click back to Home.  We're going to use the `/services/galyleo/publish_data` API
 ## Open the Notebook
 
 Open Notebook.ipynb and run the cells.  Now check if the tables were published.  Click on the 
-'Galyleo Services' item on the 'Galyleo' menu.
+'Galyleo Service' item on the 'Galyleo' menu.
 
 ![Services](images/services_menu.png)
 
-This will bring up the Galyleo Services page in a new tab.  Go to that tab, and then click on View Tables in the Navigation Bar.  You'll see your table there:
+This will bring up the Galyleo Service page in a new tab.  Go to that tab, and then click on View Tables in the Navigation Bar.  You'll see your table there:
 
 ![Tables](images/table_added.png)
 
