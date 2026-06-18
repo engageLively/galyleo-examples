@@ -26,7 +26,7 @@ Click back to Home.  We're going to use the `/services/galyleo/publish_data` API
 ## Open the Notebook
 
 Open Notebook.ipynb and run the cells.  Now check if the tables were published.  Click on the 
-'Galyleo Service' item on the 'Galyleo' menu.
+"Galyleo Service" item on the "Galyleo" menu.
 
 ![Services](images/services_menu.png)
 
@@ -44,7 +44,7 @@ By default, dashboards and tables are only viewable by their authors.  However, 
 
 ![Added](images/table_added.png)
 
-A submenu is brought up, with a list of users with whom the table is currently shared.  Click the remove button to remove an existing user, enter new users (email addresses) in the text box and click 'Add', or check the box to share with all Hub users.  Click 'Save Changes' when done.
+A submenu is brought up, with a list of users with whom the table is currently shared.  Click the remove button to remove an existing user, enter new users (email addresses) in the text box and click "Add", or check the box to share with all Hub users.  Click "Save Changes" when done.
 
 ![Share](images/share_view.png)
 
