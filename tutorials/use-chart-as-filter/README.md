@@ -27,7 +27,7 @@ As in the last three tutorials, we're going to use the dashboard from the previo
 
 ![Initial Chart as Filter](images/initial-chart-as-filter.png)
 
-Click over to "Views", "Add View", and in the View Creator choose aggregate_cmy as the underlying table.
+Click over to Views, "Add View", and in the View Creator choose aggregate_cmy as the underlying table.
 
 ![View Creator](images/view-create.png)
 
@@ -35,9 +35,9 @@ The View Editor pops up.  **Notice that *CountryYear* is a filter as well as a c
 
 ![View Editor](images/view-edit.png)
 
-**Note**: this is why Charts and Filters form a single namespace.  A chart and a filter can't share the same name.  They share the role of filters.  Similarly, since either a View or a Table can be the source of data for a Chart, Views and Tables form a single namespace.
+**Note**: this is why Charts and Filters form a single namespace: a chart and a filter can't share the same name.  They share the role of filters.  Similarly, since either a View or a Table can be the source of data for a Chart, Views and Tables form a single namespace.
 
-Once we have this view, we can use it to build a chart.  Click on charts, "Add chart", and choose SightingsByMonth as the View in the Chart creator.  Pick any name.  It is often convenient to use the name of the source view as the name of the chart (Charts and Views are in separate namespaces, so no conflicts).  In the chart editor, pick a chart type and customize it using the various options.  What's shown here is a column chart, where the axis labels were chosen by customization, Min = 1, Max = 13 were chosen as the bounds on the X-axis.  **Important**: to ensure that month is used for the X-axis rather than as a separate series, check the "Use 1st column as labels" box on the Start page of the Chart Editor.
+Once we have this view, we can use it to build a chart.  Click on Charts, "Add chart", and choose SightingsByMonth as the View in the Chart creator.  Pick any name.  It is often convenient to use the name of the source view as the name of the chart (Charts and Views are in separate namespaces, so no conflicts).  In the chart editor, pick a chart type and customize it using the various options.  What's shown here is a column chart, where the axis labels were chosen by customization, Min = 1, Max = 13 were chosen as the bounds on the X-axis.  **Important**: to ensure that month is used for the X-axis rather than as a separate series, check the "Use 1st column as labels" box on the Start page of the Chart Editor.
 
 ![Chart Editor](images/chart-editor.png)
 
