@@ -2,9 +2,9 @@
 
 # Tutorial 4: Creating Views
 
-A View is a subset of a table.  These form the key building blocks for dashboards -- namely, making charts responsive to user actions
-on filters.  While charts can and do use a raw table as a data source, _almost all_ charts -- and _all_ charts that respond to user
-input -- use a view as a data source.  
+A View is a subset of a table.  These form the key building blocks for dashboards: namely, making charts responsive to user actions
+on filters.  While charts can and do use a raw table as a data source, _almost all_ charts, including  _all_ charts that respond to user
+input, use a view as a data source.  
 In a View, columns are manually chosen -- and, importantly, ordered by the dashboard creator -- and rows are selected by filters.
 
 # What You'll Learn
@@ -29,23 +29,23 @@ The loaded, filtered dashboard we created in the filter-table tutorial has been 
 
 ![First Image](images/init-dashboard.png)
 
-Click on the views tab
+Click on the views tab:
 
 ![View Tab](images/view-tab.png)
 
-Click on Add View to add a view, and get the View Creation popup:
+Click on "Add" View to add a view, and get the View Creation popup:
 
 ![View Creator](images/view-creator-new.png)
 
-Choose "ufos-cy" as the table, pick any name other than an existing table as the name, and then click "Create". The View will appear in the Views list, and the View Editor popup will appear
+Choose "ufos-cy" as the table, and choose a view name.  To avoid name collisions, a view cannot have the same name as a table.  Once a name is chosen, click "Create". The View will appear in the Views list, and the View Editor popup will appear.
 
 ![View Editor 1](images/init-reorder.png)
 
-The order of columns in a view is very important; the first column defines the Category, or X, axis in most charts.  Click on the pen icon in the top left to go into reorder mode.
+The order of columns in a view is very important; the first column defines the Category, or X axis in most charts.  Click on the pen icon in the top right to go into reorder mode.
 
 ![View Editor 2](images/move-columns.png)
 
-The icons beside the columns turn into hamburgers and the mouse turns into a grab.  Use the mouse to reorder columns with country on top and count next, then click the reorder icon again to go back into select mode
+The icons beside the columns turn into hamburgers and the mouse turns into a grab.  Use the mouse to reorder columns with "country" on top and "count" next, then click the reorder icon again to go back into select mode
 
 ![View Selection](images/selection.png)
 

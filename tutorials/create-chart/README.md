@@ -2,7 +2,7 @@
 
 # Tutorial 5: Creating Charts
 
-At last!  With the prepatory work done, we can now create a responsive chart.  Creating a chart is actually very simple -- most
+At last!  With the preparatory work done, we can now create a responsive chart.  Creating a chart is actually very simple: most
 of the work was done in creating Views.
 
 # What You'll Learn
@@ -15,9 +15,8 @@ of the work was done in creating Views.
 # Prerequisites
 
 1. Create Table
-2. Load Table
-3. Create Filters
-4. Create Views
+2. Create Filters
+3. Create Views
 
 # Uses
 1. Galyleo Dashboards
@@ -28,7 +27,7 @@ As with the create-view tutorial, ufos.gd.json is the Dashboard we've prepared w
 
 ![Initial Chart image](images/create-chart-1.png)
 
-Click on the chart tab and click on add chart
+Click on the chart tab and click on "Add chart".
 
 ![Add Chart](images/add-chart.png)
 
@@ -44,6 +43,6 @@ Choose "Maps"  as the category, then choose the top (GeoChart) map.  The default
 
 ![Chart Selector](images/chart-editor-2.png)
 
-Click OK, the editor disappears, and you now have a GeoChart that's responsive to the slider.  Play with it for a bit.  If you'd like to edit the chart, click the gear icon next to the chart name to bring up the Chart Editor
+Click OK, the editor disappears, and you now have a GeoChart that's responsive to the slider.  Play with it for a bit.  If you'd like to edit the chart, click the gear icon next to the chart name to bring up the Chart Editor.
 
 ![Final Chart](images/final-chart.png)

@@ -1,1 +1,2012 @@
-"{\"fill\":\"Color.white\",\"tables\":{\"rick.mcgeer@engagelively.com/aggregate_cy.sdml\":{\"columns\":[{\"name\":\"year\",\"type\":\"number\"},{\"name\":\"country\",\"type\":\"string\"},{\"name\":\"count\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/aggregate_cy.sdml\"}},\"rick.mcgeer@engagelively.com/aggregate_cym.sdml\":{\"columns\":[{\"name\":\"year\",\"type\":\"number\"},{\"name\":\"month\",\"type\":\"number\"},{\"name\":\"country\",\"type\":\"string\"},{\"name\":\"count\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/aggregate_cym.sdml\"}},\"rick.mcgeer@engagelively.com/aggregate_cyt.sdml\":{\"columns\":[{\"name\":\"country\",\"type\":\"string\"},{\"name\":\"year\",\"type\":\"number\"},{\"name\":\"type\",\"type\":\"string\"},{\"name\":\"count\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/aggregate_cyt.sdml\"}},\"rick.mcgeer@engagelively.com/aggregate_sy.sdml\":{\"columns\":[{\"name\":\"year\",\"type\":\"number\"},{\"name\":\"state\",\"type\":\"string\"},{\"name\":\"count\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/aggregate_sy.sdml\"}},\"rick.mcgeer@engagelively.com/aggregate_sym.sdml\":{\"columns\":[{\"name\":\"year\",\"type\":\"number\"},{\"name\":\"month\",\"type\":\"number\"},{\"name\":\"state\",\"type\":\"string\"},{\"name\":\"count\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/aggregate_sym.sdml\"}},\"rick.mcgeer@engagelively.com/aggregate_syt.sdml\":{\"columns\":[{\"name\":\"state\",\"type\":\"string\"},{\"name\":\"year\",\"type\":\"number\"},{\"name\":\"type\",\"type\":\"string\"},{\"name\":\"count\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/aggregate_syt.sdml\"}},\"rick.mcgeer@engagelively.com/electoral_college.sdml\":{\"columns\":[{\"name\":\"Year\",\"type\":\"number\"},{\"name\":\"Democratic\",\"type\":\"number\"},{\"name\":\"Republican\",\"type\":\"number\"},{\"name\":\"Other\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/electoral_college.sdml\"}},\"rick.mcgeer@engagelively.com/history.sdml\":{\"columns\":[{\"name\":\"year\",\"type\":\"number\"},{\"name\":\"state\",\"type\":\"string\"},{\"name\":\"special\",\"type\":\"boolean\"},{\"name\":\"REPUBLICAN\",\"type\":\"number\"},{\"name\":\"DEMOCRAT\",\"type\":\"number\"},{\"name\":\"LIBERTARIAN\",\"type\":\"number\"},{\"name\":\"OTHER\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/history.sdml\"}},\"rick.mcgeer@engagelively.com/margin.sdml\":{\"columns\":[{\"name\":\"year\",\"type\":\"number\"},{\"name\":\"state\",\"type\":\"string\"},{\"name\":\"special\",\"type\":\"boolean\"},{\"name\":\"margin\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/margin.sdml\"}},\"rick.mcgeer@engagelively.com/nationwide_vote.sdml\":{\"columns\":[{\"name\":\"Year\",\"type\":\"number\"},{\"name\":\"Party\",\"type\":\"string\"},{\"name\":\"Percentage\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/nationwide_vote.sdml\"}},\"rick.mcgeer@engagelively.com/nightingale.sdml\":{\"columns\":[{\"name\":\"month\",\"type\":\"number\"},{\"name\":\"Date\",\"type\":\"date\"},{\"name\":\"Month\",\"type\":\"string\"},{\"name\":\"Year\",\"type\":\"number\"},{\"name\":\"Army\",\"type\":\"number\"},{\"name\":\"Disease\",\"type\":\"number\"},{\"name\":\"Wounds\",\"type\":\"number\"},{\"name\":\"Other\",\"type\":\"number\"},{\"name\":\"Disease_rate\",\"type\":\"number\"},{\"name\":\"Wounds_rate\",\"type\":\"number\"},{\"name\":\"Other_rate\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/nightingale.sdml\"}},\"rick.mcgeer@engagelively.com/presidential_margins.sdml\":{\"columns\":[{\"name\":\"State\",\"type\":\"string\"},{\"name\":\"Year\",\"type\":\"number\"},{\"name\":\"Margin\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/presidential_margins.sdml\"}},\"rick.mcgeer@engagelively.com/presidential_vote.sdml\":{\"columns\":[{\"name\":\"Year\",\"type\":\"number\"},{\"name\":\"State\",\"type\":\"string\"},{\"name\":\"Name\",\"type\":\"string\"},{\"name\":\"Party\",\"type\":\"string\"},{\"name\":\"Votes\",\"type\":\"number\"},{\"name\":\"Percentage\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/presidential_vote.sdml\"}},\"rick.mcgeer@engagelively.com/presidential_vote_history.sdml\":{\"columns\":[{\"name\":\"State\",\"type\":\"string\"},{\"name\":\"Year\",\"type\":\"number\"},{\"name\":\"Democratic\",\"type\":\"number\"},{\"name\":\"Republican\",\"type\":\"number\"},{\"name\":\"Progressive\",\"type\":\"number\"},{\"name\":\"Socialist\",\"type\":\"number\"},{\"name\":\"Reform\",\"type\":\"number\"},{\"name\":\"Other\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/presidential_vote_history.sdml\"}},\"rick.mcgeer@engagelively.com/records.sdml\":{\"columns\":[{\"name\":\"month\",\"type\":\"number\"},{\"name\":\"cause\",\"type\":\"string\"},{\"name\":\"deaths\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/records.sdml\"}},\"rick.mcgeer@engagelively.com/senate-control.sdml\":{\"columns\":[{\"name\":\"year\",\"type\":\"number\"},{\"name\":\"Republican Before\",\"type\":\"number\"},{\"name\":\"Democratic Before\",\"type\":\"number\"},{\"name\":\"Other Before \",\"type\":\"number\"},{\"name\":\"Republican After\",\"type\":\"number\"},{\"name\":\"Democratic After\",\"type\":\"number\"},{\"name\":\"Other After\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/senate-control.sdml\"}},\"rick.mcgeer@engagelively.com/senate_vote.sdml\":{\"columns\":[{\"name\":\"year\",\"type\":\"number\"},{\"name\":\"state\",\"type\":\"string\"},{\"name\":\"special\",\"type\":\"boolean\"},{\"name\":\"candidate\",\"type\":\"string\"},{\"name\":\"party_simplified\",\"type\":\"string\"},{\"name\":\"candidatevotes\",\"type\":\"number\"},{\"name\":\"totalvotes\",\"type\":\"number\"},{\"name\":\"percentage\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/senate_vote.sdml\"}},\"rick.mcgeer@engagelively.com/summary.sdml\":{\"columns\":[{\"name\":\"army_size\",\"type\":\"number\"},{\"name\":\"disease\",\"type\":\"number\"},{\"name\":\"wounds\",\"type\":\"number\"},{\"name\":\"other\",\"type\":\"number\"},{\"name\":\"month\",\"type\":\"number\"},{\"name\":\"total\",\"type\":\"number\"},{\"name\":\"disease_pct\",\"type\":\"number\"},{\"name\":\"wounds_pct\",\"type\":\"number\"},{\"name\":\"other_pct\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/summary.sdml\"}},\"rick.mcgeer@engagelively.com/test.sdml\":{\"columns\":[{\"name\":\"month\",\"type\":\"number\"},{\"name\":\"cause\",\"type\":\"string\"},{\"name\":\"deaths\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/test.sdml\"}},\"rick.mcgeer@engagelively.com/ufos.sdml\":{\"columns\":[{\"name\":\"date\",\"type\":\"number\"},{\"name\":\"month\",\"type\":\"number\"},{\"name\":\"year\",\"type\":\"number\"},{\"name\":\"timeofday\",\"type\":\"string\"},{\"name\":\"country\",\"type\":\"string\"},{\"name\":\"state\",\"type\":\"string\"},{\"name\":\"type\",\"type\":\"string\"},{\"name\":\"duration\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick.mcgeer@engagelively.com/ufos.sdml\"}},\"rick/electoral_college.sdml\":{\"columns\":[{\"name\":\"Year\",\"type\":\"number\"},{\"name\":\"Democratic\",\"type\":\"number\"},{\"name\":\"Republican\",\"type\":\"number\"},{\"name\":\"Other\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick/electoral_college.sdml\"}},\"rick/nightingale.sdml\":{\"columns\":[{\"name\":\"Month_number\",\"type\":\"number\"},{\"name\":\"Date\",\"type\":\"date\"},{\"name\":\"Month\",\"type\":\"string\"},{\"name\":\"Year\",\"type\":\"number\"},{\"name\":\"Army\",\"type\":\"number\"},{\"name\":\"Disease\",\"type\":\"number\"},{\"name\":\"Wounds\",\"type\":\"number\"},{\"name\":\"Other\",\"type\":\"number\"},{\"name\":\"Disease_rate\",\"type\":\"number\"},{\"name\":\"Wounds_rate\",\"type\":\"number\"},{\"name\":\"Other_rate\",\"type\":\"number\"}],\"connector\":{\"url\":\"https://galyleokct-free.engagelively.com/services/galyleo\",\"remoteName\":\"tables/rick/nightingale.sdml\"}}},\"views\":{\"Margin\":{\"table\":\"rick.mcgeer@engagelively.com/presidential_margins.sdml\",\"columns\":[\"State\",\"Margin\"],\"filterNames\":[\"YearFilter\"]},\"CandidateVotes\":{\"table\":\"rick.mcgeer@engagelively.com/presidential_vote.sdml\",\"columns\":[\"Name\",\"Votes\"],\"filterNames\":[\"YearFilter\",\"Margin\"]},\"PctvParty\":{\"table\":\"rick.mcgeer@engagelively.com/presidential_vote.sdml\",\"columns\":[\"Party\",\"Percentage\"],\"filterNames\":[\"YearFilter\",\"Margin\"]},\"PctVote\":{\"table\":\"rick.mcgeer@engagelively.com/nationwide_vote.sdml\",\"columns\":[\"Party\",\"Percentage\"],\"filterNames\":[\"YearFilter\"]},\"VoteHistory\":{\"table\":\"rick.mcgeer@engagelively.com/presidential_vote_history.sdml\",\"columns\":[\"Year\",\"Democratic\",\"Republican\",\"Progressive\",\"Socialist\",\"Reform\",\"Other\"],\"filterNames\":[\"Margin\"]},\"ECFor year\":{\"table\":\"rick.mcgeer@engagelively.com/electoral_college.sdml\",\"columns\":[\"Democratic\",\"Republican\",\"Other\"],\"filterNames\":[\"YearFilter\"]}},\"charts\":{\"Margin\":{\"chartType\":\"GeoChart\",\"options\":{\"hAxis\":{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null},\"legacyScatterChartLabels\":true,\"vAxes\":[{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null},{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null}],\"displayMode\":\"regions\",\"booleanRole\":\"certainty\",\"colors\":[\"#DC3912\",\"#ffffff\",\"#0000ff\"],\"defaultColor\":\"#000000\",\"width\":\"100%\",\"height\":\"100%\",\"datalessRegionColor\":\"#000000\",\"region\":\"US\",\"resolution\":\"provinces\",\"title\":\"Margin v State where Year = 1956\"},\"viewOrTable\":\"Margin\",\"morphIndex\":1,\"morphicProperties\":{\"rotation\":0,\"scale\":1,\"clipMode\":\"visible\",\"opacity\":1,\"position\":{\"x\":668,\"y\":496.0000190734863},\"extent\":{\"x\":420,\"y\":330},\"fill\":\"Color.white\",\"border\":{\"style\":{\"left\":\"solid\",\"right\":\"solid\",\"top\":\"solid\",\"bottom\":\"solid\"},\"width\":{\"left\":0,\"right\":0,\"top\":0,\"bottom\":0},\"color\":{\"top\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"left\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"right\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"bottom\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1}},\"radius\":{\"topLeft\":0,\"topRight\":0,\"bottomRight\":0,\"bottomLeft\":0}},\"origin\":{\"x\":0,\"y\":0}}},\"CandidateVotes\":{\"chartType\":\"ColumnChart\",\"options\":{\"hAxis\":{\"useFormatFromData\":true,\"viewWindow\":null,\"minValue\":null,\"maxValue\":null,\"viewWindowMode\":null},\"legacyScatterChartLabels\":true,\"vAxes\":[{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null},{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null}],\"isStacked\":false,\"booleanRole\":\"certainty\",\"legend\":\"right\",\"width\":\"100%\",\"height\":\"100%\",\"title\":\"Votes v Name where Year = 1956, State = Colorado\"},\"viewOrTable\":\"CandidateVotes\",\"morphIndex\":2,\"morphicProperties\":{\"rotation\":0,\"scale\":1,\"clipMode\":\"visible\",\"opacity\":1,\"position\":{\"x\":148,\"y\":237.33333206176758},\"extent\":{\"x\":420,\"y\":330},\"fill\":\"Color.white\",\"border\":{\"style\":{\"left\":\"solid\",\"right\":\"solid\",\"top\":\"solid\",\"bottom\":\"solid\"},\"width\":{\"left\":0,\"right\":0,\"top\":0,\"bottom\":0},\"color\":{\"top\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"left\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"right\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"bottom\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1}},\"radius\":{\"topLeft\":0,\"topRight\":0,\"bottomRight\":0,\"bottomLeft\":0}},\"origin\":{\"x\":0,\"y\":0}}},\"PctvParty\":{\"chartType\":\"BarChart\",\"options\":{\"legacyScatterChartLabels\":true,\"isStacked\":false,\"booleanRole\":\"certainty\",\"vAxes\":[{\"minValue\":null,\"maxValue\":null,\"viewWindow\":null,\"viewWindowMode\":null,\"useFormatFromData\":true},{\"useFormatFromData\":true}],\"hAxis\":{\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null,\"useFormatFromData\":true},\"legend\":\"right\",\"width\":\"100%\",\"height\":\"100%\",\"title\":\"Percentage v Party where Year = 1956, State = Colorado\"},\"viewOrTable\":\"PctvParty\",\"morphIndex\":3,\"morphicProperties\":{\"rotation\":0,\"scale\":1,\"clipMode\":\"visible\",\"opacity\":1,\"position\":{\"x\":152,\"y\":560.0000381469727},\"extent\":{\"x\":420,\"y\":330},\"fill\":\"Color.white\",\"border\":{\"style\":{\"left\":\"solid\",\"right\":\"solid\",\"top\":\"solid\",\"bottom\":\"solid\"},\"width\":{\"left\":0,\"right\":0,\"top\":0,\"bottom\":0},\"color\":{\"top\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"left\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"right\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"bottom\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1}},\"radius\":{\"topLeft\":0,\"topRight\":0,\"bottomRight\":0,\"bottomLeft\":0}},\"origin\":{\"x\":0,\"y\":0}}},\"PctVote\":{\"chartType\":\"PieChart\",\"options\":{\"hAxis\":{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null},\"legacyScatterChartLabels\":true,\"vAxes\":[{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null},{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null}],\"is3D\":false,\"pieHole\":0,\"booleanRole\":\"certainty\",\"width\":\"100%\",\"height\":\"100%\",\"title\":\"Percentage v Party where Year = 1956\"},\"viewOrTable\":\"PctVote\",\"morphIndex\":4,\"morphicProperties\":{\"rotation\":0,\"scale\":1,\"clipMode\":\"visible\",\"opacity\":1,\"position\":{\"x\":630.6666259765625,\"y\":289.3333435058594},\"extent\":{\"x\":420,\"y\":251.33331298828125},\"fill\":\"Color.white\",\"border\":{\"style\":{\"left\":\"solid\",\"right\":\"solid\",\"top\":\"solid\",\"bottom\":\"solid\"},\"width\":{\"left\":0,\"right\":0,\"top\":0,\"bottom\":0},\"color\":{\"top\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"left\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"right\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"bottom\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1}},\"radius\":{\"topLeft\":0,\"topRight\":0,\"bottomRight\":0,\"bottomLeft\":0}},\"origin\":{\"x\":0,\"y\":0}}},\"VoteHistory\":{\"chartType\":\"LineChart\",\"options\":{\"hAxis\":{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null},\"legacyScatterChartLabels\":true,\"vAxes\":[{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null},{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null}],\"curveType\":\"\",\"booleanRole\":\"certainty\",\"lineWidth\":2,\"legend\":\"right\",\"width\":\"100%\",\"height\":\"100%\",\"useFirstColumnAsDomain\":true,\"title\":\"VoteHistory where State = Colorado\"},\"viewOrTable\":\"VoteHistory\",\"morphIndex\":5,\"morphicProperties\":{\"rotation\":0,\"scale\":1,\"clipMode\":\"visible\",\"opacity\":1,\"position\":{\"x\":1136.0000305175781,\"y\":532},\"extent\":{\"x\":642.6666259765625,\"y\":330},\"fill\":\"Color.white\",\"border\":{\"style\":{\"left\":\"solid\",\"right\":\"solid\",\"top\":\"solid\",\"bottom\":\"solid\"},\"width\":{\"left\":0,\"right\":0,\"top\":0,\"bottom\":0},\"color\":{\"top\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"left\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"right\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"bottom\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1}},\"radius\":{\"topLeft\":0,\"topRight\":0,\"bottomRight\":0,\"bottomLeft\":0}},\"origin\":{\"x\":0,\"y\":0}}},\"ECForYear\":{\"chartType\":\"Gauge\",\"options\":{\"hAxis\":{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null},\"legacyScatterChartLabels\":true,\"vAxes\":[{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null},{\"useFormatFromData\":true,\"viewWindow\":{\"max\":null,\"min\":null},\"minValue\":null,\"maxValue\":null}],\"booleanRole\":\"certainty\",\"width\":\"100%\",\"height\":\"100%\",\"title\":\"Republican, Other v Democratic where Year = 1956\"},\"viewOrTable\":\"ECFor year\",\"morphIndex\":6,\"morphicProperties\":{\"rotation\":0,\"scale\":1,\"clipMode\":\"visible\",\"opacity\":1,\"position\":{\"x\":1188.0000610351562,\"y\":350.6666717529297},\"extent\":{\"x\":544,\"y\":198},\"fill\":\"Color.white\",\"border\":{\"style\":{\"left\":\"solid\",\"right\":\"solid\",\"top\":\"solid\",\"bottom\":\"solid\"},\"width\":{\"left\":0,\"right\":0,\"top\":0,\"bottom\":0},\"color\":{\"top\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"left\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"right\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1},\"bottom\":{\"r\":1,\"g\":1,\"b\":1,\"a\":1}},\"radius\":{\"topLeft\":0,\"topRight\":0,\"bottomRight\":0,\"bottomLeft\":0}},\"origin\":{\"x\":0,\"y\":0}}}},\"filters\":{\"YearFilter\":{\"savedForm\":{\"part\":{\"moduleId\":\"engageLively--galyleo-dashboard/studio/filters.cp.js\",\"exportedName\":\"SelectFilter\",\"range\":{\"start\":43841,\"end\":44048}},\"filterType\":\"Select\",\"columnName\":\"Year\",\"tableName\":\"rick.mcgeer@engagelively.com/presidential_vote_history.sdml\",\"choices\":[{\"isListItem\":true,\"string\":\"1828\",\"value\":1828},{\"isListItem\":true,\"string\":\"1832\",\"value\":1832},{\"isListItem\":true,\"string\":\"1836\",\"value\":1836},{\"isListItem\":true,\"string\":\"1840\",\"value\":1840},{\"isListItem\":true,\"string\":\"1844\",\"value\":1844},{\"isListItem\":true,\"string\":\"1848\",\"value\":1848},{\"isListItem\":true,\"string\":\"1852\",\"value\":1852},{\"isListItem\":true,\"string\":\"1854\",\"value\":1854},{\"isListItem\":true,\"string\":\"1855\",\"value\":1855},{\"isListItem\":true,\"string\":\"1856\",\"value\":1856},{\"isListItem\":true,\"string\":\"1860\",\"value\":1860},{\"isListItem\":true,\"string\":\"1864\",\"value\":1864},{\"isListItem\":true,\"string\":\"1868\",\"value\":1868},{\"isListItem\":true,\"string\":\"1872\",\"value\":1872},{\"isListItem\":true,\"string\":\"1876\",\"value\":1876},{\"isListItem\":true,\"string\":\"1880\",\"value\":1880},{\"isListItem\":true,\"string\":\"1884\",\"value\":1884},{\"isListItem\":true,\"string\":\"1888\",\"value\":1888},{\"isListItem\":true,\"string\":\"1892\",\"value\":1892},{\"isListItem\":true,\"string\":\"1896\",\"value\":1896},{\"isListItem\":true,\"string\":\"1900\",\"value\":1900},{\"isListItem\":true,\"string\":\"1904\",\"value\":1904},{\"isListItem\":true,\"string\":\"1908\",\"value\":1908},{\"isListItem\":true,\"string\":\"1912\",\"value\":1912},{\"isListItem\":true,\"string\":\"1916\",\"value\":1916},{\"isListItem\":true,\"string\":\"1920\",\"value\":1920},{\"isListItem\":true,\"string\":\"1924\",\"value\":1924},{\"isListItem\":true,\"string\":\"1928\",\"value\":1928},{\"isListItem\":true,\"string\":\"1932\",\"value\":1932},{\"isListItem\":true,\"string\":\"1936\",\"value\":1936},{\"isListItem\":true,\"string\":\"1940\",\"value\":1940},{\"isListItem\":true,\"string\":\"1944\",\"value\":1944},{\"isListItem\":true,\"string\":\"1948\",\"value\":1948},{\"isListItem\":true,\"string\":\"1952\",\"value\":1952},{\"isListItem\":true,\"string\":\"1956\",\"value\":1956},{\"isListItem\":true,\"string\":\"1960\",\"value\":1960},{\"isListItem\":true,\"string\":\"1964\",\"value\":1964},{\"isListItem\":true,\"string\":\"1968\",\"value\":1968},{\"isListItem\":true,\"string\":\"1972\",\"value\":1972},{\"isListItem\":true,\"string\":\"1976\",\"value\":1976},{\"isListItem\":true,\"string\":\"1980\",\"value\":1980},{\"isListItem\":true,\"string\":\"1984\",\"value\":1984},{\"isListItem\":true,\"string\":\"1988\",\"value\":1988},{\"isListItem\":true,\"string\":\"1992\",\"value\":1992},{\"isListItem\":true,\"string\":\"1996\",\"value\":1996},{\"isListItem\":true,\"string\":\"2000\",\"value\":2000},{\"isListItem\":true,\"string\":\"2004\",\"value\":2004},{\"isListItem\":true,\"string\":\"2008\",\"value\":2008},{\"isListItem\":true,\"string\":\"2012\",\"value\":2012},{\"isListItem\":true,\"string\":\"2016\",\"value\":2016},{\"isListItem\":true,\"string\":\"2020\",\"value\":2020}],\"selection\":1956,\"isString\":false},\"morphIndex\":0,\"morphicProperties\":{\"rotation\":0,\"scale\":1,\"clipMode\":\"visible\",\"opacity\":1,\"position\":{\"x\":798.6666641235352,\"y\":865.3333511352539},\"extent\":{\"x\":160,\"y\":30},\"fill\":\"Color.white\",\"border\":{\"style\":{\"top\":\"solid\",\"left\":\"solid\",\"bottom\":\"solid\",\"right\":\"solid\"},\"width\":{\"left\":0,\"right\":0,\"top\":0,\"bottom\":0},\"color\":{\"top\":{\"r\":0.502,\"g\":0.502,\"b\":0.502,\"a\":1},\"left\":{\"r\":0.502,\"g\":0.502,\"b\":0.502,\"a\":1},\"right\":{\"r\":0.502,\"g\":0.502,\"b\":0.502,\"a\":1},\"bottom\":{\"r\":0.502,\"g\":0.502,\"b\":0.502,\"a\":1}},\"radius\":{\"topLeft\":10,\"topRight\":10,\"bottomRight\":10,\"bottomLeft\":10}},\"origin\":{\"x\":0,\"y\":0}}}},\"morphs\":[{\"type\":\"Image\",\"name\":\"anImage\",\"morphIndex\":7,\"morphicProperties\":{\"rotation\":0,\"scale\":1,\"clipMode\":\"auto\",\"opacity\":1,\"position\":{\"x\":1169.7875610351562,\"y\":197.90001525878907},\"extent\":{\"x\":191.9999999999999,\"y\":142.45159415444706},\"fill\":\"Color.white\",\"border\":{\"style\":{\"left\":\"solid\",\"right\":\"solid\",\"top\":\"solid\",\"bottom\":\"solid\"},\"width\":{\"left\":0,\"right\":0,\"top\":0,\"bottom\":0},\"color\":{\"top\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"left\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"right\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"bottom\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1}},\"radius\":{\"topLeft\":0,\"topRight\":0,\"bottomRight\":0,\"bottomLeft\":0}},\"origin\":{\"x\":0,\"y\":0}},\"imageUrl\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DemocraticLogo.svg/1200px-DemocraticLogo.svg.png\"},{\"type\":\"Image\",\"name\":\"anImage\",\"morphIndex\":8,\"morphicProperties\":{\"rotation\":0,\"scale\":1,\"clipMode\":\"auto\",\"opacity\":1,\"position\":{\"x\":1383.1208740234374,\"y\":208.56668701171876},\"extent\":{\"x\":150.66664123535156,\"y\":125.02125549316403},\"fill\":\"Color.white\",\"border\":{\"style\":{\"left\":\"solid\",\"right\":\"solid\",\"top\":\"solid\",\"bottom\":\"solid\"},\"width\":{\"left\":0,\"right\":0,\"top\":0,\"bottom\":0},\"color\":{\"top\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"left\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"right\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"bottom\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1}},\"radius\":{\"topLeft\":0,\"topRight\":0,\"bottomRight\":0,\"bottomLeft\":0}},\"origin\":{\"x\":0,\"y\":0}},\"imageUrl\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Republicanlogo.svg/1200px-Republicanlogo.svg.png\"},{\"type\":\"Image\",\"name\":\"anImage\",\"morphIndex\":9,\"morphicProperties\":{\"rotation\":0,\"scale\":1,\"clipMode\":\"auto\",\"opacity\":1,\"position\":{\"x\":1560.454248046875,\"y\":209.9},\"extent\":{\"x\":152.66665649414062,\"y\":128.20083869216836},\"fill\":\"Color.white\",\"border\":{\"style\":{\"left\":\"solid\",\"right\":\"solid\",\"top\":\"solid\",\"bottom\":\"solid\"},\"width\":{\"left\":0,\"right\":0,\"top\":0,\"bottom\":0},\"color\":{\"top\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"left\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"right\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"bottom\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1}},\"radius\":{\"topLeft\":0,\"topRight\":0,\"bottomRight\":0,\"bottomLeft\":0}},\"origin\":{\"x\":0,\"y\":0}},\"imageUrl\":\"https://upload.wikimedia.org/wikipedia/commons/b/b3/Progressive_Moose_walking.png\"},{\"type\":\"Image\",\"name\":\"anImage\",\"morphIndex\":10,\"morphicProperties\":{\"rotation\":0,\"scale\":1,\"clipMode\":\"auto\",\"opacity\":1,\"position\":{\"x\":188.45417175292968,\"y\":43.23333587646485},\"extent\":{\"x\":236.0000152587891,\"y\":168.00000762939453},\"fill\":\"Color.white\",\"border\":{\"style\":{\"left\":\"solid\",\"right\":\"solid\",\"top\":\"solid\",\"bottom\":\"solid\"},\"width\":{\"left\":0,\"right\":0,\"top\":0,\"bottom\":0},\"color\":{\"top\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"left\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"right\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1},\"bottom\":{\"r\":0.0902,\"g\":0.6275,\"b\":0.9843,\"a\":1}},\"radius\":{\"topLeft\":0,\"topRight\":0,\"bottomRight\":0,\"bottomLeft\":0}},\"origin\":{\"x\":0,\"y\":0}},\"imageUrl\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/200px-Seal_of_the_President_of_the_United_States.svg.png\"}],\"numMorphs\":11}"
+{
+  "fill": "Color.white",
+  "tables": {
+    "rick.mcgeer@engagelively.com/aggregate_cy.sdml": {
+      "columns": [
+        {
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "name": "country",
+          "type": "string"
+        },
+        {
+          "name": "count",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/aggregate_cy.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/aggregate_cym.sdml": {
+      "columns": [
+        {
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "name": "month",
+          "type": "number"
+        },
+        {
+          "name": "country",
+          "type": "string"
+        },
+        {
+          "name": "count",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/aggregate_cym.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/aggregate_cyt.sdml": {
+      "columns": [
+        {
+          "name": "country",
+          "type": "string"
+        },
+        {
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "name": "count",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/aggregate_cyt.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/aggregate_sy.sdml": {
+      "columns": [
+        {
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "name": "state",
+          "type": "string"
+        },
+        {
+          "name": "count",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/aggregate_sy.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/aggregate_sym.sdml": {
+      "columns": [
+        {
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "name": "month",
+          "type": "number"
+        },
+        {
+          "name": "state",
+          "type": "string"
+        },
+        {
+          "name": "count",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/aggregate_sym.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/aggregate_syt.sdml": {
+      "columns": [
+        {
+          "name": "state",
+          "type": "string"
+        },
+        {
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "name": "count",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/aggregate_syt.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/electoral_college.sdml": {
+      "columns": [
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Democratic",
+          "type": "number"
+        },
+        {
+          "name": "Republican",
+          "type": "number"
+        },
+        {
+          "name": "Other",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/electoral_college.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/history.sdml": {
+      "columns": [
+        {
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "name": "state",
+          "type": "string"
+        },
+        {
+          "name": "special",
+          "type": "boolean"
+        },
+        {
+          "name": "REPUBLICAN",
+          "type": "number"
+        },
+        {
+          "name": "DEMOCRAT",
+          "type": "number"
+        },
+        {
+          "name": "LIBERTARIAN",
+          "type": "number"
+        },
+        {
+          "name": "OTHER",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/history.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/margin.sdml": {
+      "columns": [
+        {
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "name": "state",
+          "type": "string"
+        },
+        {
+          "name": "special",
+          "type": "boolean"
+        },
+        {
+          "name": "margin",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/margin.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/nationwide_vote.sdml": {
+      "columns": [
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Party",
+          "type": "string"
+        },
+        {
+          "name": "Percentage",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/nationwide_vote.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/nightingale.sdml": {
+      "columns": [
+        {
+          "name": "month",
+          "type": "number"
+        },
+        {
+          "name": "Date",
+          "type": "date"
+        },
+        {
+          "name": "Month",
+          "type": "string"
+        },
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Army",
+          "type": "number"
+        },
+        {
+          "name": "Disease",
+          "type": "number"
+        },
+        {
+          "name": "Wounds",
+          "type": "number"
+        },
+        {
+          "name": "Other",
+          "type": "number"
+        },
+        {
+          "name": "Disease_rate",
+          "type": "number"
+        },
+        {
+          "name": "Wounds_rate",
+          "type": "number"
+        },
+        {
+          "name": "Other_rate",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/nightingale.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/presidential_margins.sdml": {
+      "columns": [
+        {
+          "name": "State",
+          "type": "string"
+        },
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Margin",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/presidential_margins.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/presidential_vote.sdml": {
+      "columns": [
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "State",
+          "type": "string"
+        },
+        {
+          "name": "Name",
+          "type": "string"
+        },
+        {
+          "name": "Party",
+          "type": "string"
+        },
+        {
+          "name": "Votes",
+          "type": "number"
+        },
+        {
+          "name": "Percentage",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/presidential_vote.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/presidential_vote_history.sdml": {
+      "columns": [
+        {
+          "name": "State",
+          "type": "string"
+        },
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Democratic",
+          "type": "number"
+        },
+        {
+          "name": "Republican",
+          "type": "number"
+        },
+        {
+          "name": "Progressive",
+          "type": "number"
+        },
+        {
+          "name": "Socialist",
+          "type": "number"
+        },
+        {
+          "name": "Reform",
+          "type": "number"
+        },
+        {
+          "name": "Other",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/presidential_vote_history.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/records.sdml": {
+      "columns": [
+        {
+          "name": "month",
+          "type": "number"
+        },
+        {
+          "name": "cause",
+          "type": "string"
+        },
+        {
+          "name": "deaths",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/records.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/senate-control.sdml": {
+      "columns": [
+        {
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "name": "Republican Before",
+          "type": "number"
+        },
+        {
+          "name": "Democratic Before",
+          "type": "number"
+        },
+        {
+          "name": "Other Before ",
+          "type": "number"
+        },
+        {
+          "name": "Republican After",
+          "type": "number"
+        },
+        {
+          "name": "Democratic After",
+          "type": "number"
+        },
+        {
+          "name": "Other After",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/senate-control.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/senate_vote.sdml": {
+      "columns": [
+        {
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "name": "state",
+          "type": "string"
+        },
+        {
+          "name": "special",
+          "type": "boolean"
+        },
+        {
+          "name": "candidate",
+          "type": "string"
+        },
+        {
+          "name": "party_simplified",
+          "type": "string"
+        },
+        {
+          "name": "candidatevotes",
+          "type": "number"
+        },
+        {
+          "name": "totalvotes",
+          "type": "number"
+        },
+        {
+          "name": "percentage",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/senate_vote.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/summary.sdml": {
+      "columns": [
+        {
+          "name": "army_size",
+          "type": "number"
+        },
+        {
+          "name": "disease",
+          "type": "number"
+        },
+        {
+          "name": "wounds",
+          "type": "number"
+        },
+        {
+          "name": "other",
+          "type": "number"
+        },
+        {
+          "name": "month",
+          "type": "number"
+        },
+        {
+          "name": "total",
+          "type": "number"
+        },
+        {
+          "name": "disease_pct",
+          "type": "number"
+        },
+        {
+          "name": "wounds_pct",
+          "type": "number"
+        },
+        {
+          "name": "other_pct",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/summary.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/test.sdml": {
+      "columns": [
+        {
+          "name": "month",
+          "type": "number"
+        },
+        {
+          "name": "cause",
+          "type": "string"
+        },
+        {
+          "name": "deaths",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/test.sdml"
+      }
+    },
+    "rick.mcgeer@engagelively.com/ufos.sdml": {
+      "columns": [
+        {
+          "name": "date",
+          "type": "number"
+        },
+        {
+          "name": "month",
+          "type": "number"
+        },
+        {
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "name": "timeofday",
+          "type": "string"
+        },
+        {
+          "name": "country",
+          "type": "string"
+        },
+        {
+          "name": "state",
+          "type": "string"
+        },
+        {
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "name": "duration",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick.mcgeer@engagelively.com/ufos.sdml"
+      }
+    },
+    "rick/electoral_college.sdml": {
+      "columns": [
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Democratic",
+          "type": "number"
+        },
+        {
+          "name": "Republican",
+          "type": "number"
+        },
+        {
+          "name": "Other",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick/electoral_college.sdml"
+      }
+    },
+    "rick/nightingale.sdml": {
+      "columns": [
+        {
+          "name": "Month_number",
+          "type": "number"
+        },
+        {
+          "name": "Date",
+          "type": "date"
+        },
+        {
+          "name": "Month",
+          "type": "string"
+        },
+        {
+          "name": "Year",
+          "type": "number"
+        },
+        {
+          "name": "Army",
+          "type": "number"
+        },
+        {
+          "name": "Disease",
+          "type": "number"
+        },
+        {
+          "name": "Wounds",
+          "type": "number"
+        },
+        {
+          "name": "Other",
+          "type": "number"
+        },
+        {
+          "name": "Disease_rate",
+          "type": "number"
+        },
+        {
+          "name": "Wounds_rate",
+          "type": "number"
+        },
+        {
+          "name": "Other_rate",
+          "type": "number"
+        }
+      ],
+      "connector": {
+        "url": "https://galyleokct-free.engagelively.com/services/galyleo",
+        "remoteName": "tables/rick/nightingale.sdml"
+      }
+    }
+  },
+  "views": {
+    "Margin": {
+      "table": "rick.mcgeer@engagelively.com/presidential_margins.sdml",
+      "columns": [
+        "State",
+        "Margin"
+      ],
+      "filterNames": [
+        "YearFilter"
+      ]
+    },
+    "CandidateVotes": {
+      "table": "rick.mcgeer@engagelively.com/presidential_vote.sdml",
+      "columns": [
+        "Name",
+        "Votes"
+      ],
+      "filterNames": [
+        "YearFilter",
+        "Margin"
+      ]
+    },
+    "PctvParty": {
+      "table": "rick.mcgeer@engagelively.com/presidential_vote.sdml",
+      "columns": [
+        "Party",
+        "Percentage"
+      ],
+      "filterNames": [
+        "YearFilter",
+        "Margin"
+      ]
+    },
+    "PctVote": {
+      "table": "rick.mcgeer@engagelively.com/nationwide_vote.sdml",
+      "columns": [
+        "Party",
+        "Percentage"
+      ],
+      "filterNames": [
+        "YearFilter"
+      ]
+    },
+    "VoteHistory": {
+      "table": "rick.mcgeer@engagelively.com/presidential_vote_history.sdml",
+      "columns": [
+        "Year",
+        "Democratic",
+        "Republican",
+        "Progressive",
+        "Socialist",
+        "Reform",
+        "Other"
+      ],
+      "filterNames": [
+        "Margin"
+      ]
+    },
+    "ECFor year": {
+      "table": "rick.mcgeer@engagelively.com/electoral_college.sdml",
+      "columns": [
+        "Democratic",
+        "Republican",
+        "Other"
+      ],
+      "filterNames": [
+        "YearFilter"
+      ]
+    }
+  },
+  "charts": {
+    "Margin": {
+      "chartType": "GeoChart",
+      "options": {
+        "hAxis": {
+          "useFormatFromData": true,
+          "viewWindow": {
+            "max": null,
+            "min": null
+          },
+          "minValue": null,
+          "maxValue": null
+        },
+        "legacyScatterChartLabels": true,
+        "vAxes": [
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          }
+        ],
+        "displayMode": "regions",
+        "booleanRole": "certainty",
+        "colors": [
+          "#DC3912",
+          "#ffffff",
+          "#0000ff"
+        ],
+        "defaultColor": "#000000",
+        "width": "100%",
+        "height": "100%",
+        "datalessRegionColor": "#000000",
+        "region": "US",
+        "resolution": "provinces",
+        "title": "Margin v State where Year = 1956"
+      },
+      "viewOrTable": "Margin",
+      "morphIndex": 1,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 668,
+          "y": 496.0000190734863
+        },
+        "extent": {
+          "x": 420,
+          "y": 330
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "CandidateVotes": {
+      "chartType": "ColumnChart",
+      "options": {
+        "hAxis": {
+          "useFormatFromData": true,
+          "viewWindow": null,
+          "minValue": null,
+          "maxValue": null,
+          "viewWindowMode": null
+        },
+        "legacyScatterChartLabels": true,
+        "vAxes": [
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          }
+        ],
+        "isStacked": false,
+        "booleanRole": "certainty",
+        "legend": "right",
+        "width": "100%",
+        "height": "100%",
+        "title": "Votes v Name where Year = 1956, State = Colorado"
+      },
+      "viewOrTable": "CandidateVotes",
+      "morphIndex": 2,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 148,
+          "y": 237.33333206176758
+        },
+        "extent": {
+          "x": 420,
+          "y": 330
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "PctvParty": {
+      "chartType": "BarChart",
+      "options": {
+        "legacyScatterChartLabels": true,
+        "isStacked": false,
+        "booleanRole": "certainty",
+        "vAxes": [
+          {
+            "minValue": null,
+            "maxValue": null,
+            "viewWindow": null,
+            "viewWindowMode": null,
+            "useFormatFromData": true
+          },
+          {
+            "useFormatFromData": true
+          }
+        ],
+        "hAxis": {
+          "viewWindow": {
+            "max": null,
+            "min": null
+          },
+          "minValue": null,
+          "maxValue": null,
+          "useFormatFromData": true
+        },
+        "legend": "right",
+        "width": "100%",
+        "height": "100%",
+        "title": "Percentage v Party where Year = 1956, State = Colorado"
+      },
+      "viewOrTable": "PctvParty",
+      "morphIndex": 3,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 152,
+          "y": 560.0000381469727
+        },
+        "extent": {
+          "x": 420,
+          "y": 330
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "PctVote": {
+      "chartType": "PieChart",
+      "options": {
+        "hAxis": {
+          "useFormatFromData": true,
+          "viewWindow": {
+            "max": null,
+            "min": null
+          },
+          "minValue": null,
+          "maxValue": null
+        },
+        "legacyScatterChartLabels": true,
+        "vAxes": [
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          }
+        ],
+        "is3D": false,
+        "pieHole": 0,
+        "booleanRole": "certainty",
+        "width": "100%",
+        "height": "100%",
+        "title": "Percentage v Party where Year = 1956"
+      },
+      "viewOrTable": "PctVote",
+      "morphIndex": 4,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 630.6666259765625,
+          "y": 289.3333435058594
+        },
+        "extent": {
+          "x": 420,
+          "y": 251.33331298828125
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "VoteHistory": {
+      "chartType": "LineChart",
+      "options": {
+        "hAxis": {
+          "useFormatFromData": true,
+          "viewWindow": {
+            "max": null,
+            "min": null
+          },
+          "minValue": null,
+          "maxValue": null
+        },
+        "legacyScatterChartLabels": true,
+        "vAxes": [
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          }
+        ],
+        "curveType": "",
+        "booleanRole": "certainty",
+        "lineWidth": 2,
+        "legend": "right",
+        "width": "100%",
+        "height": "100%",
+        "useFirstColumnAsDomain": true,
+        "title": "VoteHistory where State = Colorado"
+      },
+      "viewOrTable": "VoteHistory",
+      "morphIndex": 5,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 1136.0000305175781,
+          "y": 532
+        },
+        "extent": {
+          "x": 642.6666259765625,
+          "y": 330
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    "ECForYear": {
+      "chartType": "Gauge",
+      "options": {
+        "hAxis": {
+          "useFormatFromData": true,
+          "viewWindow": {
+            "max": null,
+            "min": null
+          },
+          "minValue": null,
+          "maxValue": null
+        },
+        "legacyScatterChartLabels": true,
+        "vAxes": [
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "useFormatFromData": true,
+            "viewWindow": {
+              "max": null,
+              "min": null
+            },
+            "minValue": null,
+            "maxValue": null
+          }
+        ],
+        "booleanRole": "certainty",
+        "width": "100%",
+        "height": "100%",
+        "title": "Republican, Other v Democratic where Year = 1956"
+      },
+      "viewOrTable": "ECFor year",
+      "morphIndex": 6,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 1188.0000610351562,
+          "y": 350.6666717529297
+        },
+        "extent": {
+          "x": 544,
+          "y": 198
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "left": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "right": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "bottom": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    }
+  },
+  "filters": {
+    "YearFilter": {
+      "savedForm": {
+        "part": {
+          "moduleId": "engageLively--galyleo-dashboard/studio/filters.cp.js",
+          "exportedName": "SelectFilter",
+          "range": {
+            "start": 43841,
+            "end": 44048
+          }
+        },
+        "filterType": "Select",
+        "columnName": "Year",
+        "tableName": "rick.mcgeer@engagelively.com/presidential_vote_history.sdml",
+        "choices": [
+          {
+            "isListItem": true,
+            "string": "1828",
+            "value": 1828
+          },
+          {
+            "isListItem": true,
+            "string": "1832",
+            "value": 1832
+          },
+          {
+            "isListItem": true,
+            "string": "1836",
+            "value": 1836
+          },
+          {
+            "isListItem": true,
+            "string": "1840",
+            "value": 1840
+          },
+          {
+            "isListItem": true,
+            "string": "1844",
+            "value": 1844
+          },
+          {
+            "isListItem": true,
+            "string": "1848",
+            "value": 1848
+          },
+          {
+            "isListItem": true,
+            "string": "1852",
+            "value": 1852
+          },
+          {
+            "isListItem": true,
+            "string": "1854",
+            "value": 1854
+          },
+          {
+            "isListItem": true,
+            "string": "1855",
+            "value": 1855
+          },
+          {
+            "isListItem": true,
+            "string": "1856",
+            "value": 1856
+          },
+          {
+            "isListItem": true,
+            "string": "1860",
+            "value": 1860
+          },
+          {
+            "isListItem": true,
+            "string": "1864",
+            "value": 1864
+          },
+          {
+            "isListItem": true,
+            "string": "1868",
+            "value": 1868
+          },
+          {
+            "isListItem": true,
+            "string": "1872",
+            "value": 1872
+          },
+          {
+            "isListItem": true,
+            "string": "1876",
+            "value": 1876
+          },
+          {
+            "isListItem": true,
+            "string": "1880",
+            "value": 1880
+          },
+          {
+            "isListItem": true,
+            "string": "1884",
+            "value": 1884
+          },
+          {
+            "isListItem": true,
+            "string": "1888",
+            "value": 1888
+          },
+          {
+            "isListItem": true,
+            "string": "1892",
+            "value": 1892
+          },
+          {
+            "isListItem": true,
+            "string": "1896",
+            "value": 1896
+          },
+          {
+            "isListItem": true,
+            "string": "1900",
+            "value": 1900
+          },
+          {
+            "isListItem": true,
+            "string": "1904",
+            "value": 1904
+          },
+          {
+            "isListItem": true,
+            "string": "1908",
+            "value": 1908
+          },
+          {
+            "isListItem": true,
+            "string": "1912",
+            "value": 1912
+          },
+          {
+            "isListItem": true,
+            "string": "1916",
+            "value": 1916
+          },
+          {
+            "isListItem": true,
+            "string": "1920",
+            "value": 1920
+          },
+          {
+            "isListItem": true,
+            "string": "1924",
+            "value": 1924
+          },
+          {
+            "isListItem": true,
+            "string": "1928",
+            "value": 1928
+          },
+          {
+            "isListItem": true,
+            "string": "1932",
+            "value": 1932
+          },
+          {
+            "isListItem": true,
+            "string": "1936",
+            "value": 1936
+          },
+          {
+            "isListItem": true,
+            "string": "1940",
+            "value": 1940
+          },
+          {
+            "isListItem": true,
+            "string": "1944",
+            "value": 1944
+          },
+          {
+            "isListItem": true,
+            "string": "1948",
+            "value": 1948
+          },
+          {
+            "isListItem": true,
+            "string": "1952",
+            "value": 1952
+          },
+          {
+            "isListItem": true,
+            "string": "1956",
+            "value": 1956
+          },
+          {
+            "isListItem": true,
+            "string": "1960",
+            "value": 1960
+          },
+          {
+            "isListItem": true,
+            "string": "1964",
+            "value": 1964
+          },
+          {
+            "isListItem": true,
+            "string": "1968",
+            "value": 1968
+          },
+          {
+            "isListItem": true,
+            "string": "1972",
+            "value": 1972
+          },
+          {
+            "isListItem": true,
+            "string": "1976",
+            "value": 1976
+          },
+          {
+            "isListItem": true,
+            "string": "1980",
+            "value": 1980
+          },
+          {
+            "isListItem": true,
+            "string": "1984",
+            "value": 1984
+          },
+          {
+            "isListItem": true,
+            "string": "1988",
+            "value": 1988
+          },
+          {
+            "isListItem": true,
+            "string": "1992",
+            "value": 1992
+          },
+          {
+            "isListItem": true,
+            "string": "1996",
+            "value": 1996
+          },
+          {
+            "isListItem": true,
+            "string": "2000",
+            "value": 2000
+          },
+          {
+            "isListItem": true,
+            "string": "2004",
+            "value": 2004
+          },
+          {
+            "isListItem": true,
+            "string": "2008",
+            "value": 2008
+          },
+          {
+            "isListItem": true,
+            "string": "2012",
+            "value": 2012
+          },
+          {
+            "isListItem": true,
+            "string": "2016",
+            "value": 2016
+          },
+          {
+            "isListItem": true,
+            "string": "2020",
+            "value": 2020
+          }
+        ],
+        "selection": 1956,
+        "isString": false
+      },
+      "morphIndex": 0,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "visible",
+        "opacity": 1,
+        "position": {
+          "x": 798.6666641235352,
+          "y": 865.3333511352539
+        },
+        "extent": {
+          "x": 160,
+          "y": 30
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "top": "solid",
+            "left": "solid",
+            "bottom": "solid",
+            "right": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            },
+            "left": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            },
+            "right": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            },
+            "bottom": {
+              "r": 0.502,
+              "g": 0.502,
+              "b": 0.502,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 10,
+            "topRight": 10,
+            "bottomRight": 10,
+            "bottomLeft": 10
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    }
+  },
+  "morphs": [
+    {
+      "type": "Image",
+      "name": "anImage",
+      "morphIndex": 7,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "auto",
+        "opacity": 1,
+        "position": {
+          "x": 1169.7875610351562,
+          "y": 197.90001525878907
+        },
+        "extent": {
+          "x": 191.9999999999999,
+          "y": 142.45159415444706
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "left": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "right": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "bottom": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/DemocraticLogo.svg"
+    },
+    {
+      "type": "Image",
+      "name": "anImage",
+      "morphIndex": 8,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "auto",
+        "opacity": 1,
+        "position": {
+          "x": 1383.1208740234374,
+          "y": 208.56668701171876
+        },
+        "extent": {
+          "x": 150.66664123535156,
+          "y": 125.02125549316403
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "left": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "right": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "bottom": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Republicanlogo.svg"
+    },
+    {
+      "type": "Image",
+      "name": "anImage",
+      "morphIndex": 9,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "auto",
+        "opacity": 1,
+        "position": {
+          "x": 1560.454248046875,
+          "y": 209.9
+        },
+        "extent": {
+          "x": 152.66665649414062,
+          "y": 128.20083869216836
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "left": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "right": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "bottom": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Progressive_Moose_walking.png"
+    },
+    {
+      "type": "Image",
+      "name": "anImage",
+      "morphIndex": 10,
+      "morphicProperties": {
+        "rotation": 0,
+        "scale": 1,
+        "clipMode": "auto",
+        "opacity": 1,
+        "position": {
+          "x": 188.45417175292968,
+          "y": 43.23333587646485
+        },
+        "extent": {
+          "x": 236.0000152587891,
+          "y": 168.00000762939453
+        },
+        "fill": "Color.white",
+        "border": {
+          "style": {
+            "left": "solid",
+            "right": "solid",
+            "top": "solid",
+            "bottom": "solid"
+          },
+          "width": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "color": {
+            "top": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "left": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "right": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            },
+            "bottom": {
+              "r": 0.0902,
+              "g": 0.6275,
+              "b": 0.9843,
+              "a": 1
+            }
+          },
+          "radius": {
+            "topLeft": 0,
+            "topRight": 0,
+            "bottomRight": 0,
+            "bottomLeft": 0
+          }
+        },
+        "origin": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Seal_of_the_President_of_the_United_States.svg"
+    }
+  ],
+  "numMorphs": 11
+}
