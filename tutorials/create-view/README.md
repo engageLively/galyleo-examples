@@ -39,15 +39,17 @@ Click on "Add view" to add a view, and get the View Creation popup:
 
 Choose "ufos-cy" as the table, and choose a view name.  To avoid name collisions, a view cannot have the same name as a table.  Once a name is chosen, click "Create". The View will appear in the Views list, and the View Editor popup will appear.
 
-![View Editor 1](images/init-reorder.png)
-
 The order of columns in a view is very important; the first column defines the Category, or X axis in most charts.  Click on the pen icon in the top right to go into reorder mode.
 
-![View Editor 2](images/move-columns.png)
+![View Editor 1](images/init-reorder.png)
 
 The icons beside the columns turn into hamburgers and the mouse turns into a grab.  Use the mouse to reorder columns with "country" on top and "count" next, then click the reorder icon again to go back into select mode
 
-![View Selection](images/selection.png)
+
+![View Editor 2](images/move-columns.png)
 
 Select the "country" and "count" columns, and select the "YearFilter" slider widget, then "Update View".  The View now has two columns -- country and count -- and will show the data for the year selected by the YearFilter widget.
+
+![View Selection](images/selection.png)
+
 
