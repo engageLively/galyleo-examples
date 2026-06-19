@@ -27,7 +27,7 @@ As with the create-view tutorial, ufos.gd.json is the Dashboard we've prepared w
 
 ![Initial Chart image](images/create-chart-1.png)
 
-Click on the chart tab and click on "Add chart".
+Click on the Charts tab and click on "Add chart".
 
 ![Add Chart](images/add-chart.png)
 
