@@ -31,7 +31,7 @@ Click on "Filters" to bring up the filters tab, then click on "Add Filter".  The
 
 ![Filter Dialog](images/filter-dialog-new.png)
 
-When you click Create, the widget appears in the top-left and the filter name appears in the filter list.  A gear button next to the filter lets you edit it.
+When you click "Create", the widget appears in the top-left and the filter name appears in the filter list.  A gear button next to the filter lets you edit it.
 
 ![Filter UI](images/filter-ui.png)
 
