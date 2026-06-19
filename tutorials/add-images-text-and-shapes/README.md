@@ -3,9 +3,9 @@
 # Tutorial 7: Adding Images, Text, and Shapes to Your Dashboard
 
 Dashboards need (and look better with) explanatory images, text, and shapes.  In this tutorial, we'll show you how to add
-images, texts, and shapes to a dashboard, and how to configure them.  This involves changing an object's  size, shape, border, color.  Images are changed by changing the image's source URL.  Text elements have settable string and font propertties.
+images, texts, and shapes to a dashboard, and how to configure them.  This involves changing an object's  size, shape, border, color.  Images are changed by changing the image's source URL.  Text elements have settable string and font properties.
 
-It should be noted that there are a wide range of properties for images, text, and shapes -- particularly text.  In the interest of brevity, this tutorial won't be inclusive.  A comprehensive guide is given in the [User Guide](https://galyleo-user-docs.readthedocs.io/en/latest/userguide.html).
+It should be noted that there are a wide range of properties for images, text, and shapes: particularly text.  In the interest of brevity, this tutorial won't be inclusive.  A comprehensive guide is given in the [User Guide](https://galyleo-user-docs.readthedocs.io/en/latest/userguide.html).
 
 # What You'll Learn
 
@@ -26,7 +26,7 @@ It should be noted that there are a wide range of properties for images, text, a
 
 # Instructions
 
-The dashboard developed previously is in this directory, in the file ufos.gd.json.  Open it up: it will look like this:
+The dashboard developed previously is in this directory, in the file ufos.gd.json.  Open it up.  It will look like this:
 
 ![Initial dashboard](images/init-dashboard.png)
 
