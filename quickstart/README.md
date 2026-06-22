@@ -32,7 +32,7 @@ Red "delete" buttons will appear to the left of each table:
 
 <img src = images/dashboard_tables_done.png width = 800>
 
-5.  Click on the Filter Tab and click the "Add Filter" Button to bring up the Filter Dialog, choose "rick.mcgeer@engagelively.com/nightingale.sdml" as the table,  choose "month" as the column, "doubleSlider" as the Filter type,  and make the name "MonthFilter".
+5.  Click on the Filter Tab and click the "Add Filter" button to bring up the Filter Dialog, choose "rick.mcgeer@engagelively.com/nightingale.sdml" as the table,  choose "month" as the column, "doubleSlider" as the Filter type,  and make the name "MonthFilter".
 
 <img src = images/filter_dialog.png width = 800>
 
@@ -40,7 +40,7 @@ Red "delete" buttons will appear to the left of each table:
 
 <img src = images/filter_shot.png width = 800>
 
-7.  Click on the Views Tab and click on the "Add View" Button.  A View Builder Dialog pops up.  Choose "rick.mcgeer@engagelively.com/nightingale.sdml" as the Table, type in "SummaryMonth" as the View name, click "Create View".
+7.  Click on the Views Tab and click on the "Add View" bbutton.  A View Builder Dialog pops up.  Choose "rick.mcgeer@engagelively.com/nightingale.sdml" as the Table, type in "SummaryMonth" as the View name, click "Create View".
 
 <img src = images/view_dialog_1.png width = 800>
 
@@ -48,7 +48,7 @@ Red "delete" buttons will appear to the left of each table:
 
 <img src = images/view_editor_1.png width = 800>
 
-9. Click on the Charts Tab and Click on the Add Chart Button.  A Chart Builder Dialog pops up. Select "SummaryMonth" from the dropdown as the data source for the chart, and type "SummaryMonth" as the name of the chart as well (you can pick any name that isn't the name of another Chart or a Filter, but picking the same name as the View helps you keep them straight).   Click Create.
+9. Click on the Charts Tab and Click on the Add Chart button.  A Chart Builder Dialog pops up. Select "SummaryMonth" from the dropdown as the data source for the chart, and type "SummaryMonth" as the name of the chart as well (you can pick any name that isn't the name of another Chart or a Filter, but picking the same name as the View helps you keep them straight).   Click Create.
 
 <img src = images/chart_dialog.png width = 800>
 
@@ -66,7 +66,7 @@ Red "delete" buttons will appear to the left of each table:
 
 <img src = images/view_editor_2.png width = 800>
 
-14. Click on the Charts Tab and Click on the Add Chart Button.  Select "MonthDetail" from the dropdown as the data source for the chart, and type "MonthDetail" as the name of the chart as well.   Click Create chart.
+14. Click on the Charts Tab and Click on the Add Chart nutton.  Select "MonthDetail" from the dropdown as the data source for the chart, and type "MonthDetail" as the name of the chart as well.   Click Create chart.
 
 <img src = images/chart_dialog2.png width = 800>
 
