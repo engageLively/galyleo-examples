@@ -43,7 +43,7 @@ The order of columns in a view is very important; the first column defines the C
 
 ![View Editor 1](images/init-reorder.png)
 
-The icons beside the columns turn into hamburgers and the mouse turns into a grab.  Use the mouse to reorder columns with "country" on top and "count" next, then click the reorder icon again to go back into select mode
+The icons beside the columns turn into hamburgers and the mouse turns into a grab.  Use the mouse to reorder columns with "country" on top and "count" next, then click the reorder icon again to go back into select mode.
 
 
 ![View Editor 2](images/move-columns.png)
