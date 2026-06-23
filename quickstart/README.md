@@ -32,7 +32,7 @@ Red "delete" buttons will appear to the left of each table:
 
 <img src = images/dashboard_tables_done.png width = 800>
 
-5.  Click on the Filter Tab and click the "Add Filter" button to bring up the Filter Dialog, choose "rick.mcgeer@engagelively.com/nightingale.sdml" as the table,  choose "month" as the column, "doubleSlider" as the Filter type,  and make the name "MonthFilter".
+5.  Click on the Filter Tab and click the "Add Filter" button to bring up the Filter dialog, choose "rick.mcgeer@engagelively.com/nightingale.sdml" as the table,  choose "month" as the column, "doubleSlider" as the Filter type,  and make the name "MonthFilter".
 
 <img src = images/filter_dialog.png width = 800>
 
